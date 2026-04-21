@@ -1,0 +1,12 @@
+title,artist,composer,genre,massFunction,liturgicalTime,source,hasAudio,duration
+"Glória a Deus nas Alturas","Ministério de Música Paroquial","Tradicional",louvor,gloria,comum,Palco MP3,true,240
+"Aleluia, Aleluia","Coro da Catedral","Pe. Zezinho",louvor,comunhao,pascoa,Palco MP3,true,200
+"Vinde Celebrar","Ensemble Vocal Católico","Tradicional",coral,entrada,comum,Palco MP3,true,180
+"Senhor, Tende Piedade","Coro Paroquial","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,150
+"Pão da Vida","Ensemble Litúrgico","Tradicional",liturgica,comunhao,comum,Liturgia.pt,true,240
+"Santo, Santo, Santo","Coro da Catedral","Tradicional",liturgica,santo,comum,Liturgia.pt,true,200
+"O Vem, Vem, Emanuel","Coral Tradicional","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,220
+"Noite Feliz","Coro Paroquial","Tradicional",liturgica,entrada,natal,Musicanaliturgia,true,180
+"Salve Rainha","Ensemble Vocal","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,240
+"Instrumental Contemplativo","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,300
+"Coral Gregoriano","Pixabay Music","Tradicional",liturgica,salmo,comum,Pixabay,true,180

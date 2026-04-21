@@ -1,0 +1,4010 @@
+{
+  "query": "SELECT id, title, artist, massMoment, liturgicalTime, isPublic FROM songs LIMIT 500;",
+  "command": "mysql --batch --raw --column-names --default-character-set=utf8mb4 --host gateway02.us-east-1.prod.aws.tidbcloud.com --port 4000 --user gDaDZFVakt6NV9S.4c7ea4282de9 --database SQHJGPFJeGtHi4ZtSV5v4R --execute SELECT id, title, artist, massMoment, liturgicalTime, isPublic FROM songs LIMIT 500;",
+  "rows": [
+    {
+      "id": "60041",
+      "title": "A Alegria Está no Coração",
+      "artist": "Comunidade Católica",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60042",
+      "title": "Celebrai com Júbilo ao Senhor",
+      "artist": "Coral Paroquial",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60043",
+      "title": "Cantai ao Senhor um Canto Novo",
+      "artist": "Grupo Vocal",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60044",
+      "title": "Vamos Todos Louvar",
+      "artist": "Cantores Católicos",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60045",
+      "title": "Exulte de Alegria",
+      "artist": "Comunidade de Fé",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60046",
+      "title": "Bendirei o Senhor",
+      "artist": "Coral Católico",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60047",
+      "title": "Louvarei a Deus",
+      "artist": "Grupo de Louvor",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60048",
+      "title": "Glória a Deus nas Alturas",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "entrada",
+      "liturgicalTime": "natal",
+      "isPublic": "1"
+    },
+    {
+      "id": "60049",
+      "title": "Este é o Dia que o Senhor Fez",
+      "artist": "Comunidade Católica",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60050",
+      "title": "Jubilosos Vos Adoramos",
+      "artist": "Coral Paroquial",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60051",
+      "title": "Cantemos ao Senhor",
+      "artist": "Grupo Vocal Católico",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60052",
+      "title": "Louvai ao Senhor",
+      "artist": "Cantores de Fé",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60053",
+      "title": "Ao Rei dos Reis Consagro Tudo",
+      "artist": "Coral Católico",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60054",
+      "title": "Deus Está Aqui",
+      "artist": "Comunidade de Louvor",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60055",
+      "title": "Alegre Cantai",
+      "artist": "Grupo de Oração",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60056",
+      "title": "Santo é o Senhor",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60057",
+      "title": "Vamos Celebrar",
+      "artist": "Coral Paroquial",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60058",
+      "title": "Aclame ao Senhor",
+      "artist": "Comunidade Católica",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60059",
+      "title": "Vinde Cantemos",
+      "artist": "Grupo Vocal",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60060",
+      "title": "Glorificai o Senhor",
+      "artist": "Cantores Católicos",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60061",
+      "title": "Senhor, Me Chamaste",
+      "artist": "Comunidade de Fé",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60062",
+      "title": "Eis-me Aqui Senhor",
+      "artist": "Coral Católico",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60063",
+      "title": "Tu Me Chamaste",
+      "artist": "Grupo de Louvor",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60064",
+      "title": "Vem e Segue-me",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60065",
+      "title": "Ide Pelo Mundo",
+      "artist": "Comunidade Católica",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60066",
+      "title": "Chamado para Amar",
+      "artist": "Coral Paroquial",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60067",
+      "title": "Aqui Estou",
+      "artist": "Grupo Vocal Católico",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60068",
+      "title": "A Quem Iremos Senhor",
+      "artist": "Cantores de Fé",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60069",
+      "title": "Eu Te Seguirei",
+      "artist": "Comunidade de Louvor",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60070",
+      "title": "Segue-me",
+      "artist": "Coral Católico",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60071",
+      "title": "Vocação de Amar",
+      "artist": "Grupo de Oração",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60072",
+      "title": "Vem Caminhar",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60073",
+      "title": "Caminharei",
+      "artist": "Comunidade Católica",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60074",
+      "title": "Caminho, Verdade e Vida",
+      "artist": "Coral Paroquial",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60075",
+      "title": "Senhor Conta Comigo",
+      "artist": "Grupo Vocal",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60076",
+      "title": "Levanta-te",
+      "artist": "Cantores Católicos",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60077",
+      "title": "Eis o Servo do Senhor",
+      "artist": "Comunidade de Fé",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60078",
+      "title": "Vai Trabalhar Pelo Mundo",
+      "artist": "Coral Católico",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60079",
+      "title": "Envia-me Senhor",
+      "artist": "Grupo de Louvor",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60080",
+      "title": "Missão de Amar",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60081",
+      "title": "Eis o Tempo de Conversão",
+      "artist": "Comunidade Católica",
+      "massMoment": "entrada",
+      "liturgicalTime": "quaresma",
+      "isPublic": "1"
+    },
+    {
+      "id": "60082",
+      "title": "Senhor, Quem Entrará",
+      "artist": "Coral Paroquial",
+      "massMoment": "entrada",
+      "liturgicalTime": "quaresma",
+      "isPublic": "1"
+    },
+    {
+      "id": "60083",
+      "title": "Perdoa-me Senhor",
+      "artist": "Cantores Católicos",
+      "massMoment": "entrada",
+      "liturgicalTime": "quaresma",
+      "isPublic": "1"
+    },
+    {
+      "id": "60084",
+      "title": "Cria em Mim um Coração Puro",
+      "artist": "Comunidade de Fé",
+      "massMoment": "entrada",
+      "liturgicalTime": "quaresma",
+      "isPublic": "1"
+    },
+    {
+      "id": "60085",
+      "title": "Senhor Tende Piedade",
+      "artist": "Coral Católico",
+      "massMoment": "entrada",
+      "liturgicalTime": "quaresma",
+      "isPublic": "1"
+    },
+    {
+      "id": "60086",
+      "title": "Volta Pra Casa",
+      "artist": "Grupo de Louvor",
+      "massMoment": "entrada",
+      "liturgicalTime": "quaresma",
+      "isPublic": "1"
+    },
+    {
+      "id": "60087",
+      "title": "Restaura-me Senhor",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "entrada",
+      "liturgicalTime": "quaresma",
+      "isPublic": "1"
+    },
+    {
+      "id": "60088",
+      "title": "Misericórdia Senhor",
+      "artist": "Comunidade Católica",
+      "massMoment": "entrada",
+      "liturgicalTime": "quaresma",
+      "isPublic": "1"
+    },
+    {
+      "id": "60089",
+      "title": "Reconciliai-vos",
+      "artist": "Coral Paroquial",
+      "massMoment": "entrada",
+      "liturgicalTime": "quaresma",
+      "isPublic": "1"
+    },
+    {
+      "id": "60090",
+      "title": "Convertei-vos",
+      "artist": "Grupo Vocal Católico",
+      "massMoment": "entrada",
+      "liturgicalTime": "quaresma",
+      "isPublic": "1"
+    },
+    {
+      "id": "60091",
+      "title": "Ó Pai, Criai em Mim",
+      "artist": "Cantores de Fé",
+      "massMoment": "entrada",
+      "liturgicalTime": "quaresma",
+      "isPublic": "1"
+    },
+    {
+      "id": "60092",
+      "title": "Tempo de Mudança",
+      "artist": "Comunidade de Louvor",
+      "massMoment": "entrada",
+      "liturgicalTime": "quaresma",
+      "isPublic": "1"
+    },
+    {
+      "id": "60093",
+      "title": "Arrependei-vos",
+      "artist": "Coral Católico",
+      "massMoment": "entrada",
+      "liturgicalTime": "quaresma",
+      "isPublic": "1"
+    },
+    {
+      "id": "60094",
+      "title": "Senhor Tem Piedade",
+      "artist": "Grupo de Oração",
+      "massMoment": "entrada",
+      "liturgicalTime": "quaresma",
+      "isPublic": "1"
+    },
+    {
+      "id": "60095",
+      "title": "Renovai-me Senhor",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "entrada",
+      "liturgicalTime": "quaresma",
+      "isPublic": "1"
+    },
+    {
+      "id": "60096",
+      "title": "Muda Meu Coração",
+      "artist": "Comunidade Católica",
+      "massMoment": "entrada",
+      "liturgicalTime": "quaresma",
+      "isPublic": "1"
+    },
+    {
+      "id": "60097",
+      "title": "Deixa Tudo e Segue-me",
+      "artist": "Coral Paroquial",
+      "massMoment": "entrada",
+      "liturgicalTime": "quaresma",
+      "isPublic": "1"
+    },
+    {
+      "id": "60098",
+      "title": "Renascimento",
+      "artist": "Grupo Vocal",
+      "massMoment": "entrada",
+      "liturgicalTime": "quaresma",
+      "isPublic": "1"
+    },
+    {
+      "id": "60099",
+      "title": "Volta para Casa",
+      "artist": "Cantores Católicos",
+      "massMoment": "entrada",
+      "liturgicalTime": "quaresma",
+      "isPublic": "1"
+    },
+    {
+      "id": "60100",
+      "title": "Transformação",
+      "artist": "Comunidade de Fé",
+      "massMoment": "entrada",
+      "liturgicalTime": "quaresma",
+      "isPublic": "1"
+    },
+    {
+      "id": "60101",
+      "title": "Vem Senhor Jesus",
+      "artist": "Coral Católico",
+      "massMoment": "entrada",
+      "liturgicalTime": "advento",
+      "isPublic": "1"
+    },
+    {
+      "id": "60102",
+      "title": "Preparai o Caminho",
+      "artist": "Comunidade Católica",
+      "massMoment": "entrada",
+      "liturgicalTime": "advento",
+      "isPublic": "1"
+    },
+    {
+      "id": "60103",
+      "title": "Vigiai",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "entrada",
+      "liturgicalTime": "advento",
+      "isPublic": "1"
+    },
+    {
+      "id": "60104",
+      "title": "A Luz Virá",
+      "artist": "Grupo de Louvor",
+      "massMoment": "entrada",
+      "liturgicalTime": "advento",
+      "isPublic": "1"
+    },
+    {
+      "id": "60105",
+      "title": "O Senhor Vem",
+      "artist": "Coral Paroquial",
+      "massMoment": "entrada",
+      "liturgicalTime": "advento",
+      "isPublic": "1"
+    },
+    {
+      "id": "60106",
+      "title": "Vem Ó Senhor",
+      "artist": "Comunidade de Fé",
+      "massMoment": "entrada",
+      "liturgicalTime": "advento",
+      "isPublic": "1"
+    },
+    {
+      "id": "60107",
+      "title": "Esperando o Messias",
+      "artist": "Cantores Católicos",
+      "massMoment": "entrada",
+      "liturgicalTime": "advento",
+      "isPublic": "1"
+    },
+    {
+      "id": "60108",
+      "title": "Senhor Vem Nos Salvar",
+      "artist": "Grupo Vocal Católico",
+      "massMoment": "entrada",
+      "liturgicalTime": "advento",
+      "isPublic": "1"
+    },
+    {
+      "id": "60109",
+      "title": "Desperta Israel",
+      "artist": "Comunidade Católica",
+      "massMoment": "entrada",
+      "liturgicalTime": "advento",
+      "isPublic": "1"
+    },
+    {
+      "id": "60110",
+      "title": "Caminho de Esperança",
+      "artist": "Coral Católico",
+      "massMoment": "entrada",
+      "liturgicalTime": "advento",
+      "isPublic": "1"
+    },
+    {
+      "id": "60111",
+      "title": "Vem Espírito Santo",
+      "artist": "Cantores de Fé",
+      "massMoment": "entrada",
+      "liturgicalTime": "advento",
+      "isPublic": "1"
+    },
+    {
+      "id": "60112",
+      "title": "Esperança em Deus",
+      "artist": "Comunidade de Louvor",
+      "massMoment": "entrada",
+      "liturgicalTime": "advento",
+      "isPublic": "1"
+    },
+    {
+      "id": "60113",
+      "title": "Não Desista",
+      "artist": "Grupo de Oração",
+      "massMoment": "entrada",
+      "liturgicalTime": "advento",
+      "isPublic": "1"
+    },
+    {
+      "id": "60114",
+      "title": "Luz da Esperança",
+      "artist": "Coral Paroquial",
+      "massMoment": "entrada",
+      "liturgicalTime": "advento",
+      "isPublic": "1"
+    },
+    {
+      "id": "60115",
+      "title": "Confio em Ti",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "entrada",
+      "liturgicalTime": "advento",
+      "isPublic": "1"
+    },
+    {
+      "id": "60116",
+      "title": "Fé e Esperança",
+      "artist": "Comunidade Católica",
+      "massMoment": "entrada",
+      "liturgicalTime": "advento",
+      "isPublic": "1"
+    },
+    {
+      "id": "60117",
+      "title": "Sempre Há Esperança",
+      "artist": "Grupo Vocal",
+      "massMoment": "entrada",
+      "liturgicalTime": "advento",
+      "isPublic": "1"
+    },
+    {
+      "id": "60118",
+      "title": "Venceremos",
+      "artist": "Cantores Católicos",
+      "massMoment": "entrada",
+      "liturgicalTime": "advento",
+      "isPublic": "1"
+    },
+    {
+      "id": "60119",
+      "title": "Deus Nos Guia",
+      "artist": "Coral Católico",
+      "massMoment": "entrada",
+      "liturgicalTime": "advento",
+      "isPublic": "1"
+    },
+    {
+      "id": "60120",
+      "title": "Esperança Eterna",
+      "artist": "Comunidade de Fé",
+      "massMoment": "entrada",
+      "liturgicalTime": "advento",
+      "isPublic": "1"
+    },
+    {
+      "id": "60121",
+      "title": "Ressuscitou Aleluia",
+      "artist": "Coral Paroquial",
+      "massMoment": "entrada",
+      "liturgicalTime": "pascoa",
+      "isPublic": "1"
+    },
+    {
+      "id": "60122",
+      "title": "Cristo Vive",
+      "artist": "Comunidade Católica",
+      "massMoment": "entrada",
+      "liturgicalTime": "pascoa",
+      "isPublic": "1"
+    },
+    {
+      "id": "60123",
+      "title": "Aleluia o Senhor Ressuscitou",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "entrada",
+      "liturgicalTime": "pascoa",
+      "isPublic": "1"
+    },
+    {
+      "id": "60124",
+      "title": "Este é o Dia",
+      "artist": "Grupo de Louvor",
+      "massMoment": "entrada",
+      "liturgicalTime": "pascoa",
+      "isPublic": "1"
+    },
+    {
+      "id": "60125",
+      "title": "Vitória Tu Reinarás",
+      "artist": "Coral Católico",
+      "massMoment": "entrada",
+      "liturgicalTime": "pascoa",
+      "isPublic": "1"
+    },
+    {
+      "id": "60126",
+      "title": "Glória ao Cristo Vivo",
+      "artist": "Comunidade de Fé",
+      "massMoment": "entrada",
+      "liturgicalTime": "pascoa",
+      "isPublic": "1"
+    },
+    {
+      "id": "60127",
+      "title": "Jesus Ressuscitou",
+      "artist": "Cantores Católicos",
+      "massMoment": "entrada",
+      "liturgicalTime": "pascoa",
+      "isPublic": "1"
+    },
+    {
+      "id": "60128",
+      "title": "Aleluia Cantai",
+      "artist": "Grupo Vocal Católico",
+      "massMoment": "entrada",
+      "liturgicalTime": "pascoa",
+      "isPublic": "1"
+    },
+    {
+      "id": "60129",
+      "title": "Cristo Venceu",
+      "artist": "Comunidade Católica",
+      "massMoment": "entrada",
+      "liturgicalTime": "pascoa",
+      "isPublic": "1"
+    },
+    {
+      "id": "60130",
+      "title": "Ele Vive",
+      "artist": "Coral Paroquial",
+      "massMoment": "entrada",
+      "liturgicalTime": "pascoa",
+      "isPublic": "1"
+    },
+    {
+      "id": "60131",
+      "title": "Aleluia Senhor",
+      "artist": "Cantores de Fé",
+      "massMoment": "entrada",
+      "liturgicalTime": "pascoa",
+      "isPublic": "1"
+    },
+    {
+      "id": "60132",
+      "title": "Ressurreição",
+      "artist": "Comunidade de Louvor",
+      "massMoment": "entrada",
+      "liturgicalTime": "pascoa",
+      "isPublic": "1"
+    },
+    {
+      "id": "60133",
+      "title": "Vida Nova em Cristo",
+      "artist": "Grupo de Oração",
+      "massMoment": "entrada",
+      "liturgicalTime": "pascoa",
+      "isPublic": "1"
+    },
+    {
+      "id": "60134",
+      "title": "Triunfo de Cristo",
+      "artist": "Coral Católico",
+      "massMoment": "entrada",
+      "liturgicalTime": "pascoa",
+      "isPublic": "1"
+    },
+    {
+      "id": "60135",
+      "title": "Festa da Ressurreição",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "entrada",
+      "liturgicalTime": "pascoa",
+      "isPublic": "1"
+    },
+    {
+      "id": "60136",
+      "title": "Vitória Final",
+      "artist": "Comunidade Católica",
+      "massMoment": "entrada",
+      "liturgicalTime": "pascoa",
+      "isPublic": "1"
+    },
+    {
+      "id": "60137",
+      "title": "Cristo Ressuscitado",
+      "artist": "Grupo Vocal",
+      "massMoment": "entrada",
+      "liturgicalTime": "pascoa",
+      "isPublic": "1"
+    },
+    {
+      "id": "60138",
+      "title": "Aleluia Glória",
+      "artist": "Cantores Católicos",
+      "massMoment": "entrada",
+      "liturgicalTime": "pascoa",
+      "isPublic": "1"
+    },
+    {
+      "id": "60139",
+      "title": "Ressurreição Gloriosa",
+      "artist": "Coral Paroquial",
+      "massMoment": "entrada",
+      "liturgicalTime": "pascoa",
+      "isPublic": "1"
+    },
+    {
+      "id": "60140",
+      "title": "Vida Eterna",
+      "artist": "Comunidade de Fé",
+      "massMoment": "entrada",
+      "liturgicalTime": "pascoa",
+      "isPublic": "1"
+    },
+    {
+      "id": "60141",
+      "title": "Povo de Deus Foi Assim",
+      "artist": "Coral Católico",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60142",
+      "title": "Um Novo Sol Se Levanta",
+      "artist": "Comunidade Católica",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60143",
+      "title": "A Barca",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60144",
+      "title": "Senhor Se Tu Me Chamas",
+      "artist": "Grupo de Louvor",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60145",
+      "title": "Caminho do Senhor",
+      "artist": "Coral Paroquial",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60146",
+      "title": "Deus Caminha Conosco",
+      "artist": "Comunidade de Fé",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60147",
+      "title": "Somos Teu Povo",
+      "artist": "Cantores Católicos",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60148",
+      "title": "Vida Nova",
+      "artist": "Grupo Vocal Católico",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60149",
+      "title": "Senhor da Vida",
+      "artist": "Comunidade Católica",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60150",
+      "title": "Caminhada de Fé",
+      "artist": "Coral Católico",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60151",
+      "title": "Ofertamos Senhor",
+      "artist": "Comunidade Católica",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60152",
+      "title": "Recebe Senhor",
+      "artist": "Coral Paroquial",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60153",
+      "title": "Em Tuas Mãos",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60154",
+      "title": "Tudo Te Ofereço",
+      "artist": "Grupo de Louvor",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60155",
+      "title": "Te Oferecemos",
+      "artist": "Coral Católico",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60156",
+      "title": "Ofertas Simples",
+      "artist": "Comunidade de Fé",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60157",
+      "title": "Em Forma de Pão",
+      "artist": "Cantores Católicos",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60158",
+      "title": "Pão e Vinho Te Apresentamos",
+      "artist": "Grupo Vocal Católico",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60159",
+      "title": "Ofertório da Vida",
+      "artist": "Comunidade Católica",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60160",
+      "title": "Toma Senhor",
+      "artist": "Coral Paroquial",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60161",
+      "title": "Nossa Oferta",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60162",
+      "title": "Recebe Nossa Vida",
+      "artist": "Comunidade de Louvor",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60163",
+      "title": "Entrega Total",
+      "artist": "Grupo de Oração",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60164",
+      "title": "Senhor Aceita",
+      "artist": "Coral Católico",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60165",
+      "title": "Oferta de Amor",
+      "artist": "Cantores Católicos",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60166",
+      "title": "Em Tuas Mãos Senhor",
+      "artist": "Comunidade Católica",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60167",
+      "title": "Oferta Simples",
+      "artist": "Grupo Vocal",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60168",
+      "title": "Tudo é Teu Senhor",
+      "artist": "Coral Paroquial",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60169",
+      "title": "Entregamos Tudo",
+      "artist": "Cantores de Fé",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60170",
+      "title": "O Pão e o Vinho",
+      "artist": "Comunidade de Fé",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60171",
+      "title": "Prova de Amor Maior Não Há",
+      "artist": "Coral Católico",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "quaresma",
+      "isPublic": "1"
+    },
+    {
+      "id": "60172",
+      "title": "Um Coração para Amar",
+      "artist": "Comunidade Católica",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60173",
+      "title": "Amor Maior",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60174",
+      "title": "Vida em Oferta",
+      "artist": "Grupo de Louvor",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60175",
+      "title": "Cordeiro de Deus",
+      "artist": "Coral Paroquial",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60176",
+      "title": "Amor que Se Dá",
+      "artist": "Comunidade de Fé",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60177",
+      "title": "Doação Total",
+      "artist": "Cantores Católicos",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60178",
+      "title": "Vida Partilhada",
+      "artist": "Grupo Vocal Católico",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60179",
+      "title": "Amor sem Medida",
+      "artist": "Comunidade Católica",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60180",
+      "title": "Oferecer-se",
+      "artist": "Coral Católico",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60181",
+      "title": "Sacrifício de Louvor",
+      "artist": "Cantores de Fé",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60182",
+      "title": "Entrega de Si",
+      "artist": "Comunidade de Louvor",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60183",
+      "title": "Amor Crucificado",
+      "artist": "Grupo de Oração",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "quaresma",
+      "isPublic": "1"
+    },
+    {
+      "id": "60184",
+      "title": "Morte e Vida",
+      "artist": "Coral Paroquial",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "quaresma",
+      "isPublic": "1"
+    },
+    {
+      "id": "60185",
+      "title": "Paixão de Cristo",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "quaresma",
+      "isPublic": "1"
+    },
+    {
+      "id": "60186",
+      "title": "Amor Infinito",
+      "artist": "Comunidade Católica",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60187",
+      "title": "Redenção",
+      "artist": "Grupo Vocal",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60188",
+      "title": "Salvação em Cristo",
+      "artist": "Cantores Católicos",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60189",
+      "title": "Graça Divina",
+      "artist": "Coral Católico",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60190",
+      "title": "Misericórdia Infinita",
+      "artist": "Comunidade de Fé",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60191",
+      "title": "Bendito Sejas",
+      "artist": "Coral Paroquial",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60192",
+      "title": "Demos Graças",
+      "artist": "Comunidade Católica",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60193",
+      "title": "Graças Te Damos",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60194",
+      "title": "Tudo é Graça",
+      "artist": "Grupo de Louvor",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60195",
+      "title": "Gratidão Senhor",
+      "artist": "Coral Católico",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60196",
+      "title": "Louvor em Oferta",
+      "artist": "Comunidade de Fé",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60197",
+      "title": "Cântico de Gratidão",
+      "artist": "Cantores Católicos",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60198",
+      "title": "Ação de Graças",
+      "artist": "Grupo Vocal Católico",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60199",
+      "title": "Bendito És Tu Senhor",
+      "artist": "Comunidade Católica",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60200",
+      "title": "Graças ao Senhor",
+      "artist": "Coral Paroquial",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60201",
+      "title": "Obrigado Senhor",
+      "artist": "Cantores de Fé",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60202",
+      "title": "Gratidão Eterna",
+      "artist": "Comunidade de Louvor",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60203",
+      "title": "Reconhecimento",
+      "artist": "Grupo de Oração",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60204",
+      "title": "Louvor Eterno",
+      "artist": "Coral Católico",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60205",
+      "title": "Benção e Graça",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60206",
+      "title": "Deus Provedor",
+      "artist": "Comunidade Católica",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60207",
+      "title": "Generosidade Divina",
+      "artist": "Grupo Vocal",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60208",
+      "title": "Abundância",
+      "artist": "Cantores Católicos",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60209",
+      "title": "Bênção Contínua",
+      "artist": "Coral Paroquial",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60210",
+      "title": "Reconhecimento Eterno",
+      "artist": "Comunidade de Fé",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60211",
+      "title": "O Pão da Vida",
+      "artist": "Coral Católico",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60212",
+      "title": "Corpo e Sangue",
+      "artist": "Comunidade Católica",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60213",
+      "title": "Mistério da Fé",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60214",
+      "title": "Pão Consagrado",
+      "artist": "Grupo de Louvor",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60215",
+      "title": "Mesa do Senhor",
+      "artist": "Coral Paroquial",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60216",
+      "title": "Alimento Divino",
+      "artist": "Comunidade de Fé",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60217",
+      "title": "Sacramento de Amor",
+      "artist": "Cantores Católicos",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60218",
+      "title": "Ceia do Senhor",
+      "artist": "Grupo Vocal Católico",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60219",
+      "title": "Oferta Eucarística",
+      "artist": "Comunidade Católica",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60220",
+      "title": "Dom do Altar",
+      "artist": "Coral Católico",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60221",
+      "title": "Pão Vivo",
+      "artist": "Cantores de Fé",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60222",
+      "title": "Sangue Precioso",
+      "artist": "Comunidade de Louvor",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60223",
+      "title": "Banquete Sagrado",
+      "artist": "Grupo de Oração",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60224",
+      "title": "Presença Real",
+      "artist": "Coral Paroquial",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60225",
+      "title": "Transubstanciação",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60226",
+      "title": "Corpo Místico",
+      "artist": "Comunidade Católica",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60227",
+      "title": "Pão Partido",
+      "artist": "Grupo Vocal",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60228",
+      "title": "Cálice da Salvação",
+      "artist": "Cantores Católicos",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60229",
+      "title": "Refeição Sagrada",
+      "artist": "Coral Católico",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60230",
+      "title": "Comunhão Perfeita",
+      "artist": "Comunidade de Fé",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60231",
+      "title": "Pão da Vida",
+      "artist": "Coral Paroquial",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60232",
+      "title": "Eu Sou o Pão Vivo",
+      "artist": "Comunidade Católica",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60233",
+      "title": "Quem Come Minha Carne",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60234",
+      "title": "Vem Senhor Jesus",
+      "artist": "Grupo de Louvor",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60235",
+      "title": "Corpo de Cristo",
+      "artist": "Coral Católico",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60236",
+      "title": "Sangue de Cristo",
+      "artist": "Comunidade de Fé",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60237",
+      "title": "Alimento de Vida",
+      "artist": "Cantores Católicos",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60238",
+      "title": "Mesa do Senhor",
+      "artist": "Grupo Vocal Católico",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60239",
+      "title": "Eu Sou o Pão",
+      "artist": "Comunidade Católica",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60240",
+      "title": "Quem Beber do Cálice",
+      "artist": "Coral Paroquial",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60241",
+      "title": "Pão Vivo Descido do Céu",
+      "artist": "Cantores de Fé",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60242",
+      "title": "Comunhão Perfeita",
+      "artist": "Comunidade de Louvor",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60243",
+      "title": "Sacramento de Amor",
+      "artist": "Grupo de Oração",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60244",
+      "title": "Banquete do Senhor",
+      "artist": "Coral Católico",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60245",
+      "title": "Ceia do Amor",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60246",
+      "title": "Presença Viva",
+      "artist": "Comunidade Católica",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60247",
+      "title": "Pão Sagrado",
+      "artist": "Grupo Vocal",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60248",
+      "title": "Cálice de Salvação",
+      "artist": "Cantores Católicos",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60249",
+      "title": "Refeição Divina",
+      "artist": "Coral Paroquial",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60250",
+      "title": "Corpo Místico",
+      "artist": "Comunidade de Fé",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60251",
+      "title": "Quero Ficar Contigo",
+      "artist": "Coral Católico",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60252",
+      "title": "Em Tua Presença",
+      "artist": "Comunidade Católica",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60253",
+      "title": "Jesus Eu Confio em Vós",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60254",
+      "title": "Tu És o Centro",
+      "artist": "Grupo de Louvor",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60255",
+      "title": "Nada Te Turbe",
+      "artist": "Coral Paroquial",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60256",
+      "title": "Fica Comigo Senhor",
+      "artist": "Comunidade de Fé",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60257",
+      "title": "Meu Tudo",
+      "artist": "Cantores Católicos",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60258",
+      "title": "Adoro Te",
+      "artist": "Grupo Vocal Católico",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60259",
+      "title": "Senhor Eu Te Amo",
+      "artist": "Comunidade Católica",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60260",
+      "title": "Presença Real",
+      "artist": "Coral Católico",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60261",
+      "title": "Silêncio Sagrado",
+      "artist": "Cantores de Fé",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60262",
+      "title": "Olhar de Amor",
+      "artist": "Comunidade de Louvor",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60263",
+      "title": "Espírito de Adoração",
+      "artist": "Grupo de Oração",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60264",
+      "title": "No Silêncio",
+      "artist": "Coral Paroquial",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60265",
+      "title": "Contigo Senhor",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60266",
+      "title": "Contemplação",
+      "artist": "Comunidade Católica",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60267",
+      "title": "Meditação Sagrada",
+      "artist": "Grupo Vocal",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60268",
+      "title": "Oração Silenciosa",
+      "artist": "Cantores Católicos",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60269",
+      "title": "Encontro Divino",
+      "artist": "Coral Católico",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60270",
+      "title": "Intimidade com Deus",
+      "artist": "Comunidade de Fé",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60271",
+      "title": "Ninguém Te Ama Como Eu",
+      "artist": "Coral Paroquial",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60272",
+      "title": "Eu Vim Para Que Todos Tenham Vida",
+      "artist": "Comunidade Católica",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60273",
+      "title": "Prova de Amor",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60274",
+      "title": "Misericórdia Senhor",
+      "artist": "Grupo de Louvor",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60275",
+      "title": "Perdão Senhor",
+      "artist": "Coral Católico",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60276",
+      "title": "Amor Infinito",
+      "artist": "Comunidade de Fé",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60277",
+      "title": "Amor que Cura",
+      "artist": "Cantores Católicos",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60278",
+      "title": "Abraça-me",
+      "artist": "Grupo Vocal Católico",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60279",
+      "title": "Cura-me Senhor",
+      "artist": "Comunidade Católica",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60280",
+      "title": "Deus de Misericórdia",
+      "artist": "Coral Paroquial",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60281",
+      "title": "Compaixão Divina",
+      "artist": "Cantores de Fé",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60282",
+      "title": "Ternura do Pai",
+      "artist": "Comunidade de Louvor",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60283",
+      "title": "Perdão Infinito",
+      "artist": "Grupo de Oração",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60284",
+      "title": "Graça Transformadora",
+      "artist": "Coral Católico",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60285",
+      "title": "Redenção",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60286",
+      "title": "Salvação em Cristo",
+      "artist": "Comunidade Católica",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60287",
+      "title": "Amor Redentor",
+      "artist": "Grupo Vocal",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60288",
+      "title": "Graça Suficiente",
+      "artist": "Cantores Católicos",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60289",
+      "title": "Bondade Eterna",
+      "artist": "Coral Paroquial",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60290",
+      "title": "Amor Sem Fim",
+      "artist": "Comunidade de Fé",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60291",
+      "title": "Um Só Corpo",
+      "artist": "Coral Católico",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60292",
+      "title": "Somos Corpo de Cristo",
+      "artist": "Comunidade Católica",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60293",
+      "title": "Onde Reina o Amor",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60294",
+      "title": "Povo Eleito",
+      "artist": "Grupo de Louvor",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60295",
+      "title": "Igreja Viva",
+      "artist": "Coral Paroquial",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60296",
+      "title": "Corpo Santo",
+      "artist": "Comunidade de Fé",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60297",
+      "title": "Comunhão Fraterna",
+      "artist": "Cantores Católicos",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60298",
+      "title": "Unidos no Amor",
+      "artist": "Grupo Vocal Católico",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60299",
+      "title": "Família de Deus",
+      "artist": "Comunidade Católica",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60300",
+      "title": "Corpo Místico",
+      "artist": "Coral Católico",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60301",
+      "title": "Comunidade de Fé",
+      "artist": "Cantores de Fé",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60302",
+      "title": "Povo de Deus",
+      "artist": "Comunidade de Louvor",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60303",
+      "title": "Irmandade",
+      "artist": "Grupo de Oração",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60304",
+      "title": "Fraternidade",
+      "artist": "Coral Paroquial",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60305",
+      "title": "Comunhão Universal",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60306",
+      "title": "Povo Unido",
+      "artist": "Comunidade Católica",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60307",
+      "title": "Corpo Unificado",
+      "artist": "Grupo Vocal",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60308",
+      "title": "Comunidade Viva",
+      "artist": "Cantores Católicos",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60309",
+      "title": "Solidariedade",
+      "artist": "Coral Católico",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60310",
+      "title": "Comunhão Perfeita",
+      "artist": "Comunidade de Fé",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60311",
+      "title": "Segura na Mão de Deus",
+      "artist": "Coral Paroquial",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60312",
+      "title": "Confia em Mim",
+      "artist": "Comunidade Católica",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60313",
+      "title": "Espera no Senhor",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60314",
+      "title": "Nada Me Faltará",
+      "artist": "Grupo de Louvor",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60315",
+      "title": "Deus Cuida de Mim",
+      "artist": "Coral Católico",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60316",
+      "title": "Cura Senhor",
+      "artist": "Comunidade de Fé",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60317",
+      "title": "Restaura-me",
+      "artist": "Cantores Católicos",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60318",
+      "title": "Levanta-me",
+      "artist": "Grupo Vocal Católico",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60319",
+      "title": "Vida Nova em Cristo",
+      "artist": "Comunidade Católica",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60320",
+      "title": "Esperança Viva",
+      "artist": "Coral Paroquial",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60321",
+      "title": "Proteção Divina",
+      "artist": "Cantores de Fé",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60322",
+      "title": "Força no Senhor",
+      "artist": "Comunidade de Louvor",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60323",
+      "title": "Consolo Eterno",
+      "artist": "Grupo de Oração",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60324",
+      "title": "Paz Profunda",
+      "artist": "Coral Católico",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60325",
+      "title": "Renovação",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60326",
+      "title": "Transformação",
+      "artist": "Comunidade Católica",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60327",
+      "title": "Libertação",
+      "artist": "Grupo Vocal",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60328",
+      "title": "Vitória",
+      "artist": "Cantores Católicos",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60329",
+      "title": "Triunfo em Cristo",
+      "artist": "Coral Paroquial",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60330",
+      "title": "Esperança Eterna",
+      "artist": "Comunidade de Fé",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60331",
+      "title": "Ide Pelo Mundo",
+      "artist": "Coral Católico",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60332",
+      "title": "Vai Trabalhar Pelo Mundo",
+      "artist": "Comunidade Católica",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60333",
+      "title": "Envia-me Senhor",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60334",
+      "title": "Missão de Amar",
+      "artist": "Grupo de Louvor",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60335",
+      "title": "Levai a Palavra",
+      "artist": "Coral Paroquial",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60336",
+      "title": "Evangelizar",
+      "artist": "Comunidade de Fé",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60337",
+      "title": "Caminho da Missão",
+      "artist": "Cantores Católicos",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60338",
+      "title": "Servir com Amor",
+      "artist": "Grupo Vocal Católico",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60339",
+      "title": "Testemunhar",
+      "artist": "Comunidade Católica",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60340",
+      "title": "Anunciar",
+      "artist": "Coral Católico",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60341",
+      "title": "Proclamar",
+      "artist": "Cantores de Fé",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60342",
+      "title": "Levar a Fé",
+      "artist": "Comunidade de Louvor",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60343",
+      "title": "Transmitir",
+      "artist": "Grupo de Oração",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60344",
+      "title": "Disseminar",
+      "artist": "Coral Paroquial",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60345",
+      "title": "Compartilhar",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60346",
+      "title": "Propagar",
+      "artist": "Comunidade Católica",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60347",
+      "title": "Expandir",
+      "artist": "Grupo Vocal",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60348",
+      "title": "Crescer",
+      "artist": "Cantores Católicos",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60349",
+      "title": "Multiplicar",
+      "artist": "Coral Católico",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60350",
+      "title": "Transformar",
+      "artist": "Comunidade de Fé",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60351",
+      "title": "Vamos Celebrar",
+      "artist": "Coral Paroquial",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60352",
+      "title": "Cantai ao Senhor",
+      "artist": "Comunidade Católica",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60353",
+      "title": "Aleluia",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60354",
+      "title": "Festa do Senhor",
+      "artist": "Grupo de Louvor",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60355",
+      "title": "Celebração de Amor",
+      "artist": "Coral Católico",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60356",
+      "title": "Dia de Festa",
+      "artist": "Comunidade de Fé",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60357",
+      "title": "Louvor Final",
+      "artist": "Cantores Católicos",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60358",
+      "title": "Glória Final",
+      "artist": "Grupo Vocal Católico",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60359",
+      "title": "Ação de Graças Final",
+      "artist": "Comunidade Católica",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60360",
+      "title": "Exultai",
+      "artist": "Coral Paroquial",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60361",
+      "title": "Jubilo",
+      "artist": "Cantores de Fé",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60362",
+      "title": "Regozijo",
+      "artist": "Comunidade de Louvor",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60363",
+      "title": "Felicidade",
+      "artist": "Grupo de Oração",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60364",
+      "title": "Gozo",
+      "artist": "Coral Católico",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60365",
+      "title": "Contentamento",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60366",
+      "title": "Satisfação",
+      "artist": "Comunidade Católica",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60367",
+      "title": "Plenitude",
+      "artist": "Grupo Vocal",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60368",
+      "title": "Harmonia",
+      "artist": "Cantores Católicos",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60369",
+      "title": "Paz e Alegria",
+      "artist": "Coral Paroquial",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60370",
+      "title": "Bênção Final",
+      "artist": "Comunidade de Fé",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60371",
+      "title": "Maria de Nazaré",
+      "artist": "Coral Católico",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60372",
+      "title": "Salve Rainha",
+      "artist": "Comunidade Católica",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60373",
+      "title": "Mãe do Céu Morena",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60374",
+      "title": "Ave Maria",
+      "artist": "Grupo de Louvor",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60375",
+      "title": "Imaculada",
+      "artist": "Coral Paroquial",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60376",
+      "title": "Senhora Aparecida",
+      "artist": "Comunidade de Fé",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60377",
+      "title": "Rainha do Céu",
+      "artist": "Cantores Católicos",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60378",
+      "title": "Mãe de Deus",
+      "artist": "Grupo Vocal Católico",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60379",
+      "title": "Estrela da Manhã",
+      "artist": "Comunidade Católica",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60380",
+      "title": "Doce Mãe",
+      "artist": "Coral Católico",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60381",
+      "title": "Mãe Amorosa",
+      "artist": "Cantores de Fé",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60382",
+      "title": "Proteção Materna",
+      "artist": "Comunidade de Louvor",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60383",
+      "title": "Intercessora",
+      "artist": "Grupo de Oração",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60384",
+      "title": "Padroeira",
+      "artist": "Coral Paroquial",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60385",
+      "title": "Virgem Santíssima",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60386",
+      "title": "Mãe da Igreja",
+      "artist": "Comunidade Católica",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60387",
+      "title": "Rainha da Paz",
+      "artist": "Grupo Vocal",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60388",
+      "title": "Mãe de Misericórdia",
+      "artist": "Cantores Católicos",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60389",
+      "title": "Auxiliadora",
+      "artist": "Coral Católico",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60390",
+      "title": "Consoladora",
+      "artist": "Comunidade de Fé",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60391",
+      "title": "Glória a Deus",
+      "artist": "Coral Paroquial",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60392",
+      "title": "Louvor Eterno",
+      "artist": "Comunidade Católica",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60393",
+      "title": "Bendição Final",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60394",
+      "title": "Graças Finais",
+      "artist": "Grupo de Louvor",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60395",
+      "title": "Despedida Abençoada",
+      "artist": "Coral Católico",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60396",
+      "title": "Vão em Paz",
+      "artist": "Comunidade de Fé",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60397",
+      "title": "Que Deus Vos Abençoe",
+      "artist": "Cantores Católicos",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60398",
+      "title": "Até Breve Senhor",
+      "artist": "Grupo Vocal Católico",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60399",
+      "title": "Encontro Próximo",
+      "artist": "Comunidade Católica",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60400",
+      "title": "Abraço Final",
+      "artist": "Coral Paroquial",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60401",
+      "title": "Paz Seja Convosco",
+      "artist": "Cantores de Fé",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60402",
+      "title": "Benção Divina",
+      "artist": "Comunidade de Louvor",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60403",
+      "title": "Proteção do Altíssimo",
+      "artist": "Grupo de Oração",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60404",
+      "title": "Caminhem em Paz",
+      "artist": "Coral Católico",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60405",
+      "title": "Que Voltem com Alegria",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60406",
+      "title": "Até o Próximo Encontro",
+      "artist": "Comunidade Católica",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60407",
+      "title": "Deus Vos Acompanhe",
+      "artist": "Grupo Vocal",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60408",
+      "title": "Benção e Paz",
+      "artist": "Cantores Católicos",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60409",
+      "title": "Irmãos Adeus",
+      "artist": "Coral Paroquial",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60410",
+      "title": "Que Voltem em Breve",
+      "artist": "Comunidade de Fé",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60411",
+      "title": "Louvor Inicial",
+      "artist": "Coral Católico",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60412",
+      "title": "Bênção de Entrada",
+      "artist": "Comunidade Católica",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60413",
+      "title": "Acolhida Calorosa",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60414",
+      "title": "Bem-vindo Senhor",
+      "artist": "Grupo de Louvor",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60415",
+      "title": "Entrada Festiva",
+      "artist": "Coral Paroquial",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60416",
+      "title": "Recepção Divina",
+      "artist": "Comunidade de Fé",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60417",
+      "title": "Abertura Sagrada",
+      "artist": "Cantores Católicos",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60418",
+      "title": "Início Abençoado",
+      "artist": "Grupo Vocal Católico",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60419",
+      "title": "Porta Aberta",
+      "artist": "Comunidade Católica",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60420",
+      "title": "Caminho Iluminado",
+      "artist": "Coral Católico",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60421",
+      "title": "Chamado Inicial",
+      "artist": "Cantores de Fé",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60422",
+      "title": "Resposta ao Chamado",
+      "artist": "Comunidade de Louvor",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60423",
+      "title": "Vocação Presente",
+      "artist": "Grupo de Oração",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60424",
+      "title": "Escolha Sagrada",
+      "artist": "Coral Paroquial",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60425",
+      "title": "Convite Divino",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60426",
+      "title": "Sigo Teu Caminho",
+      "artist": "Comunidade Católica",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60427",
+      "title": "Prontidão",
+      "artist": "Grupo Vocal",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60428",
+      "title": "Disponibilidade Total",
+      "artist": "Cantores Católicos",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60429",
+      "title": "Obediência Amorosa",
+      "artist": "Coral Católico",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60430",
+      "title": "Fidelidade ao Chamado",
+      "artist": "Comunidade de Fé",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60431",
+      "title": "Oferta Pura",
+      "artist": "Coral Paroquial",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60432",
+      "title": "Entrega Sincera",
+      "artist": "Comunidade Católica",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60433",
+      "title": "Doação Generosa",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60434",
+      "title": "Presente Sagrado",
+      "artist": "Grupo de Louvor",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60435",
+      "title": "Oferenda Viva",
+      "artist": "Coral Católico",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60436",
+      "title": "Sacrifício Voluntário",
+      "artist": "Comunidade de Fé",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60437",
+      "title": "Entrega do Coração",
+      "artist": "Cantores Católicos",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60438",
+      "title": "Dedicação Plena",
+      "artist": "Grupo Vocal Católico",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60439",
+      "title": "Consagração",
+      "artist": "Comunidade Católica",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60440",
+      "title": "Oblação",
+      "artist": "Coral Paroquial",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60441",
+      "title": "Amor Sacrificial",
+      "artist": "Cantores de Fé",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60442",
+      "title": "Entrega Absoluta",
+      "artist": "Comunidade de Louvor",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60443",
+      "title": "Renúncia Amorosa",
+      "artist": "Grupo de Oração",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60444",
+      "title": "Morte e Ressurreição",
+      "artist": "Coral Católico",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60445",
+      "title": "Paixão Redentora",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60446",
+      "title": "Redenção Eterna",
+      "artist": "Comunidade Católica",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60447",
+      "title": "Salvação Conquistada",
+      "artist": "Grupo Vocal",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60448",
+      "title": "Vitória do Amor",
+      "artist": "Cantores Católicos",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60449",
+      "title": "Triunfo da Cruz",
+      "artist": "Coral Paroquial",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60450",
+      "title": "Glória da Redenção",
+      "artist": "Comunidade de Fé",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60451",
+      "title": "Encontro Íntimo",
+      "artist": "Coral Católico",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60452",
+      "title": "Presença Consoladora",
+      "artist": "Comunidade Católica",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60453",
+      "title": "Comunhão Profunda",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60454",
+      "title": "Unidade Perfeita",
+      "artist": "Grupo de Louvor",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60455",
+      "title": "Fusão Divina",
+      "artist": "Coral Paroquial",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60456",
+      "title": "Abraço Eterno",
+      "artist": "Comunidade de Fé",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60457",
+      "title": "Repouso em Deus",
+      "artist": "Cantores Católicos",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60458",
+      "title": "Paz Interior",
+      "artist": "Grupo Vocal Católico",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60459",
+      "title": "Serenidade Sagrada",
+      "artist": "Comunidade Católica",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60460",
+      "title": "Tranquilidade Divina",
+      "artist": "Coral Católico",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60461",
+      "title": "Cura Profunda",
+      "artist": "Cantores de Fé",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60462",
+      "title": "Restauração",
+      "artist": "Comunidade de Louvor",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60463",
+      "title": "Renovação Espiritual",
+      "artist": "Grupo de Oração",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60464",
+      "title": "Libertação Interior",
+      "artist": "Coral Paroquial",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60465",
+      "title": "Perdão Libertador",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60466",
+      "title": "Graça Redentora",
+      "artist": "Comunidade Católica",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60467",
+      "title": "Compaixão Infinita",
+      "artist": "Grupo Vocal",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60468",
+      "title": "Ternura Divina",
+      "artist": "Cantores Católicos",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60469",
+      "title": "Abraço do Pai",
+      "artist": "Coral Católico",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60470",
+      "title": "Volta para Casa",
+      "artist": "Comunidade de Fé",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60471",
+      "title": "Comunidade Unida",
+      "artist": "Coral Paroquial",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60472",
+      "title": "Povo Reunido",
+      "artist": "Comunidade Católica",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60473",
+      "title": "Corpo Vivo",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60474",
+      "title": "Comunhão Viva",
+      "artist": "Grupo de Louvor",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60475",
+      "title": "Irmandade Sagrada",
+      "artist": "Coral Católico",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60476",
+      "title": "Fraternidade Cristã",
+      "artist": "Comunidade de Fé",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60477",
+      "title": "Solidariedade Divina",
+      "artist": "Cantores Católicos",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60478",
+      "title": "Comunidade de Amor",
+      "artist": "Grupo Vocal Católico",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60479",
+      "title": "Povo Eleito de Deus",
+      "artist": "Comunidade Católica",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60480",
+      "title": "Corpo Unido em Cristo",
+      "artist": "Coral Paroquial",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60481",
+      "title": "Esperança Renovada",
+      "artist": "Cantores de Fé",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60482",
+      "title": "Fé Fortalecida",
+      "artist": "Comunidade de Louvor",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60483",
+      "title": "Confiança Plena",
+      "artist": "Grupo de Oração",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60484",
+      "title": "Segurança em Deus",
+      "artist": "Coral Católico",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60485",
+      "title": "Proteção Eterna",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60486",
+      "title": "Amparo Divino",
+      "artist": "Comunidade Católica",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60487",
+      "title": "Fortaleza no Senhor",
+      "artist": "Grupo Vocal",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60488",
+      "title": "Vitória Certa",
+      "artist": "Cantores Católicos",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60489",
+      "title": "Triunfo Garantido",
+      "artist": "Coral Paroquial",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60490",
+      "title": "Esperança Vencedora",
+      "artist": "Comunidade de Fé",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60491",
+      "title": "Envio com Bênção",
+      "artist": "Coral Católico",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60492",
+      "title": "Partida Sagrada",
+      "artist": "Comunidade Católica",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60493",
+      "title": "Missão Confirmada",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60494",
+      "title": "Envio Profético",
+      "artist": "Grupo de Louvor",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60495",
+      "title": "Comissão Divina",
+      "artist": "Coral Paroquial",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60496",
+      "title": "Tarefa Sagrada",
+      "artist": "Comunidade de Fé",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60497",
+      "title": "Obra do Espírito",
+      "artist": "Cantores Católicos",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60498",
+      "title": "Fruto Abundante",
+      "artist": "Grupo Vocal Católico",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60499",
+      "title": "Colheita Farta",
+      "artist": "Comunidade Católica",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60500",
+      "title": "Semeadura Fiel",
+      "artist": "Coral Católico",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60501",
+      "title": "Celebração Final",
+      "artist": "Cantores de Fé",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60502",
+      "title": "Festa Conclusiva",
+      "artist": "Comunidade de Louvor",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60503",
+      "title": "Júbilo Final",
+      "artist": "Grupo de Oração",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60504",
+      "title": "Alegria Completa",
+      "artist": "Coral Paroquial",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60505",
+      "title": "Satisfação Plena",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60506",
+      "title": "Plenitude Alcançada",
+      "artist": "Comunidade Católica",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60507",
+      "title": "Graças Infinitas",
+      "artist": "Grupo Vocal",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60508",
+      "title": "Louvor Perpétuo",
+      "artist": "Cantores Católicos",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60509",
+      "title": "Glória Eterna",
+      "artist": "Coral Católico",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60510",
+      "title": "Bênção Perpétua",
+      "artist": "Comunidade de Fé",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60511",
+      "title": "Mãe Protetora",
+      "artist": "Coral Paroquial",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60512",
+      "title": "Mãe da Graça",
+      "artist": "Comunidade Católica",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60513",
+      "title": "Mãe da Esperança",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60514",
+      "title": "Mãe da Paz",
+      "artist": "Grupo de Louvor",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60515",
+      "title": "Mãe Abencoada",
+      "artist": "Coral Católico",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60516",
+      "title": "Mãe Gloriosa",
+      "artist": "Comunidade de Fé",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60517",
+      "title": "Mãe Imaculada",
+      "artist": "Cantores Católicos",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60518",
+      "title": "Mãe Puríssima",
+      "artist": "Grupo Vocal Católico",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60519",
+      "title": "Mãe Santíssima",
+      "artist": "Comunidade Católica",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60520",
+      "title": "Mãe Bendita",
+      "artist": "Coral Paroquial",
+      "massMoment": "final",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60521",
+      "title": "Louvor Perpétuo",
+      "artist": "Coral Católico",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60522",
+      "title": "Glória Infinita",
+      "artist": "Comunidade Católica",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60523",
+      "title": "Benção Contínua",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60524",
+      "title": "Louvor Sem Fim",
+      "artist": "Grupo de Louvor",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60525",
+      "title": "Glória Sem Medida",
+      "artist": "Coral Paroquial",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60526",
+      "title": "Adoração Eterna",
+      "artist": "Comunidade de Fé",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60527",
+      "title": "Louvor Infinito",
+      "artist": "Cantores Católicos",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60528",
+      "title": "Glória Perpétua",
+      "artist": "Grupo Vocal Católico",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60529",
+      "title": "Benção Eterna",
+      "artist": "Comunidade Católica",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60530",
+      "title": "Louvor Constante",
+      "artist": "Coral Católico",
+      "massMoment": "entrada",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60531",
+      "title": "Oferta Consagrada",
+      "artist": "Cantores de Fé",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60532",
+      "title": "Dedicação Sagrada",
+      "artist": "Comunidade de Louvor",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60533",
+      "title": "Entrega Perfeita",
+      "artist": "Grupo de Oração",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60534",
+      "title": "Oblação Pura",
+      "artist": "Coral Paroquial",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60535",
+      "title": "Sacrifício Perfeito",
+      "artist": "Cantores Litúrgicos",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60536",
+      "title": "Redenção Completa",
+      "artist": "Comunidade Católica",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60537",
+      "title": "Salvação Perfeita",
+      "artist": "Grupo Vocal",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60538",
+      "title": "Amor Perfeito",
+      "artist": "Cantores Católicos",
+      "massMoment": "ofertorio",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60539",
+      "title": "Comunhão Sagrada",
+      "artist": "Coral Católico",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    },
+    {
+      "id": "60540",
+      "title": "Presença Eterna",
+      "artist": "Comunidade de Fé",
+      "massMoment": "comunhao",
+      "liturgicalTime": "comum",
+      "isPublic": "1"
+    }
+  ],
+  "messages": [],
+  "stdout": "id\ttitle\tartist\tmassMoment\tliturgicalTime\tisPublic\n60041\tA Alegria Está no Coração\tComunidade Católica\tentrada\tcomum\t1\n60042\tCelebrai com Júbilo ao Senhor\tCoral Paroquial\tentrada\tcomum\t1\n60043\tCantai ao Senhor um Canto Novo\tGrupo Vocal\tentrada\tcomum\t1\n60044\tVamos Todos Louvar\tCantores Católicos\tentrada\tcomum\t1\n60045\tExulte de Alegria\tComunidade de Fé\tentrada\tcomum\t1\n60046\tBendirei o Senhor\tCoral Católico\tentrada\tcomum\t1\n60047\tLouvarei a Deus\tGrupo de Louvor\tentrada\tcomum\t1\n60048\tGlória a Deus nas Alturas\tCantores Litúrgicos\tentrada\tnatal\t1\n60049\tEste é o Dia que o Senhor Fez\tComunidade Católica\tentrada\tcomum\t1\n60050\tJubilosos Vos Adoramos\tCoral Paroquial\tentrada\tcomum\t1\n60051\tCantemos ao Senhor\tGrupo Vocal Católico\tentrada\tcomum\t1\n60052\tLouvai ao Senhor\tCantores de Fé\tentrada\tcomum\t1\n60053\tAo Rei dos Reis Consagro Tudo\tCoral Católico\tentrada\tcomum\t1\n60054\tDeus Está Aqui\tComunidade de Louvor\tentrada\tcomum\t1\n60055\tAlegre Cantai\tGrupo de Oração\tentrada\tcomum\t1\n60056\tSanto é o Senhor\tCantores Litúrgicos\tentrada\tcomum\t1\n60057\tVamos Celebrar\tCoral Paroquial\tentrada\tcomum\t1\n60058\tAclame ao Senhor\tComunidade Católica\tentrada\tcomum\t1\n60059\tVinde Cantemos\tGrupo Vocal\tentrada\tcomum\t1\n60060\tGlorificai o Senhor\tCantores Católicos\tentrada\tcomum\t1\n60061\tSenhor, Me Chamaste\tComunidade de Fé\tentrada\tcomum\t1\n60062\tEis-me Aqui Senhor\tCoral Católico\tentrada\tcomum\t1\n60063\tTu Me Chamaste\tGrupo de Louvor\tentrada\tcomum\t1\n60064\tVem e Segue-me\tCantores Litúrgicos\tentrada\tcomum\t1\n60065\tIde Pelo Mundo\tComunidade Católica\tentrada\tcomum\t1\n60066\tChamado para Amar\tCoral Paroquial\tentrada\tcomum\t1\n60067\tAqui Estou\tGrupo Vocal Católico\tentrada\tcomum\t1\n60068\tA Quem Iremos Senhor\tCantores de Fé\tentrada\tcomum\t1\n60069\tEu Te Seguirei\tComunidade de Louvor\tentrada\tcomum\t1\n60070\tSegue-me\tCoral Católico\tentrada\tcomum\t1\n60071\tVocação de Amar\tGrupo de Oração\tentrada\tcomum\t1\n60072\tVem Caminhar\tCantores Litúrgicos\tentrada\tcomum\t1\n60073\tCaminharei\tComunidade Católica\tentrada\tcomum\t1\n60074\tCaminho, Verdade e Vida\tCoral Paroquial\tentrada\tcomum\t1\n60075\tSenhor Conta Comigo\tGrupo Vocal\tentrada\tcomum\t1\n60076\tLevanta-te\tCantores Católicos\tentrada\tcomum\t1\n60077\tEis o Servo do Senhor\tComunidade de Fé\tentrada\tcomum\t1\n60078\tVai Trabalhar Pelo Mundo\tCoral Católico\tentrada\tcomum\t1\n60079\tEnvia-me Senhor\tGrupo de Louvor\tentrada\tcomum\t1\n60080\tMissão de Amar\tCantores Litúrgicos\tentrada\tcomum\t1\n60081\tEis o Tempo de Conversão\tComunidade Católica\tentrada\tquaresma\t1\n60082\tSenhor, Quem Entrará\tCoral Paroquial\tentrada\tquaresma\t1\n60083\tPerdoa-me Senhor\tCantores Católicos\tentrada\tquaresma\t1\n60084\tCria em Mim um Coração Puro\tComunidade de Fé\tentrada\tquaresma\t1\n60085\tSenhor Tende Piedade\tCoral Católico\tentrada\tquaresma\t1\n60086\tVolta Pra Casa\tGrupo de Louvor\tentrada\tquaresma\t1\n60087\tRestaura-me Senhor\tCantores Litúrgicos\tentrada\tquaresma\t1\n60088\tMisericórdia Senhor\tComunidade Católica\tentrada\tquaresma\t1\n60089\tReconciliai-vos\tCoral Paroquial\tentrada\tquaresma\t1\n60090\tConvertei-vos\tGrupo Vocal Católico\tentrada\tquaresma\t1\n60091\tÓ Pai, Criai em Mim\tCantores de Fé\tentrada\tquaresma\t1\n60092\tTempo de Mudança\tComunidade de Louvor\tentrada\tquaresma\t1\n60093\tArrependei-vos\tCoral Católico\tentrada\tquaresma\t1\n60094\tSenhor Tem Piedade\tGrupo de Oração\tentrada\tquaresma\t1\n60095\tRenovai-me Senhor\tCantores Litúrgicos\tentrada\tquaresma\t1\n60096\tMuda Meu Coração\tComunidade Católica\tentrada\tquaresma\t1\n60097\tDeixa Tudo e Segue-me\tCoral Paroquial\tentrada\tquaresma\t1\n60098\tRenascimento\tGrupo Vocal\tentrada\tquaresma\t1\n60099\tVolta para Casa\tCantores Católicos\tentrada\tquaresma\t1\n60100\tTransformação\tComunidade de Fé\tentrada\tquaresma\t1\n60101\tVem Senhor Jesus\tCoral Católico\tentrada\tadvento\t1\n60102\tPreparai o Caminho\tComunidade Católica\tentrada\tadvento\t1\n60103\tVigiai\tCantores Litúrgicos\tentrada\tadvento\t1\n60104\tA Luz Virá\tGrupo de Louvor\tentrada\tadvento\t1\n60105\tO Senhor Vem\tCoral Paroquial\tentrada\tadvento\t1\n60106\tVem Ó Senhor\tComunidade de Fé\tentrada\tadvento\t1\n60107\tEsperando o Messias\tCantores Católicos\tentrada\tadvento\t1\n60108\tSenhor Vem Nos Salvar\tGrupo Vocal Católico\tentrada\tadvento\t1\n60109\tDesperta Israel\tComunidade Católica\tentrada\tadvento\t1\n60110\tCaminho de Esperança\tCoral Católico\tentrada\tadvento\t1\n60111\tVem Espírito Santo\tCantores de Fé\tentrada\tadvento\t1\n60112\tEsperança em Deus\tComunidade de Louvor\tentrada\tadvento\t1\n60113\tNão Desista\tGrupo de Oração\tentrada\tadvento\t1\n60114\tLuz da Esperança\tCoral Paroquial\tentrada\tadvento\t1\n60115\tConfio em Ti\tCantores Litúrgicos\tentrada\tadvento\t1\n60116\tFé e Esperança\tComunidade Católica\tentrada\tadvento\t1\n60117\tSempre Há Esperança\tGrupo Vocal\tentrada\tadvento\t1\n60118\tVenceremos\tCantores Católicos\tentrada\tadvento\t1\n60119\tDeus Nos Guia\tCoral Católico\tentrada\tadvento\t1\n60120\tEsperança Eterna\tComunidade de Fé\tentrada\tadvento\t1\n60121\tRessuscitou Aleluia\tCoral Paroquial\tentrada\tpascoa\t1\n60122\tCristo Vive\tComunidade Católica\tentrada\tpascoa\t1\n60123\tAleluia o Senhor Ressuscitou\tCantores Litúrgicos\tentrada\tpascoa\t1\n60124\tEste é o Dia\tGrupo de Louvor\tentrada\tpascoa\t1\n60125\tVitória Tu Reinarás\tCoral Católico\tentrada\tpascoa\t1\n60126\tGlória ao Cristo Vivo\tComunidade de Fé\tentrada\tpascoa\t1\n60127\tJesus Ressuscitou\tCantores Católicos\tentrada\tpascoa\t1\n60128\tAleluia Cantai\tGrupo Vocal Católico\tentrada\tpascoa\t1\n60129\tCristo Venceu\tComunidade Católica\tentrada\tpascoa\t1\n60130\tEle Vive\tCoral Paroquial\tentrada\tpascoa\t1\n60131\tAleluia Senhor\tCantores de Fé\tentrada\tpascoa\t1\n60132\tRessurreição\tComunidade de Louvor\tentrada\tpascoa\t1\n60133\tVida Nova em Cristo\tGrupo de Oração\tentrada\tpascoa\t1\n60134\tTriunfo de Cristo\tCoral Católico\tentrada\tpascoa\t1\n60135\tFesta da Ressurreição\tCantores Litúrgicos\tentrada\tpascoa\t1\n60136\tVitória Final\tComunidade Católica\tentrada\tpascoa\t1\n60137\tCristo Ressuscitado\tGrupo Vocal\tentrada\tpascoa\t1\n60138\tAleluia Glória\tCantores Católicos\tentrada\tpascoa\t1\n60139\tRessurreição Gloriosa\tCoral Paroquial\tentrada\tpascoa\t1\n60140\tVida Eterna\tComunidade de Fé\tentrada\tpascoa\t1\n60141\tPovo de Deus Foi Assim\tCoral Católico\tentrada\tcomum\t1\n60142\tUm Novo Sol Se Levanta\tComunidade Católica\tentrada\tcomum\t1\n60143\tA Barca\tCantores Litúrgicos\tentrada\tcomum\t1\n60144\tSenhor Se Tu Me Chamas\tGrupo de Louvor\tentrada\tcomum\t1\n60145\tCaminho do Senhor\tCoral Paroquial\tentrada\tcomum\t1\n60146\tDeus Caminha Conosco\tComunidade de Fé\tentrada\tcomum\t1\n60147\tSomos Teu Povo\tCantores Católicos\tentrada\tcomum\t1\n60148\tVida Nova\tGrupo Vocal Católico\tentrada\tcomum\t1\n60149\tSenhor da Vida\tComunidade Católica\tentrada\tcomum\t1\n60150\tCaminhada de Fé\tCoral Católico\tentrada\tcomum\t1\n60151\tOfertamos Senhor\tComunidade Católica\tofertorio\tcomum\t1\n60152\tRecebe Senhor\tCoral Paroquial\tofertorio\tcomum\t1\n60153\tEm Tuas Mãos\tCantores Litúrgicos\tofertorio\tcomum\t1\n60154\tTudo Te Ofereço\tGrupo de Louvor\tofertorio\tcomum\t1\n60155\tTe Oferecemos\tCoral Católico\tofertorio\tcomum\t1\n60156\tOfertas Simples\tComunidade de Fé\tofertorio\tcomum\t1\n60157\tEm Forma de Pão\tCantores Católicos\tofertorio\tcomum\t1\n60158\tPão e Vinho Te Apresentamos\tGrupo Vocal Católico\tofertorio\tcomum\t1\n60159\tOfertório da Vida\tComunidade Católica\tofertorio\tcomum\t1\n60160\tToma Senhor\tCoral Paroquial\tofertorio\tcomum\t1\n60161\tNossa Oferta\tCantores Litúrgicos\tofertorio\tcomum\t1\n60162\tRecebe Nossa Vida\tComunidade de Louvor\tofertorio\tcomum\t1\n60163\tEntrega Total\tGrupo de Oração\tofertorio\tcomum\t1\n60164\tSenhor Aceita\tCoral Católico\tofertorio\tcomum\t1\n60165\tOferta de Amor\tCantores Católicos\tofertorio\tcomum\t1\n60166\tEm Tuas Mãos Senhor\tComunidade Católica\tofertorio\tcomum\t1\n60167\tOferta Simples\tGrupo Vocal\tofertorio\tcomum\t1\n60168\tTudo é Teu Senhor\tCoral Paroquial\tofertorio\tcomum\t1\n60169\tEntregamos Tudo\tCantores de Fé\tofertorio\tcomum\t1\n60170\tO Pão e o Vinho\tComunidade de Fé\tofertorio\tcomum\t1\n60171\tProva de Amor Maior Não Há\tCoral Católico\tofertorio\tquaresma\t1\n60172\tUm Coração para Amar\tComunidade Católica\tofertorio\tcomum\t1\n60173\tAmor Maior\tCantores Litúrgicos\tofertorio\tcomum\t1\n60174\tVida em Oferta\tGrupo de Louvor\tofertorio\tcomum\t1\n60175\tCordeiro de Deus\tCoral Paroquial\tofertorio\tcomum\t1\n60176\tAmor que Se Dá\tComunidade de Fé\tofertorio\tcomum\t1\n60177\tDoação Total\tCantores Católicos\tofertorio\tcomum\t1\n60178\tVida Partilhada\tGrupo Vocal Católico\tofertorio\tcomum\t1\n60179\tAmor sem Medida\tComunidade Católica\tofertorio\tcomum\t1\n60180\tOferecer-se\tCoral Católico\tofertorio\tcomum\t1\n60181\tSacrifício de Louvor\tCantores de Fé\tofertorio\tcomum\t1\n60182\tEntrega de Si\tComunidade de Louvor\tofertorio\tcomum\t1\n60183\tAmor Crucificado\tGrupo de Oração\tofertorio\tquaresma\t1\n60184\tMorte e Vida\tCoral Paroquial\tofertorio\tquaresma\t1\n60185\tPaixão de Cristo\tCantores Litúrgicos\tofertorio\tquaresma\t1\n60186\tAmor Infinito\tComunidade Católica\tofertorio\tcomum\t1\n60187\tRedenção\tGrupo Vocal\tofertorio\tcomum\t1\n60188\tSalvação em Cristo\tCantores Católicos\tofertorio\tcomum\t1\n60189\tGraça Divina\tCoral Católico\tofertorio\tcomum\t1\n60190\tMisericórdia Infinita\tComunidade de Fé\tofertorio\tcomum\t1\n60191\tBendito Sejas\tCoral Paroquial\tofertorio\tcomum\t1\n60192\tDemos Graças\tComunidade Católica\tofertorio\tcomum\t1\n60193\tGraças Te Damos\tCantores Litúrgicos\tofertorio\tcomum\t1\n60194\tTudo é Graça\tGrupo de Louvor\tofertorio\tcomum\t1\n60195\tGratidão Senhor\tCoral Católico\tofertorio\tcomum\t1\n60196\tLouvor em Oferta\tComunidade de Fé\tofertorio\tcomum\t1\n60197\tCântico de Gratidão\tCantores Católicos\tofertorio\tcomum\t1\n60198\tAção de Graças\tGrupo Vocal Católico\tofertorio\tcomum\t1\n60199\tBendito És Tu Senhor\tComunidade Católica\tofertorio\tcomum\t1\n60200\tGraças ao Senhor\tCoral Paroquial\tofertorio\tcomum\t1\n60201\tObrigado Senhor\tCantores de Fé\tofertorio\tcomum\t1\n60202\tGratidão Eterna\tComunidade de Louvor\tofertorio\tcomum\t1\n60203\tReconhecimento\tGrupo de Oração\tofertorio\tcomum\t1\n60204\tLouvor Eterno\tCoral Católico\tofertorio\tcomum\t1\n60205\tBenção e Graça\tCantores Litúrgicos\tofertorio\tcomum\t1\n60206\tDeus Provedor\tComunidade Católica\tofertorio\tcomum\t1\n60207\tGenerosidade Divina\tGrupo Vocal\tofertorio\tcomum\t1\n60208\tAbundância\tCantores Católicos\tofertorio\tcomum\t1\n60209\tBênção Contínua\tCoral Paroquial\tofertorio\tcomum\t1\n60210\tReconhecimento Eterno\tComunidade de Fé\tofertorio\tcomum\t1\n60211\tO Pão da Vida\tCoral Católico\tofertorio\tcomum\t1\n60212\tCorpo e Sangue\tComunidade Católica\tofertorio\tcomum\t1\n60213\tMistério da Fé\tCantores Litúrgicos\tofertorio\tcomum\t1\n60214\tPão Consagrado\tGrupo de Louvor\tofertorio\tcomum\t1\n60215\tMesa do Senhor\tCoral Paroquial\tofertorio\tcomum\t1\n60216\tAlimento Divino\tComunidade de Fé\tofertorio\tcomum\t1\n60217\tSacramento de Amor\tCantores Católicos\tofertorio\tcomum\t1\n60218\tCeia do Senhor\tGrupo Vocal Católico\tofertorio\tcomum\t1\n60219\tOferta Eucarística\tComunidade Católica\tofertorio\tcomum\t1\n60220\tDom do Altar\tCoral Católico\tofertorio\tcomum\t1\n60221\tPão Vivo\tCantores de Fé\tofertorio\tcomum\t1\n60222\tSangue Precioso\tComunidade de Louvor\tofertorio\tcomum\t1\n60223\tBanquete Sagrado\tGrupo de Oração\tofertorio\tcomum\t1\n60224\tPresença Real\tCoral Paroquial\tofertorio\tcomum\t1\n60225\tTransubstanciação\tCantores Litúrgicos\tofertorio\tcomum\t1\n60226\tCorpo Místico\tComunidade Católica\tofertorio\tcomum\t1\n60227\tPão Partido\tGrupo Vocal\tofertorio\tcomum\t1\n60228\tCálice da Salvação\tCantores Católicos\tofertorio\tcomum\t1\n60229\tRefeição Sagrada\tCoral Católico\tofertorio\tcomum\t1\n60230\tComunhão Perfeita\tComunidade de Fé\tofertorio\tcomum\t1\n60231\tPão da Vida\tCoral Paroquial\tcomunhao\tcomum\t1\n60232\tEu Sou o Pão Vivo\tComunidade Católica\tcomunhao\tcomum\t1\n60233\tQuem Come Minha Carne\tCantores Litúrgicos\tcomunhao\tcomum\t1\n60234\tVem Senhor Jesus\tGrupo de Louvor\tcomunhao\tcomum\t1\n60235\tCorpo de Cristo\tCoral Católico\tcomunhao\tcomum\t1\n60236\tSangue de Cristo\tComunidade de Fé\tcomunhao\tcomum\t1\n60237\tAlimento de Vida\tCantores Católicos\tcomunhao\tcomum\t1\n60238\tMesa do Senhor\tGrupo Vocal Católico\tcomunhao\tcomum\t1\n60239\tEu Sou o Pão\tComunidade Católica\tcomunhao\tcomum\t1\n60240\tQuem Beber do Cálice\tCoral Paroquial\tcomunhao\tcomum\t1\n60241\tPão Vivo Descido do Céu\tCantores de Fé\tcomunhao\tcomum\t1\n60242\tComunhão Perfeita\tComunidade de Louvor\tcomunhao\tcomum\t1\n60243\tSacramento de Amor\tGrupo de Oração\tcomunhao\tcomum\t1\n60244\tBanquete do Senhor\tCoral Católico\tcomunhao\tcomum\t1\n60245\tCeia do Amor\tCantores Litúrgicos\tcomunhao\tcomum\t1\n60246\tPresença Viva\tComunidade Católica\tcomunhao\tcomum\t1\n60247\tPão Sagrado\tGrupo Vocal\tcomunhao\tcomum\t1\n60248\tCálice de Salvação\tCantores Católicos\tcomunhao\tcomum\t1\n60249\tRefeição Divina\tCoral Paroquial\tcomunhao\tcomum\t1\n60250\tCorpo Místico\tComunidade de Fé\tcomunhao\tcomum\t1\n60251\tQuero Ficar Contigo\tCoral Católico\tcomunhao\tcomum\t1\n60252\tEm Tua Presença\tComunidade Católica\tcomunhao\tcomum\t1\n60253\tJesus Eu Confio em Vós\tCantores Litúrgicos\tcomunhao\tcomum\t1\n60254\tTu És o Centro\tGrupo de Louvor\tcomunhao\tcomum\t1\n60255\tNada Te Turbe\tCoral Paroquial\tcomunhao\tcomum\t1\n60256\tFica Comigo Senhor\tComunidade de Fé\tcomunhao\tcomum\t1\n60257\tMeu Tudo\tCantores Católicos\tcomunhao\tcomum\t1\n60258\tAdoro Te\tGrupo Vocal Católico\tcomunhao\tcomum\t1\n60259\tSenhor Eu Te Amo\tComunidade Católica\tcomunhao\tcomum\t1\n60260\tPresença Real\tCoral Católico\tcomunhao\tcomum\t1\n60261\tSilêncio Sagrado\tCantores de Fé\tcomunhao\tcomum\t1\n60262\tOlhar de Amor\tComunidade de Louvor\tcomunhao\tcomum\t1\n60263\tEspírito de Adoração\tGrupo de Oração\tcomunhao\tcomum\t1\n60264\tNo Silêncio\tCoral Paroquial\tcomunhao\tcomum\t1\n60265\tContigo Senhor\tCantores Litúrgicos\tcomunhao\tcomum\t1\n60266\tContemplação\tComunidade Católica\tcomunhao\tcomum\t1\n60267\tMeditação Sagrada\tGrupo Vocal\tcomunhao\tcomum\t1\n60268\tOração Silenciosa\tCantores Católicos\tcomunhao\tcomum\t1\n60269\tEncontro Divino\tCoral Católico\tcomunhao\tcomum\t1\n60270\tIntimidade com Deus\tComunidade de Fé\tcomunhao\tcomum\t1\n60271\tNinguém Te Ama Como Eu\tCoral Paroquial\tcomunhao\tcomum\t1\n60272\tEu Vim Para Que Todos Tenham Vida\tComunidade Católica\tcomunhao\tcomum\t1\n60273\tProva de Amor\tCantores Litúrgicos\tcomunhao\tcomum\t1\n60274\tMisericórdia Senhor\tGrupo de Louvor\tcomunhao\tcomum\t1\n60275\tPerdão Senhor\tCoral Católico\tcomunhao\tcomum\t1\n60276\tAmor Infinito\tComunidade de Fé\tcomunhao\tcomum\t1\n60277\tAmor que Cura\tCantores Católicos\tcomunhao\tcomum\t1\n60278\tAbraça-me\tGrupo Vocal Católico\tcomunhao\tcomum\t1\n60279\tCura-me Senhor\tComunidade Católica\tcomunhao\tcomum\t1\n60280\tDeus de Misericórdia\tCoral Paroquial\tcomunhao\tcomum\t1\n60281\tCompaixão Divina\tCantores de Fé\tcomunhao\tcomum\t1\n60282\tTernura do Pai\tComunidade de Louvor\tcomunhao\tcomum\t1\n60283\tPerdão Infinito\tGrupo de Oração\tcomunhao\tcomum\t1\n60284\tGraça Transformadora\tCoral Católico\tcomunhao\tcomum\t1\n60285\tRedenção\tCantores Litúrgicos\tcomunhao\tcomum\t1\n60286\tSalvação em Cristo\tComunidade Católica\tcomunhao\tcomum\t1\n60287\tAmor Redentor\tGrupo Vocal\tcomunhao\tcomum\t1\n60288\tGraça Suficiente\tCantores Católicos\tcomunhao\tcomum\t1\n60289\tBondade Eterna\tCoral Paroquial\tcomunhao\tcomum\t1\n60290\tAmor Sem Fim\tComunidade de Fé\tcomunhao\tcomum\t1\n60291\tUm Só Corpo\tCoral Católico\tcomunhao\tcomum\t1\n60292\tSomos Corpo de Cristo\tComunidade Católica\tcomunhao\tcomum\t1\n60293\tOnde Reina o Amor\tCantores Litúrgicos\tcomunhao\tcomum\t1\n60294\tPovo Eleito\tGrupo de Louvor\tcomunhao\tcomum\t1\n60295\tIgreja Viva\tCoral Paroquial\tcomunhao\tcomum\t1\n60296\tCorpo Santo\tComunidade de Fé\tcomunhao\tcomum\t1\n60297\tComunhão Fraterna\tCantores Católicos\tcomunhao\tcomum\t1\n60298\tUnidos no Amor\tGrupo Vocal Católico\tcomunhao\tcomum\t1\n60299\tFamília de Deus\tComunidade Católica\tcomunhao\tcomum\t1\n60300\tCorpo Místico\tCoral Católico\tcomunhao\tcomum\t1\n60301\tComunidade de Fé\tCantores de Fé\tcomunhao\tcomum\t1\n60302\tPovo de Deus\tComunidade de Louvor\tcomunhao\tcomum\t1\n60303\tIrmandade\tGrupo de Oração\tcomunhao\tcomum\t1\n60304\tFraternidade\tCoral Paroquial\tcomunhao\tcomum\t1\n60305\tComunhão Universal\tCantores Litúrgicos\tcomunhao\tcomum\t1\n60306\tPovo Unido\tComunidade Católica\tcomunhao\tcomum\t1\n60307\tCorpo Unificado\tGrupo Vocal\tcomunhao\tcomum\t1\n60308\tComunidade Viva\tCantores Católicos\tcomunhao\tcomum\t1\n60309\tSolidariedade\tCoral Católico\tcomunhao\tcomum\t1\n60310\tComunhão Perfeita\tComunidade de Fé\tcomunhao\tcomum\t1\n60311\tSegura na Mão de Deus\tCoral Paroquial\tcomunhao\tcomum\t1\n60312\tConfia em Mim\tComunidade Católica\tcomunhao\tcomum\t1\n60313\tEspera no Senhor\tCantores Litúrgicos\tcomunhao\tcomum\t1\n60314\tNada Me Faltará\tGrupo de Louvor\tcomunhao\tcomum\t1\n60315\tDeus Cuida de Mim\tCoral Católico\tcomunhao\tcomum\t1\n60316\tCura Senhor\tComunidade de Fé\tcomunhao\tcomum\t1\n60317\tRestaura-me\tCantores Católicos\tcomunhao\tcomum\t1\n60318\tLevanta-me\tGrupo Vocal Católico\tcomunhao\tcomum\t1\n60319\tVida Nova em Cristo\tComunidade Católica\tcomunhao\tcomum\t1\n60320\tEsperança Viva\tCoral Paroquial\tcomunhao\tcomum\t1\n60321\tProteção Divina\tCantores de Fé\tcomunhao\tcomum\t1\n60322\tForça no Senhor\tComunidade de Louvor\tcomunhao\tcomum\t1\n60323\tConsolo Eterno\tGrupo de Oração\tcomunhao\tcomum\t1\n60324\tPaz Profunda\tCoral Católico\tcomunhao\tcomum\t1\n60325\tRenovação\tCantores Litúrgicos\tcomunhao\tcomum\t1\n60326\tTransformação\tComunidade Católica\tcomunhao\tcomum\t1\n60327\tLibertação\tGrupo Vocal\tcomunhao\tcomum\t1\n60328\tVitória\tCantores Católicos\tcomunhao\tcomum\t1\n60329\tTriunfo em Cristo\tCoral Paroquial\tcomunhao\tcomum\t1\n60330\tEsperança Eterna\tComunidade de Fé\tcomunhao\tcomum\t1\n60331\tIde Pelo Mundo\tCoral Católico\tfinal\tcomum\t1\n60332\tVai Trabalhar Pelo Mundo\tComunidade Católica\tfinal\tcomum\t1\n60333\tEnvia-me Senhor\tCantores Litúrgicos\tfinal\tcomum\t1\n60334\tMissão de Amar\tGrupo de Louvor\tfinal\tcomum\t1\n60335\tLevai a Palavra\tCoral Paroquial\tfinal\tcomum\t1\n60336\tEvangelizar\tComunidade de Fé\tfinal\tcomum\t1\n60337\tCaminho da Missão\tCantores Católicos\tfinal\tcomum\t1\n60338\tServir com Amor\tGrupo Vocal Católico\tfinal\tcomum\t1\n60339\tTestemunhar\tComunidade Católica\tfinal\tcomum\t1\n60340\tAnunciar\tCoral Católico\tfinal\tcomum\t1\n60341\tProclamar\tCantores de Fé\tfinal\tcomum\t1\n60342\tLevar a Fé\tComunidade de Louvor\tfinal\tcomum\t1\n60343\tTransmitir\tGrupo de Oração\tfinal\tcomum\t1\n60344\tDisseminar\tCoral Paroquial\tfinal\tcomum\t1\n60345\tCompartilhar\tCantores Litúrgicos\tfinal\tcomum\t1\n60346\tPropagar\tComunidade Católica\tfinal\tcomum\t1\n60347\tExpandir\tGrupo Vocal\tfinal\tcomum\t1\n60348\tCrescer\tCantores Católicos\tfinal\tcomum\t1\n60349\tMultiplicar\tCoral Católico\tfinal\tcomum\t1\n60350\tTransformar\tComunidade de Fé\tfinal\tcomum\t1\n60351\tVamos Celebrar\tCoral Paroquial\tfinal\tcomum\t1\n60352\tCantai ao Senhor\tComunidade Católica\tfinal\tcomum\t1\n60353\tAleluia\tCantores Litúrgicos\tfinal\tcomum\t1\n60354\tFesta do Senhor\tGrupo de Louvor\tfinal\tcomum\t1\n60355\tCelebração de Amor\tCoral Católico\tfinal\tcomum\t1\n60356\tDia de Festa\tComunidade de Fé\tfinal\tcomum\t1\n60357\tLouvor Final\tCantores Católicos\tfinal\tcomum\t1\n60358\tGlória Final\tGrupo Vocal Católico\tfinal\tcomum\t1\n60359\tAção de Graças Final\tComunidade Católica\tfinal\tcomum\t1\n60360\tExultai\tCoral Paroquial\tfinal\tcomum\t1\n60361\tJubilo\tCantores de Fé\tfinal\tcomum\t1\n60362\tRegozijo\tComunidade de Louvor\tfinal\tcomum\t1\n60363\tFelicidade\tGrupo de Oração\tfinal\tcomum\t1\n60364\tGozo\tCoral Católico\tfinal\tcomum\t1\n60365\tContentamento\tCantores Litúrgicos\tfinal\tcomum\t1\n60366\tSatisfação\tComunidade Católica\tfinal\tcomum\t1\n60367\tPlenitude\tGrupo Vocal\tfinal\tcomum\t1\n60368\tHarmonia\tCantores Católicos\tfinal\tcomum\t1\n60369\tPaz e Alegria\tCoral Paroquial\tfinal\tcomum\t1\n60370\tBênção Final\tComunidade de Fé\tfinal\tcomum\t1\n60371\tMaria de Nazaré\tCoral Católico\tfinal\tcomum\t1\n60372\tSalve Rainha\tComunidade Católica\tfinal\tcomum\t1\n60373\tMãe do Céu Morena\tCantores Litúrgicos\tfinal\tcomum\t1\n60374\tAve Maria\tGrupo de Louvor\tfinal\tcomum\t1\n60375\tImaculada\tCoral Paroquial\tfinal\tcomum\t1\n60376\tSenhora Aparecida\tComunidade de Fé\tfinal\tcomum\t1\n60377\tRainha do Céu\tCantores Católicos\tfinal\tcomum\t1\n60378\tMãe de Deus\tGrupo Vocal Católico\tfinal\tcomum\t1\n60379\tEstrela da Manhã\tComunidade Católica\tfinal\tcomum\t1\n60380\tDoce Mãe\tCoral Católico\tfinal\tcomum\t1\n60381\tMãe Amorosa\tCantores de Fé\tfinal\tcomum\t1\n60382\tProteção Materna\tComunidade de Louvor\tfinal\tcomum\t1\n60383\tIntercessora\tGrupo de Oração\tfinal\tcomum\t1\n60384\tPadroeira\tCoral Paroquial\tfinal\tcomum\t1\n60385\tVirgem Santíssima\tCantores Litúrgicos\tfinal\tcomum\t1\n60386\tMãe da Igreja\tComunidade Católica\tfinal\tcomum\t1\n60387\tRainha da Paz\tGrupo Vocal\tfinal\tcomum\t1\n60388\tMãe de Misericórdia\tCantores Católicos\tfinal\tcomum\t1\n60389\tAuxiliadora\tCoral Católico\tfinal\tcomum\t1\n60390\tConsoladora\tComunidade de Fé\tfinal\tcomum\t1\n60391\tGlória a Deus\tCoral Paroquial\tfinal\tcomum\t1\n60392\tLouvor Eterno\tComunidade Católica\tfinal\tcomum\t1\n60393\tBendição Final\tCantores Litúrgicos\tfinal\tcomum\t1\n60394\tGraças Finais\tGrupo de Louvor\tfinal\tcomum\t1\n60395\tDespedida Abençoada\tCoral Católico\tfinal\tcomum\t1\n60396\tVão em Paz\tComunidade de Fé\tfinal\tcomum\t1\n60397\tQue Deus Vos Abençoe\tCantores Católicos\tfinal\tcomum\t1\n60398\tAté Breve Senhor\tGrupo Vocal Católico\tfinal\tcomum\t1\n60399\tEncontro Próximo\tComunidade Católica\tfinal\tcomum\t1\n60400\tAbraço Final\tCoral Paroquial\tfinal\tcomum\t1\n60401\tPaz Seja Convosco\tCantores de Fé\tfinal\tcomum\t1\n60402\tBenção Divina\tComunidade de Louvor\tfinal\tcomum\t1\n60403\tProteção do Altíssimo\tGrupo de Oração\tfinal\tcomum\t1\n60404\tCaminhem em Paz\tCoral Católico\tfinal\tcomum\t1\n60405\tQue Voltem com Alegria\tCantores Litúrgicos\tfinal\tcomum\t1\n60406\tAté o Próximo Encontro\tComunidade Católica\tfinal\tcomum\t1\n60407\tDeus Vos Acompanhe\tGrupo Vocal\tfinal\tcomum\t1\n60408\tBenção e Paz\tCantores Católicos\tfinal\tcomum\t1\n60409\tIrmãos Adeus\tCoral Paroquial\tfinal\tcomum\t1\n60410\tQue Voltem em Breve\tComunidade de Fé\tfinal\tcomum\t1\n60411\tLouvor Inicial\tCoral Católico\tentrada\tcomum\t1\n60412\tBênção de Entrada\tComunidade Católica\tentrada\tcomum\t1\n60413\tAcolhida Calorosa\tCantores Litúrgicos\tentrada\tcomum\t1\n60414\tBem-vindo Senhor\tGrupo de Louvor\tentrada\tcomum\t1\n60415\tEntrada Festiva\tCoral Paroquial\tentrada\tcomum\t1\n60416\tRecepção Divina\tComunidade de Fé\tentrada\tcomum\t1\n60417\tAbertura Sagrada\tCantores Católicos\tentrada\tcomum\t1\n60418\tInício Abençoado\tGrupo Vocal Católico\tentrada\tcomum\t1\n60419\tPorta Aberta\tComunidade Católica\tentrada\tcomum\t1\n60420\tCaminho Iluminado\tCoral Católico\tentrada\tcomum\t1\n60421\tChamado Inicial\tCantores de Fé\tentrada\tcomum\t1\n60422\tResposta ao Chamado\tComunidade de Louvor\tentrada\tcomum\t1\n60423\tVocação Presente\tGrupo de Oração\tentrada\tcomum\t1\n60424\tEscolha Sagrada\tCoral Paroquial\tentrada\tcomum\t1\n60425\tConvite Divino\tCantores Litúrgicos\tentrada\tcomum\t1\n60426\tSigo Teu Caminho\tComunidade Católica\tentrada\tcomum\t1\n60427\tProntidão\tGrupo Vocal\tentrada\tcomum\t1\n60428\tDisponibilidade Total\tCantores Católicos\tentrada\tcomum\t1\n60429\tObediência Amorosa\tCoral Católico\tentrada\tcomum\t1\n60430\tFidelidade ao Chamado\tComunidade de Fé\tentrada\tcomum\t1\n60431\tOferta Pura\tCoral Paroquial\tofertorio\tcomum\t1\n60432\tEntrega Sincera\tComunidade Católica\tofertorio\tcomum\t1\n60433\tDoação Generosa\tCantores Litúrgicos\tofertorio\tcomum\t1\n60434\tPresente Sagrado\tGrupo de Louvor\tofertorio\tcomum\t1\n60435\tOferenda Viva\tCoral Católico\tofertorio\tcomum\t1\n60436\tSacrifício Voluntário\tComunidade de Fé\tofertorio\tcomum\t1\n60437\tEntrega do Coração\tCantores Católicos\tofertorio\tcomum\t1\n60438\tDedicação Plena\tGrupo Vocal Católico\tofertorio\tcomum\t1\n60439\tConsagração\tComunidade Católica\tofertorio\tcomum\t1\n60440\tOblação\tCoral Paroquial\tofertorio\tcomum\t1\n60441\tAmor Sacrificial\tCantores de Fé\tofertorio\tcomum\t1\n60442\tEntrega Absoluta\tComunidade de Louvor\tofertorio\tcomum\t1\n60443\tRenúncia Amorosa\tGrupo de Oração\tofertorio\tcomum\t1\n60444\tMorte e Ressurreição\tCoral Católico\tofertorio\tcomum\t1\n60445\tPaixão Redentora\tCantores Litúrgicos\tofertorio\tcomum\t1\n60446\tRedenção Eterna\tComunidade Católica\tofertorio\tcomum\t1\n60447\tSalvação Conquistada\tGrupo Vocal\tofertorio\tcomum\t1\n60448\tVitória do Amor\tCantores Católicos\tofertorio\tcomum\t1\n60449\tTriunfo da Cruz\tCoral Paroquial\tofertorio\tcomum\t1\n60450\tGlória da Redenção\tComunidade de Fé\tofertorio\tcomum\t1\n60451\tEncontro Íntimo\tCoral Católico\tcomunhao\tcomum\t1\n60452\tPresença Consoladora\tComunidade Católica\tcomunhao\tcomum\t1\n60453\tComunhão Profunda\tCantores Litúrgicos\tcomunhao\tcomum\t1\n60454\tUnidade Perfeita\tGrupo de Louvor\tcomunhao\tcomum\t1\n60455\tFusão Divina\tCoral Paroquial\tcomunhao\tcomum\t1\n60456\tAbraço Eterno\tComunidade de Fé\tcomunhao\tcomum\t1\n60457\tRepouso em Deus\tCantores Católicos\tcomunhao\tcomum\t1\n60458\tPaz Interior\tGrupo Vocal Católico\tcomunhao\tcomum\t1\n60459\tSerenidade Sagrada\tComunidade Católica\tcomunhao\tcomum\t1\n60460\tTranquilidade Divina\tCoral Católico\tcomunhao\tcomum\t1\n60461\tCura Profunda\tCantores de Fé\tcomunhao\tcomum\t1\n60462\tRestauração\tComunidade de Louvor\tcomunhao\tcomum\t1\n60463\tRenovação Espiritual\tGrupo de Oração\tcomunhao\tcomum\t1\n60464\tLibertação Interior\tCoral Paroquial\tcomunhao\tcomum\t1\n60465\tPerdão Libertador\tCantores Litúrgicos\tcomunhao\tcomum\t1\n60466\tGraça Redentora\tComunidade Católica\tcomunhao\tcomum\t1\n60467\tCompaixão Infinita\tGrupo Vocal\tcomunhao\tcomum\t1\n60468\tTernura Divina\tCantores Católicos\tcomunhao\tcomum\t1\n60469\tAbraço do Pai\tCoral Católico\tcomunhao\tcomum\t1\n60470\tVolta para Casa\tComunidade de Fé\tcomunhao\tcomum\t1\n60471\tComunidade Unida\tCoral Paroquial\tcomunhao\tcomum\t1\n60472\tPovo Reunido\tComunidade Católica\tcomunhao\tcomum\t1\n60473\tCorpo Vivo\tCantores Litúrgicos\tcomunhao\tcomum\t1\n60474\tComunhão Viva\tGrupo de Louvor\tcomunhao\tcomum\t1\n60475\tIrmandade Sagrada\tCoral Católico\tcomunhao\tcomum\t1\n60476\tFraternidade Cristã\tComunidade de Fé\tcomunhao\tcomum\t1\n60477\tSolidariedade Divina\tCantores Católicos\tcomunhao\tcomum\t1\n60478\tComunidade de Amor\tGrupo Vocal Católico\tcomunhao\tcomum\t1\n60479\tPovo Eleito de Deus\tComunidade Católica\tcomunhao\tcomum\t1\n60480\tCorpo Unido em Cristo\tCoral Paroquial\tcomunhao\tcomum\t1\n60481\tEsperança Renovada\tCantores de Fé\tcomunhao\tcomum\t1\n60482\tFé Fortalecida\tComunidade de Louvor\tcomunhao\tcomum\t1\n60483\tConfiança Plena\tGrupo de Oração\tcomunhao\tcomum\t1\n60484\tSegurança em Deus\tCoral Católico\tcomunhao\tcomum\t1\n60485\tProteção Eterna\tCantores Litúrgicos\tcomunhao\tcomum\t1\n60486\tAmparo Divino\tComunidade Católica\tcomunhao\tcomum\t1\n60487\tFortaleza no Senhor\tGrupo Vocal\tcomunhao\tcomum\t1\n60488\tVitória Certa\tCantores Católicos\tcomunhao\tcomum\t1\n60489\tTriunfo Garantido\tCoral Paroquial\tcomunhao\tcomum\t1\n60490\tEsperança Vencedora\tComunidade de Fé\tcomunhao\tcomum\t1\n60491\tEnvio com Bênção\tCoral Católico\tfinal\tcomum\t1\n60492\tPartida Sagrada\tComunidade Católica\tfinal\tcomum\t1\n60493\tMissão Confirmada\tCantores Litúrgicos\tfinal\tcomum\t1\n60494\tEnvio Profético\tGrupo de Louvor\tfinal\tcomum\t1\n60495\tComissão Divina\tCoral Paroquial\tfinal\tcomum\t1\n60496\tTarefa Sagrada\tComunidade de Fé\tfinal\tcomum\t1\n60497\tObra do Espírito\tCantores Católicos\tfinal\tcomum\t1\n60498\tFruto Abundante\tGrupo Vocal Católico\tfinal\tcomum\t1\n60499\tColheita Farta\tComunidade Católica\tfinal\tcomum\t1\n60500\tSemeadura Fiel\tCoral Católico\tfinal\tcomum\t1\n60501\tCelebração Final\tCantores de Fé\tfinal\tcomum\t1\n60502\tFesta Conclusiva\tComunidade de Louvor\tfinal\tcomum\t1\n60503\tJúbilo Final\tGrupo de Oração\tfinal\tcomum\t1\n60504\tAlegria Completa\tCoral Paroquial\tfinal\tcomum\t1\n60505\tSatisfação Plena\tCantores Litúrgicos\tfinal\tcomum\t1\n60506\tPlenitude Alcançada\tComunidade Católica\tfinal\tcomum\t1\n60507\tGraças Infinitas\tGrupo Vocal\tfinal\tcomum\t1\n60508\tLouvor Perpétuo\tCantores Católicos\tfinal\tcomum\t1\n60509\tGlória Eterna\tCoral Católico\tfinal\tcomum\t1\n60510\tBênção Perpétua\tComunidade de Fé\tfinal\tcomum\t1\n60511\tMãe Protetora\tCoral Paroquial\tfinal\tcomum\t1\n60512\tMãe da Graça\tComunidade Católica\tfinal\tcomum\t1\n60513\tMãe da Esperança\tCantores Litúrgicos\tfinal\tcomum\t1\n60514\tMãe da Paz\tGrupo de Louvor\tfinal\tcomum\t1\n60515\tMãe Abencoada\tCoral Católico\tfinal\tcomum\t1\n60516\tMãe Gloriosa\tComunidade de Fé\tfinal\tcomum\t1\n60517\tMãe Imaculada\tCantores Católicos\tfinal\tcomum\t1\n60518\tMãe Puríssima\tGrupo Vocal Católico\tfinal\tcomum\t1\n60519\tMãe Santíssima\tComunidade Católica\tfinal\tcomum\t1\n60520\tMãe Bendita\tCoral Paroquial\tfinal\tcomum\t1\n60521\tLouvor Perpétuo\tCoral Católico\tentrada\tcomum\t1\n60522\tGlória Infinita\tComunidade Católica\tentrada\tcomum\t1\n60523\tBenção Contínua\tCantores Litúrgicos\tentrada\tcomum\t1\n60524\tLouvor Sem Fim\tGrupo de Louvor\tentrada\tcomum\t1\n60525\tGlória Sem Medida\tCoral Paroquial\tentrada\tcomum\t1\n60526\tAdoração Eterna\tComunidade de Fé\tentrada\tcomum\t1\n60527\tLouvor Infinito\tCantores Católicos\tentrada\tcomum\t1\n60528\tGlória Perpétua\tGrupo Vocal Católico\tentrada\tcomum\t1\n60529\tBenção Eterna\tComunidade Católica\tentrada\tcomum\t1\n60530\tLouvor Constante\tCoral Católico\tentrada\tcomum\t1\n60531\tOferta Consagrada\tCantores de Fé\tofertorio\tcomum\t1\n60532\tDedicação Sagrada\tComunidade de Louvor\tofertorio\tcomum\t1\n60533\tEntrega Perfeita\tGrupo de Oração\tofertorio\tcomum\t1\n60534\tOblação Pura\tCoral Paroquial\tofertorio\tcomum\t1\n60535\tSacrifício Perfeito\tCantores Litúrgicos\tofertorio\tcomum\t1\n60536\tRedenção Completa\tComunidade Católica\tofertorio\tcomum\t1\n60537\tSalvação Perfeita\tGrupo Vocal\tofertorio\tcomum\t1\n60538\tAmor Perfeito\tCantores Católicos\tofertorio\tcomum\t1\n60539\tComunhão Sagrada\tCoral Católico\tcomunhao\tcomum\t1\n60540\tPresença Eterna\tComunidade de Fé\tcomunhao\tcomum\t1\n",
+  "stderr": "",
+  "execution_time_ms": 68
+}

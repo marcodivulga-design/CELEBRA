@@ -1,0 +1,144 @@
+{
+  "exportDate": "2026-04-21T03:01:44.115Z",
+  "totalSongs": 11,
+  "stats": {
+    "totalScraped": 11,
+    "totalImported": 0,
+    "duplicates": 0,
+    "errors": 0
+  },
+  "songs": [
+    {
+      "title": "Glória a Deus nas Alturas",
+      "artist": "Ministério de Música Paroquial",
+      "composer": "Tradicional",
+      "genre": "louvor",
+      "massFunction": "gloria",
+      "liturgicalTime": "comum",
+      "source": "Palco MP3",
+      "hasAudio": true,
+      "audioUrl": "https://example.com/audio/gloria.mp3",
+      "duration": 240
+    },
+    {
+      "title": "Aleluia, Aleluia",
+      "artist": "Coro da Catedral",
+      "composer": "Pe. Zezinho",
+      "genre": "louvor",
+      "massFunction": "comunhao",
+      "liturgicalTime": "pascoa",
+      "source": "Palco MP3",
+      "hasAudio": true,
+      "audioUrl": "https://example.com/audio/aleluia.mp3",
+      "duration": 200
+    },
+    {
+      "title": "Vinde Celebrar",
+      "artist": "Ensemble Vocal Católico",
+      "composer": "Tradicional",
+      "genre": "coral",
+      "massFunction": "entrada",
+      "liturgicalTime": "comum",
+      "source": "Palco MP3",
+      "hasAudio": true,
+      "audioUrl": "https://example.com/audio/vinde.mp3",
+      "duration": 180
+    },
+    {
+      "title": "Senhor, Tende Piedade",
+      "artist": "Coro Paroquial",
+      "composer": "Tradicional",
+      "genre": "liturgica",
+      "massFunction": "ato_penitencial",
+      "liturgicalTime": "comum",
+      "source": "Liturgia.pt",
+      "hasAudio": true,
+      "audioUrl": "https://example.com/audio/tende-piedade.mp3",
+      "duration": 150
+    },
+    {
+      "title": "Pão da Vida",
+      "artist": "Ensemble Litúrgico",
+      "composer": "Tradicional",
+      "genre": "liturgica",
+      "massFunction": "comunhao",
+      "liturgicalTime": "comum",
+      "source": "Liturgia.pt",
+      "hasAudio": true,
+      "audioUrl": "https://example.com/audio/pao-vida.mp3",
+      "duration": 240
+    },
+    {
+      "title": "Santo, Santo, Santo",
+      "artist": "Coro da Catedral",
+      "composer": "Tradicional",
+      "genre": "liturgica",
+      "massFunction": "santo",
+      "liturgicalTime": "comum",
+      "source": "Liturgia.pt",
+      "hasAudio": true,
+      "audioUrl": "https://example.com/audio/santo.mp3",
+      "duration": 200
+    },
+    {
+      "title": "O Vem, Vem, Emanuel",
+      "artist": "Coral Tradicional",
+      "composer": "Tradicional",
+      "genre": "liturgica",
+      "massFunction": "entrada",
+      "liturgicalTime": "advento",
+      "source": "Musicanaliturgia",
+      "hasAudio": true,
+      "audioUrl": "https://example.com/audio/vem-emanuel.mp3",
+      "duration": 220
+    },
+    {
+      "title": "Noite Feliz",
+      "artist": "Coro Paroquial",
+      "composer": "Tradicional",
+      "genre": "liturgica",
+      "massFunction": "entrada",
+      "liturgicalTime": "natal",
+      "source": "Musicanaliturgia",
+      "hasAudio": true,
+      "audioUrl": "https://example.com/audio/noite-feliz.mp3",
+      "duration": 180
+    },
+    {
+      "title": "Salve Rainha",
+      "artist": "Ensemble Vocal",
+      "composer": "Tradicional",
+      "genre": "liturgica",
+      "massFunction": "final",
+      "liturgicalTime": "mariano",
+      "source": "Musicanaliturgia",
+      "hasAudio": true,
+      "audioUrl": "https://example.com/audio/salve-rainha.mp3",
+      "duration": 240
+    },
+    {
+      "title": "Instrumental Contemplativo",
+      "artist": "Pixabay Music",
+      "composer": "Various",
+      "genre": "instrumental",
+      "massFunction": "ofertorio",
+      "liturgicalTime": "comum",
+      "source": "Pixabay",
+      "hasAudio": true,
+      "audioUrl": "https://example.com/audio/contemplativo.mp3",
+      "duration": 300
+    },
+    {
+      "title": "Coral Gregoriano",
+      "artist": "Pixabay Music",
+      "composer": "Tradicional",
+      "genre": "liturgica",
+      "massFunction": "salmo",
+      "liturgicalTime": "comum",
+      "source": "Pixabay",
+      "hasAudio": true,
+      "audioUrl": "https://example.com/audio/gregoriano.mp3",
+      "duration": 180
+    }
+  ]
+}

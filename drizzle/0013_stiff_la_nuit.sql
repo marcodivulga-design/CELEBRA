@@ -1,0 +1,2 @@
+ALTER TABLE `event_templates` MODIFY COLUMN `eventType` enum('missa','batizado','casamento','ordenação','confirmação','unção_enfermos','exéquias') DEFAULT 'missa';--> statement-breakpoint
+ALTER TABLE `events` MODIFY COLUMN `eventType` enum('missa','batizado','casamento','ordenação','confirmação','unção_enfermos','exéquias') DEFAULT 'missa';

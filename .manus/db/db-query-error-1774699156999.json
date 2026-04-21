@@ -1,0 +1,8 @@
+{
+  "query": "SELECT COUNT(*) as total, id, name, email FROM users LIMIT 5;",
+  "command": "mysql --batch --raw --column-names --default-character-set=utf8mb4 --host gateway02.us-east-1.prod.aws.tidbcloud.com --port 4000 --user gDaDZFVakt6NV9S.4c7ea4282de9 --database SQHJGPFJeGtHi4ZtSV5v4R --execute SELECT COUNT(*) as total, id, name, email FROM users LIMIT 5;",
+  "returncode": 1,
+  "logs": [
+    "ERROR 8123 (HY000) at line 1: In aggregated query without GROUP BY, expression #2 of SELECT list contains nonaggregated column 'id'; this is incompatible with sql_mode=only_full_group_by"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "query": "CREATE TABLE IF NOT EXISTS songs (\n  id INT AUTO_INCREMENT PRIMARY KEY,\n  title VARCHAR(255) NOT NULL,\n  artist VARCHAR(255) NOT NULL,\n  massMoment VARCHAR(100) NOT NULL,\n  liturgicalTime VARCHAR(100) NOT NULL,\n  isPublic BOOLEAN DEFAULT TRUE NOT NULL,\n  createdAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP NOT NULL,\n  updatedAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP NOT NULL\n);",
+  "command": "mysql --batch --raw --column-names --default-character-set=utf8mb4 --host gateway02.us-east-1.prod.aws.tidbcloud.com --port 4000 --user gDaDZFVakt6NV9S.4c7ea4282de9 --database SQHJGPFJeGtHi4ZtSV5v4R --execute CREATE TABLE IF NOT EXISTS songs (\n  id INT AUTO_INCREMENT PRIMARY KEY,\n  title VARCHAR(255) NOT NULL,\n  artist VARCHAR(255) NOT NULL,\n  massMoment VARCHAR(100) NOT NULL,\n  liturgicalTime VARCHAR(100) NOT NULL,\n  isPublic BOOLEAN DEFAULT TRUE NOT NULL,\n  createdAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP NOT NULL,\n  updatedAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP NOT NULL\n);",
+  "rows": [],
+  "messages": [],
+  "stdout": "",
+  "stderr": "",
+  "execution_time_ms": 207
+}

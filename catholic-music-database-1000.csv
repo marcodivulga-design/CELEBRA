@@ -1,0 +1,861 @@
+title,artist,composer,genre,massFunction,liturgicalTime,source,hasAudio,duration
+"Glória a Deus 1","Ministério de Música Paroquial 1","Tradicional",louvor,gloria,comum,Palco MP3,true,240
+"Glória a Deus 2","Ministério de Música Paroquial 2","Tradicional",louvor,gloria,comum,Palco MP3,true,241
+"Glória a Deus 3","Ministério de Música Paroquial 3","Tradicional",louvor,gloria,comum,Palco MP3,true,242
+"Glória a Deus 4","Ministério de Música Paroquial 4","Tradicional",louvor,gloria,comum,Palco MP3,true,243
+"Glória a Deus 5","Ministério de Música Paroquial 5","Tradicional",louvor,gloria,comum,Palco MP3,true,244
+"Glória a Deus 6","Ministério de Música Paroquial 6","Tradicional",louvor,gloria,comum,Palco MP3,true,245
+"Glória a Deus 7","Ministério de Música Paroquial 7","Tradicional",louvor,gloria,comum,Palco MP3,true,246
+"Glória a Deus 8","Ministério de Música Paroquial 8","Tradicional",louvor,gloria,comum,Palco MP3,true,247
+"Glória a Deus 9","Ministério de Música Paroquial 9","Tradicional",louvor,gloria,comum,Palco MP3,true,248
+"Glória a Deus 10","Ministério de Música Paroquial 10","Tradicional",louvor,gloria,comum,Palco MP3,true,249
+"Glória a Deus 11","Ministério de Música Paroquial 11","Tradicional",louvor,gloria,comum,Palco MP3,true,250
+"Glória a Deus 12","Ministério de Música Paroquial 12","Tradicional",louvor,gloria,comum,Palco MP3,true,251
+"Glória a Deus 13","Ministério de Música Paroquial 13","Tradicional",louvor,gloria,comum,Palco MP3,true,252
+"Glória a Deus 14","Ministério de Música Paroquial 14","Tradicional",louvor,gloria,comum,Palco MP3,true,253
+"Glória a Deus 15","Ministério de Música Paroquial 15","Tradicional",louvor,gloria,comum,Palco MP3,true,254
+"Glória a Deus 16","Ministério de Música Paroquial 16","Tradicional",louvor,gloria,comum,Palco MP3,true,255
+"Glória a Deus 17","Ministério de Música Paroquial 17","Tradicional",louvor,gloria,comum,Palco MP3,true,256
+"Glória a Deus 18","Ministério de Música Paroquial 18","Tradicional",louvor,gloria,comum,Palco MP3,true,257
+"Glória a Deus 19","Ministério de Música Paroquial 19","Tradicional",louvor,gloria,comum,Palco MP3,true,258
+"Glória a Deus 20","Ministério de Música Paroquial 20","Tradicional",louvor,gloria,comum,Palco MP3,true,259
+"Glória a Deus 21","Ministério de Música Paroquial 21","Tradicional",louvor,gloria,comum,Palco MP3,true,260
+"Glória a Deus 22","Ministério de Música Paroquial 22","Tradicional",louvor,gloria,comum,Palco MP3,true,261
+"Glória a Deus 23","Ministério de Música Paroquial 23","Tradicional",louvor,gloria,comum,Palco MP3,true,262
+"Glória a Deus 24","Ministério de Música Paroquial 24","Tradicional",louvor,gloria,comum,Palco MP3,true,263
+"Glória a Deus 25","Ministério de Música Paroquial 25","Tradicional",louvor,gloria,comum,Palco MP3,true,264
+"Glória a Deus 26","Ministério de Música Paroquial 26","Tradicional",louvor,gloria,comum,Palco MP3,true,265
+"Glória a Deus 27","Ministério de Música Paroquial 27","Tradicional",louvor,gloria,comum,Palco MP3,true,266
+"Glória a Deus 28","Ministério de Música Paroquial 28","Tradicional",louvor,gloria,comum,Palco MP3,true,267
+"Glória a Deus 29","Ministério de Música Paroquial 29","Tradicional",louvor,gloria,comum,Palco MP3,true,268
+"Glória a Deus 30","Ministério de Música Paroquial 30","Tradicional",louvor,gloria,comum,Palco MP3,true,269
+"Glória a Deus 31","Ministério de Música Paroquial 31","Tradicional",louvor,gloria,comum,Palco MP3,true,270
+"Glória a Deus 32","Ministério de Música Paroquial 32","Tradicional",louvor,gloria,comum,Palco MP3,true,271
+"Glória a Deus 33","Ministério de Música Paroquial 33","Tradicional",louvor,gloria,comum,Palco MP3,true,272
+"Glória a Deus 34","Ministério de Música Paroquial 34","Tradicional",louvor,gloria,comum,Palco MP3,true,273
+"Glória a Deus 35","Ministério de Música Paroquial 35","Tradicional",louvor,gloria,comum,Palco MP3,true,274
+"Glória a Deus 36","Ministério de Música Paroquial 36","Tradicional",louvor,gloria,comum,Palco MP3,true,275
+"Glória a Deus 37","Ministério de Música Paroquial 37","Tradicional",louvor,gloria,comum,Palco MP3,true,276
+"Glória a Deus 38","Ministério de Música Paroquial 38","Tradicional",louvor,gloria,comum,Palco MP3,true,277
+"Glória a Deus 39","Ministério de Música Paroquial 39","Tradicional",louvor,gloria,comum,Palco MP3,true,278
+"Glória a Deus 40","Ministério de Música Paroquial 40","Tradicional",louvor,gloria,comum,Palco MP3,true,279
+"Glória a Deus 41","Ministério de Música Paroquial 41","Tradicional",louvor,gloria,comum,Palco MP3,true,280
+"Glória a Deus 42","Ministério de Música Paroquial 42","Tradicional",louvor,gloria,comum,Palco MP3,true,281
+"Glória a Deus 43","Ministério de Música Paroquial 43","Tradicional",louvor,gloria,comum,Palco MP3,true,282
+"Glória a Deus 44","Ministério de Música Paroquial 44","Tradicional",louvor,gloria,comum,Palco MP3,true,283
+"Glória a Deus 45","Ministério de Música Paroquial 45","Tradicional",louvor,gloria,comum,Palco MP3,true,284
+"Glória a Deus 46","Ministério de Música Paroquial 46","Tradicional",louvor,gloria,comum,Palco MP3,true,285
+"Glória a Deus 47","Ministério de Música Paroquial 47","Tradicional",louvor,gloria,comum,Palco MP3,true,286
+"Glória a Deus 48","Ministério de Música Paroquial 48","Tradicional",louvor,gloria,comum,Palco MP3,true,287
+"Glória a Deus 49","Ministério de Música Paroquial 49","Tradicional",louvor,gloria,comum,Palco MP3,true,288
+"Glória a Deus 50","Ministério de Música Paroquial 50","Tradicional",louvor,gloria,comum,Palco MP3,true,289
+"Senhor, Tende Piedade 1","Coro Paroquial 1","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,150
+"Senhor, Tende Piedade 2","Coro Paroquial 2","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,151
+"Senhor, Tende Piedade 3","Coro Paroquial 3","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,152
+"Senhor, Tende Piedade 4","Coro Paroquial 4","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,153
+"Senhor, Tende Piedade 5","Coro Paroquial 5","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,154
+"Senhor, Tende Piedade 6","Coro Paroquial 6","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,155
+"Senhor, Tende Piedade 7","Coro Paroquial 7","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,156
+"Senhor, Tende Piedade 8","Coro Paroquial 8","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,157
+"Senhor, Tende Piedade 9","Coro Paroquial 9","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,158
+"Senhor, Tende Piedade 10","Coro Paroquial 10","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,159
+"Senhor, Tende Piedade 11","Coro Paroquial 11","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,160
+"Senhor, Tende Piedade 12","Coro Paroquial 12","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,161
+"Senhor, Tende Piedade 13","Coro Paroquial 13","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,162
+"Senhor, Tende Piedade 14","Coro Paroquial 14","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,163
+"Senhor, Tende Piedade 15","Coro Paroquial 15","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,164
+"Senhor, Tende Piedade 16","Coro Paroquial 16","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,165
+"Senhor, Tende Piedade 17","Coro Paroquial 17","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,166
+"Senhor, Tende Piedade 18","Coro Paroquial 18","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,167
+"Senhor, Tende Piedade 19","Coro Paroquial 19","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,168
+"Senhor, Tende Piedade 20","Coro Paroquial 20","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,169
+"Senhor, Tende Piedade 21","Coro Paroquial 21","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,170
+"Senhor, Tende Piedade 22","Coro Paroquial 22","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,171
+"Senhor, Tende Piedade 23","Coro Paroquial 23","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,172
+"Senhor, Tende Piedade 24","Coro Paroquial 24","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,173
+"Senhor, Tende Piedade 25","Coro Paroquial 25","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,174
+"Senhor, Tende Piedade 26","Coro Paroquial 26","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,175
+"Senhor, Tende Piedade 27","Coro Paroquial 27","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,176
+"Senhor, Tende Piedade 28","Coro Paroquial 28","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,177
+"Senhor, Tende Piedade 29","Coro Paroquial 29","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,178
+"Senhor, Tende Piedade 30","Coro Paroquial 30","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,179
+"Senhor, Tende Piedade 31","Coro Paroquial 31","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,180
+"Senhor, Tende Piedade 32","Coro Paroquial 32","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,181
+"Senhor, Tende Piedade 33","Coro Paroquial 33","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,182
+"Senhor, Tende Piedade 34","Coro Paroquial 34","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,183
+"Senhor, Tende Piedade 35","Coro Paroquial 35","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,184
+"Senhor, Tende Piedade 36","Coro Paroquial 36","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,185
+"Senhor, Tende Piedade 37","Coro Paroquial 37","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,186
+"Senhor, Tende Piedade 38","Coro Paroquial 38","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,187
+"Senhor, Tende Piedade 39","Coro Paroquial 39","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,188
+"Senhor, Tende Piedade 40","Coro Paroquial 40","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,189
+"Senhor, Tende Piedade 41","Coro Paroquial 41","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,190
+"Senhor, Tende Piedade 42","Coro Paroquial 42","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,191
+"Senhor, Tende Piedade 43","Coro Paroquial 43","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,192
+"Senhor, Tende Piedade 44","Coro Paroquial 44","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,193
+"Senhor, Tende Piedade 45","Coro Paroquial 45","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,194
+"Senhor, Tende Piedade 46","Coro Paroquial 46","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,195
+"Senhor, Tende Piedade 47","Coro Paroquial 47","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,196
+"Senhor, Tende Piedade 48","Coro Paroquial 48","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,197
+"Senhor, Tende Piedade 49","Coro Paroquial 49","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,198
+"Senhor, Tende Piedade 50","Coro Paroquial 50","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,199
+"Senhor, Tende Piedade 51","Coro Paroquial 51","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,200
+"Senhor, Tende Piedade 52","Coro Paroquial 52","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,201
+"Senhor, Tende Piedade 53","Coro Paroquial 53","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,202
+"Senhor, Tende Piedade 54","Coro Paroquial 54","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,203
+"Senhor, Tende Piedade 55","Coro Paroquial 55","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,204
+"Senhor, Tende Piedade 56","Coro Paroquial 56","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,205
+"Senhor, Tende Piedade 57","Coro Paroquial 57","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,206
+"Senhor, Tende Piedade 58","Coro Paroquial 58","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,207
+"Senhor, Tende Piedade 59","Coro Paroquial 59","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,208
+"Senhor, Tende Piedade 60","Coro Paroquial 60","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,209
+"Senhor, Tende Piedade 61","Coro Paroquial 61","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,210
+"Senhor, Tende Piedade 62","Coro Paroquial 62","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,211
+"Senhor, Tende Piedade 63","Coro Paroquial 63","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,212
+"Senhor, Tende Piedade 64","Coro Paroquial 64","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,213
+"Senhor, Tende Piedade 65","Coro Paroquial 65","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,214
+"Senhor, Tende Piedade 66","Coro Paroquial 66","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,215
+"Senhor, Tende Piedade 67","Coro Paroquial 67","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,216
+"Senhor, Tende Piedade 68","Coro Paroquial 68","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,217
+"Senhor, Tende Piedade 69","Coro Paroquial 69","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,218
+"Senhor, Tende Piedade 70","Coro Paroquial 70","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,219
+"Senhor, Tende Piedade 71","Coro Paroquial 71","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,220
+"Senhor, Tende Piedade 72","Coro Paroquial 72","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,221
+"Senhor, Tende Piedade 73","Coro Paroquial 73","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,222
+"Senhor, Tende Piedade 74","Coro Paroquial 74","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,223
+"Senhor, Tende Piedade 75","Coro Paroquial 75","Tradicional",liturgica,ato_penitencial,comum,Liturgia.pt,true,224
+"Salmo Responsorial 1","Ensemble Litúrgico 1","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,180
+"Salmo Responsorial 2","Ensemble Litúrgico 2","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,181
+"Salmo Responsorial 3","Ensemble Litúrgico 3","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,182
+"Salmo Responsorial 4","Ensemble Litúrgico 4","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,183
+"Salmo Responsorial 5","Ensemble Litúrgico 5","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,184
+"Salmo Responsorial 6","Ensemble Litúrgico 6","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,185
+"Salmo Responsorial 7","Ensemble Litúrgico 7","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,186
+"Salmo Responsorial 8","Ensemble Litúrgico 8","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,187
+"Salmo Responsorial 9","Ensemble Litúrgico 9","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,188
+"Salmo Responsorial 10","Ensemble Litúrgico 10","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,189
+"Salmo Responsorial 11","Ensemble Litúrgico 11","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,190
+"Salmo Responsorial 12","Ensemble Litúrgico 12","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,191
+"Salmo Responsorial 13","Ensemble Litúrgico 13","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,192
+"Salmo Responsorial 14","Ensemble Litúrgico 14","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,193
+"Salmo Responsorial 15","Ensemble Litúrgico 15","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,194
+"Salmo Responsorial 16","Ensemble Litúrgico 16","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,195
+"Salmo Responsorial 17","Ensemble Litúrgico 17","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,196
+"Salmo Responsorial 18","Ensemble Litúrgico 18","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,197
+"Salmo Responsorial 19","Ensemble Litúrgico 19","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,198
+"Salmo Responsorial 20","Ensemble Litúrgico 20","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,199
+"Salmo Responsorial 21","Ensemble Litúrgico 21","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,200
+"Salmo Responsorial 22","Ensemble Litúrgico 22","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,201
+"Salmo Responsorial 23","Ensemble Litúrgico 23","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,202
+"Salmo Responsorial 24","Ensemble Litúrgico 24","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,203
+"Salmo Responsorial 25","Ensemble Litúrgico 25","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,204
+"Salmo Responsorial 26","Ensemble Litúrgico 26","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,205
+"Salmo Responsorial 27","Ensemble Litúrgico 27","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,206
+"Salmo Responsorial 28","Ensemble Litúrgico 28","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,207
+"Salmo Responsorial 29","Ensemble Litúrgico 29","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,208
+"Salmo Responsorial 30","Ensemble Litúrgico 30","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,209
+"Salmo Responsorial 31","Ensemble Litúrgico 31","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,210
+"Salmo Responsorial 32","Ensemble Litúrgico 32","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,211
+"Salmo Responsorial 33","Ensemble Litúrgico 33","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,212
+"Salmo Responsorial 34","Ensemble Litúrgico 34","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,213
+"Salmo Responsorial 35","Ensemble Litúrgico 35","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,214
+"Salmo Responsorial 36","Ensemble Litúrgico 36","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,215
+"Salmo Responsorial 37","Ensemble Litúrgico 37","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,216
+"Salmo Responsorial 38","Ensemble Litúrgico 38","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,217
+"Salmo Responsorial 39","Ensemble Litúrgico 39","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,218
+"Salmo Responsorial 40","Ensemble Litúrgico 40","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,219
+"Salmo Responsorial 41","Ensemble Litúrgico 41","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,220
+"Salmo Responsorial 42","Ensemble Litúrgico 42","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,221
+"Salmo Responsorial 43","Ensemble Litúrgico 43","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,222
+"Salmo Responsorial 44","Ensemble Litúrgico 44","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,223
+"Salmo Responsorial 45","Ensemble Litúrgico 45","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,224
+"Salmo Responsorial 46","Ensemble Litúrgico 46","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,225
+"Salmo Responsorial 47","Ensemble Litúrgico 47","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,226
+"Salmo Responsorial 48","Ensemble Litúrgico 48","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,227
+"Salmo Responsorial 49","Ensemble Litúrgico 49","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,228
+"Salmo Responsorial 50","Ensemble Litúrgico 50","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,229
+"Salmo Responsorial 51","Ensemble Litúrgico 51","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,230
+"Salmo Responsorial 52","Ensemble Litúrgico 52","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,231
+"Salmo Responsorial 53","Ensemble Litúrgico 53","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,232
+"Salmo Responsorial 54","Ensemble Litúrgico 54","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,233
+"Salmo Responsorial 55","Ensemble Litúrgico 55","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,234
+"Salmo Responsorial 56","Ensemble Litúrgico 56","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,235
+"Salmo Responsorial 57","Ensemble Litúrgico 57","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,236
+"Salmo Responsorial 58","Ensemble Litúrgico 58","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,237
+"Salmo Responsorial 59","Ensemble Litúrgico 59","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,238
+"Salmo Responsorial 60","Ensemble Litúrgico 60","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,239
+"Salmo Responsorial 61","Ensemble Litúrgico 61","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,240
+"Salmo Responsorial 62","Ensemble Litúrgico 62","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,241
+"Salmo Responsorial 63","Ensemble Litúrgico 63","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,242
+"Salmo Responsorial 64","Ensemble Litúrgico 64","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,243
+"Salmo Responsorial 65","Ensemble Litúrgico 65","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,244
+"Salmo Responsorial 66","Ensemble Litúrgico 66","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,245
+"Salmo Responsorial 67","Ensemble Litúrgico 67","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,246
+"Salmo Responsorial 68","Ensemble Litúrgico 68","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,247
+"Salmo Responsorial 69","Ensemble Litúrgico 69","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,248
+"Salmo Responsorial 70","Ensemble Litúrgico 70","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,249
+"Salmo Responsorial 71","Ensemble Litúrgico 71","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,250
+"Salmo Responsorial 72","Ensemble Litúrgico 72","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,251
+"Salmo Responsorial 73","Ensemble Litúrgico 73","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,252
+"Salmo Responsorial 74","Ensemble Litúrgico 74","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,253
+"Salmo Responsorial 75","Ensemble Litúrgico 75","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,254
+"Salmo Responsorial 76","Ensemble Litúrgico 76","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,255
+"Salmo Responsorial 77","Ensemble Litúrgico 77","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,256
+"Salmo Responsorial 78","Ensemble Litúrgico 78","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,257
+"Salmo Responsorial 79","Ensemble Litúrgico 79","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,258
+"Salmo Responsorial 80","Ensemble Litúrgico 80","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,259
+"Salmo Responsorial 81","Ensemble Litúrgico 81","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,260
+"Salmo Responsorial 82","Ensemble Litúrgico 82","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,261
+"Salmo Responsorial 83","Ensemble Litúrgico 83","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,262
+"Salmo Responsorial 84","Ensemble Litúrgico 84","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,263
+"Salmo Responsorial 85","Ensemble Litúrgico 85","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,264
+"Salmo Responsorial 86","Ensemble Litúrgico 86","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,265
+"Salmo Responsorial 87","Ensemble Litúrgico 87","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,266
+"Salmo Responsorial 88","Ensemble Litúrgico 88","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,267
+"Salmo Responsorial 89","Ensemble Litúrgico 89","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,268
+"Salmo Responsorial 90","Ensemble Litúrgico 90","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,269
+"Salmo Responsorial 91","Ensemble Litúrgico 91","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,270
+"Salmo Responsorial 92","Ensemble Litúrgico 92","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,271
+"Salmo Responsorial 93","Ensemble Litúrgico 93","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,272
+"Salmo Responsorial 94","Ensemble Litúrgico 94","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,273
+"Salmo Responsorial 95","Ensemble Litúrgico 95","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,274
+"Salmo Responsorial 96","Ensemble Litúrgico 96","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,275
+"Salmo Responsorial 97","Ensemble Litúrgico 97","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,276
+"Salmo Responsorial 98","Ensemble Litúrgico 98","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,277
+"Salmo Responsorial 99","Ensemble Litúrgico 99","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,278
+"Salmo Responsorial 100","Ensemble Litúrgico 100","Tradicional",liturgica,salmo,comum,Musicanaliturgia,true,279
+"Instrumental Contemplativo 1","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,300
+"Instrumental Contemplativo 2","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,301
+"Instrumental Contemplativo 3","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,302
+"Instrumental Contemplativo 4","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,303
+"Instrumental Contemplativo 5","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,304
+"Instrumental Contemplativo 6","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,305
+"Instrumental Contemplativo 7","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,306
+"Instrumental Contemplativo 8","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,307
+"Instrumental Contemplativo 9","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,308
+"Instrumental Contemplativo 10","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,309
+"Instrumental Contemplativo 11","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,310
+"Instrumental Contemplativo 12","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,311
+"Instrumental Contemplativo 13","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,312
+"Instrumental Contemplativo 14","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,313
+"Instrumental Contemplativo 15","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,314
+"Instrumental Contemplativo 16","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,315
+"Instrumental Contemplativo 17","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,316
+"Instrumental Contemplativo 18","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,317
+"Instrumental Contemplativo 19","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,318
+"Instrumental Contemplativo 20","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,319
+"Instrumental Contemplativo 21","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,320
+"Instrumental Contemplativo 22","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,321
+"Instrumental Contemplativo 23","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,322
+"Instrumental Contemplativo 24","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,323
+"Instrumental Contemplativo 25","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,324
+"Instrumental Contemplativo 26","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,325
+"Instrumental Contemplativo 27","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,326
+"Instrumental Contemplativo 28","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,327
+"Instrumental Contemplativo 29","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,328
+"Instrumental Contemplativo 30","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,329
+"Instrumental Contemplativo 31","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,330
+"Instrumental Contemplativo 32","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,331
+"Instrumental Contemplativo 33","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,332
+"Instrumental Contemplativo 34","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,333
+"Instrumental Contemplativo 35","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,334
+"Instrumental Contemplativo 36","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,335
+"Instrumental Contemplativo 37","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,336
+"Instrumental Contemplativo 38","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,337
+"Instrumental Contemplativo 39","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,338
+"Instrumental Contemplativo 40","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,339
+"Instrumental Contemplativo 41","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,340
+"Instrumental Contemplativo 42","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,341
+"Instrumental Contemplativo 43","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,342
+"Instrumental Contemplativo 44","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,343
+"Instrumental Contemplativo 45","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,344
+"Instrumental Contemplativo 46","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,345
+"Instrumental Contemplativo 47","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,346
+"Instrumental Contemplativo 48","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,347
+"Instrumental Contemplativo 49","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,348
+"Instrumental Contemplativo 50","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,349
+"Instrumental Contemplativo 51","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,350
+"Instrumental Contemplativo 52","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,351
+"Instrumental Contemplativo 53","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,352
+"Instrumental Contemplativo 54","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,353
+"Instrumental Contemplativo 55","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,354
+"Instrumental Contemplativo 56","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,355
+"Instrumental Contemplativo 57","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,356
+"Instrumental Contemplativo 58","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,357
+"Instrumental Contemplativo 59","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,358
+"Instrumental Contemplativo 60","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,359
+"Instrumental Contemplativo 61","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,360
+"Instrumental Contemplativo 62","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,361
+"Instrumental Contemplativo 63","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,362
+"Instrumental Contemplativo 64","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,363
+"Instrumental Contemplativo 65","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,364
+"Instrumental Contemplativo 66","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,365
+"Instrumental Contemplativo 67","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,366
+"Instrumental Contemplativo 68","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,367
+"Instrumental Contemplativo 69","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,368
+"Instrumental Contemplativo 70","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,369
+"Instrumental Contemplativo 71","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,370
+"Instrumental Contemplativo 72","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,371
+"Instrumental Contemplativo 73","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,372
+"Instrumental Contemplativo 74","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,373
+"Instrumental Contemplativo 75","Pixabay Music","Various",instrumental,ofertorio,comum,Pixabay,true,374
+"Hino Tradicional 1","Coral Tradicional 1","Tradicional",liturgica,entrada,advento,Folhetos de Canto,true,200
+"Hino Tradicional 2","Coral Tradicional 2","Tradicional",liturgica,gloria,natal,Folhetos de Canto,true,201
+"Hino Tradicional 3","Coral Tradicional 3","Tradicional",liturgica,salmo,quaresma,Folhetos de Canto,true,202
+"Hino Tradicional 4","Coral Tradicional 4","Tradicional",liturgica,ofertorio,pascoa,Folhetos de Canto,true,203
+"Hino Tradicional 5","Coral Tradicional 5","Tradicional",liturgica,santo,pentecostes,Folhetos de Canto,true,204
+"Hino Tradicional 6","Coral Tradicional 6","Tradicional",liturgica,comunhao,mariano,Folhetos de Canto,true,205
+"Hino Tradicional 7","Coral Tradicional 7","Tradicional",liturgica,final,funerario,Folhetos de Canto,true,206
+"Hino Tradicional 8","Coral Tradicional 8","Tradicional",liturgica,ato_penitencial,batizado,Folhetos de Canto,true,207
+"Hino Tradicional 9","Coral Tradicional 9","Tradicional",liturgica,entrada,comum,Folhetos de Canto,true,208
+"Hino Tradicional 10","Coral Tradicional 10","Tradicional",liturgica,gloria,advento,Folhetos de Canto,true,209
+"Hino Tradicional 11","Coral Tradicional 11","Tradicional",liturgica,salmo,natal,Folhetos de Canto,true,210
+"Hino Tradicional 12","Coral Tradicional 12","Tradicional",liturgica,ofertorio,quaresma,Folhetos de Canto,true,211
+"Hino Tradicional 13","Coral Tradicional 13","Tradicional",liturgica,santo,pascoa,Folhetos de Canto,true,212
+"Hino Tradicional 14","Coral Tradicional 14","Tradicional",liturgica,comunhao,pentecostes,Folhetos de Canto,true,213
+"Hino Tradicional 15","Coral Tradicional 15","Tradicional",liturgica,final,mariano,Folhetos de Canto,true,214
+"Hino Tradicional 16","Coral Tradicional 16","Tradicional",liturgica,ato_penitencial,funerario,Folhetos de Canto,true,215
+"Hino Tradicional 17","Coral Tradicional 17","Tradicional",liturgica,entrada,batizado,Folhetos de Canto,true,216
+"Hino Tradicional 18","Coral Tradicional 18","Tradicional",liturgica,gloria,comum,Folhetos de Canto,true,217
+"Hino Tradicional 19","Coral Tradicional 19","Tradicional",liturgica,salmo,advento,Folhetos de Canto,true,218
+"Hino Tradicional 20","Coral Tradicional 20","Tradicional",liturgica,ofertorio,natal,Folhetos de Canto,true,219
+"Hino Tradicional 21","Coral Tradicional 21","Tradicional",liturgica,santo,quaresma,Folhetos de Canto,true,220
+"Hino Tradicional 22","Coral Tradicional 22","Tradicional",liturgica,comunhao,pascoa,Folhetos de Canto,true,221
+"Hino Tradicional 23","Coral Tradicional 23","Tradicional",liturgica,final,pentecostes,Folhetos de Canto,true,222
+"Hino Tradicional 24","Coral Tradicional 24","Tradicional",liturgica,ato_penitencial,mariano,Folhetos de Canto,true,223
+"Hino Tradicional 25","Coral Tradicional 25","Tradicional",liturgica,entrada,funerario,Folhetos de Canto,true,224
+"Hino Tradicional 26","Coral Tradicional 26","Tradicional",liturgica,gloria,batizado,Folhetos de Canto,true,225
+"Hino Tradicional 27","Coral Tradicional 27","Tradicional",liturgica,salmo,comum,Folhetos de Canto,true,226
+"Hino Tradicional 28","Coral Tradicional 28","Tradicional",liturgica,ofertorio,advento,Folhetos de Canto,true,227
+"Hino Tradicional 29","Coral Tradicional 29","Tradicional",liturgica,santo,natal,Folhetos de Canto,true,228
+"Hino Tradicional 30","Coral Tradicional 30","Tradicional",liturgica,comunhao,quaresma,Folhetos de Canto,true,229
+"Hino Tradicional 31","Coral Tradicional 31","Tradicional",liturgica,final,pascoa,Folhetos de Canto,true,230
+"Hino Tradicional 32","Coral Tradicional 32","Tradicional",liturgica,ato_penitencial,pentecostes,Folhetos de Canto,true,231
+"Hino Tradicional 33","Coral Tradicional 33","Tradicional",liturgica,entrada,mariano,Folhetos de Canto,true,232
+"Hino Tradicional 34","Coral Tradicional 34","Tradicional",liturgica,gloria,funerario,Folhetos de Canto,true,233
+"Hino Tradicional 35","Coral Tradicional 35","Tradicional",liturgica,salmo,batizado,Folhetos de Canto,true,234
+"Hino Tradicional 36","Coral Tradicional 36","Tradicional",liturgica,ofertorio,comum,Folhetos de Canto,true,235
+"Hino Tradicional 37","Coral Tradicional 37","Tradicional",liturgica,santo,advento,Folhetos de Canto,true,236
+"Hino Tradicional 38","Coral Tradicional 38","Tradicional",liturgica,comunhao,natal,Folhetos de Canto,true,237
+"Hino Tradicional 39","Coral Tradicional 39","Tradicional",liturgica,final,quaresma,Folhetos de Canto,true,238
+"Hino Tradicional 40","Coral Tradicional 40","Tradicional",liturgica,ato_penitencial,pascoa,Folhetos de Canto,true,239
+"Hino Tradicional 41","Coral Tradicional 41","Tradicional",liturgica,entrada,pentecostes,Folhetos de Canto,true,240
+"Hino Tradicional 42","Coral Tradicional 42","Tradicional",liturgica,gloria,mariano,Folhetos de Canto,true,241
+"Hino Tradicional 43","Coral Tradicional 43","Tradicional",liturgica,salmo,funerario,Folhetos de Canto,true,242
+"Hino Tradicional 44","Coral Tradicional 44","Tradicional",liturgica,ofertorio,batizado,Folhetos de Canto,true,243
+"Hino Tradicional 45","Coral Tradicional 45","Tradicional",liturgica,santo,comum,Folhetos de Canto,true,244
+"Hino Tradicional 46","Coral Tradicional 46","Tradicional",liturgica,comunhao,advento,Folhetos de Canto,true,245
+"Hino Tradicional 47","Coral Tradicional 47","Tradicional",liturgica,final,natal,Folhetos de Canto,true,246
+"Hino Tradicional 48","Coral Tradicional 48","Tradicional",liturgica,ato_penitencial,quaresma,Folhetos de Canto,true,247
+"Hino Tradicional 49","Coral Tradicional 49","Tradicional",liturgica,entrada,pascoa,Folhetos de Canto,true,248
+"Hino Tradicional 50","Coral Tradicional 50","Tradicional",liturgica,gloria,pentecostes,Folhetos de Canto,true,249
+"Hino Tradicional 51","Coral Tradicional 51","Tradicional",liturgica,salmo,mariano,Folhetos de Canto,true,250
+"Hino Tradicional 52","Coral Tradicional 52","Tradicional",liturgica,ofertorio,funerario,Folhetos de Canto,true,251
+"Hino Tradicional 53","Coral Tradicional 53","Tradicional",liturgica,santo,batizado,Folhetos de Canto,true,252
+"Hino Tradicional 54","Coral Tradicional 54","Tradicional",liturgica,comunhao,comum,Folhetos de Canto,true,253
+"Hino Tradicional 55","Coral Tradicional 55","Tradicional",liturgica,final,advento,Folhetos de Canto,true,254
+"Hino Tradicional 56","Coral Tradicional 56","Tradicional",liturgica,ato_penitencial,natal,Folhetos de Canto,true,255
+"Hino Tradicional 57","Coral Tradicional 57","Tradicional",liturgica,entrada,quaresma,Folhetos de Canto,true,256
+"Hino Tradicional 58","Coral Tradicional 58","Tradicional",liturgica,gloria,pascoa,Folhetos de Canto,true,257
+"Hino Tradicional 59","Coral Tradicional 59","Tradicional",liturgica,salmo,pentecostes,Folhetos de Canto,true,258
+"Hino Tradicional 60","Coral Tradicional 60","Tradicional",liturgica,ofertorio,mariano,Folhetos de Canto,true,259
+"Hino Tradicional 61","Coral Tradicional 61","Tradicional",liturgica,santo,funerario,Folhetos de Canto,true,260
+"Hino Tradicional 62","Coral Tradicional 62","Tradicional",liturgica,comunhao,batizado,Folhetos de Canto,true,261
+"Hino Tradicional 63","Coral Tradicional 63","Tradicional",liturgica,final,comum,Folhetos de Canto,true,262
+"Hino Tradicional 64","Coral Tradicional 64","Tradicional",liturgica,ato_penitencial,advento,Folhetos de Canto,true,263
+"Hino Tradicional 65","Coral Tradicional 65","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,264
+"Hino Tradicional 66","Coral Tradicional 66","Tradicional",liturgica,gloria,quaresma,Folhetos de Canto,true,265
+"Hino Tradicional 67","Coral Tradicional 67","Tradicional",liturgica,salmo,pascoa,Folhetos de Canto,true,266
+"Hino Tradicional 68","Coral Tradicional 68","Tradicional",liturgica,ofertorio,pentecostes,Folhetos de Canto,true,267
+"Hino Tradicional 69","Coral Tradicional 69","Tradicional",liturgica,santo,mariano,Folhetos de Canto,true,268
+"Hino Tradicional 70","Coral Tradicional 70","Tradicional",liturgica,comunhao,funerario,Folhetos de Canto,true,269
+"Hino Tradicional 71","Coral Tradicional 71","Tradicional",liturgica,final,batizado,Folhetos de Canto,true,270
+"Hino Tradicional 72","Coral Tradicional 72","Tradicional",liturgica,ato_penitencial,comum,Folhetos de Canto,true,271
+"Hino Tradicional 73","Coral Tradicional 73","Tradicional",liturgica,entrada,advento,Folhetos de Canto,true,272
+"Hino Tradicional 74","Coral Tradicional 74","Tradicional",liturgica,gloria,natal,Folhetos de Canto,true,273
+"Hino Tradicional 75","Coral Tradicional 75","Tradicional",liturgica,salmo,quaresma,Folhetos de Canto,true,274
+"Hino Tradicional 76","Coral Tradicional 76","Tradicional",liturgica,ofertorio,pascoa,Folhetos de Canto,true,275
+"Hino Tradicional 77","Coral Tradicional 77","Tradicional",liturgica,santo,pentecostes,Folhetos de Canto,true,276
+"Hino Tradicional 78","Coral Tradicional 78","Tradicional",liturgica,comunhao,mariano,Folhetos de Canto,true,277
+"Hino Tradicional 79","Coral Tradicional 79","Tradicional",liturgica,final,funerario,Folhetos de Canto,true,278
+"Hino Tradicional 80","Coral Tradicional 80","Tradicional",liturgica,ato_penitencial,batizado,Folhetos de Canto,true,279
+"Hino Tradicional 81","Coral Tradicional 81","Tradicional",liturgica,entrada,comum,Folhetos de Canto,true,280
+"Hino Tradicional 82","Coral Tradicional 82","Tradicional",liturgica,gloria,advento,Folhetos de Canto,true,281
+"Hino Tradicional 83","Coral Tradicional 83","Tradicional",liturgica,salmo,natal,Folhetos de Canto,true,282
+"Hino Tradicional 84","Coral Tradicional 84","Tradicional",liturgica,ofertorio,quaresma,Folhetos de Canto,true,283
+"Hino Tradicional 85","Coral Tradicional 85","Tradicional",liturgica,santo,pascoa,Folhetos de Canto,true,284
+"Hino Tradicional 86","Coral Tradicional 86","Tradicional",liturgica,comunhao,pentecostes,Folhetos de Canto,true,285
+"Hino Tradicional 87","Coral Tradicional 87","Tradicional",liturgica,final,mariano,Folhetos de Canto,true,286
+"Hino Tradicional 88","Coral Tradicional 88","Tradicional",liturgica,ato_penitencial,funerario,Folhetos de Canto,true,287
+"Hino Tradicional 89","Coral Tradicional 89","Tradicional",liturgica,entrada,batizado,Folhetos de Canto,true,288
+"Hino Tradicional 90","Coral Tradicional 90","Tradicional",liturgica,gloria,comum,Folhetos de Canto,true,289
+"Hino Tradicional 91","Coral Tradicional 91","Tradicional",liturgica,salmo,advento,Folhetos de Canto,true,290
+"Hino Tradicional 92","Coral Tradicional 92","Tradicional",liturgica,ofertorio,natal,Folhetos de Canto,true,291
+"Hino Tradicional 93","Coral Tradicional 93","Tradicional",liturgica,santo,quaresma,Folhetos de Canto,true,292
+"Hino Tradicional 94","Coral Tradicional 94","Tradicional",liturgica,comunhao,pascoa,Folhetos de Canto,true,293
+"Hino Tradicional 95","Coral Tradicional 95","Tradicional",liturgica,final,pentecostes,Folhetos de Canto,true,294
+"Hino Tradicional 96","Coral Tradicional 96","Tradicional",liturgica,ato_penitencial,mariano,Folhetos de Canto,true,295
+"Hino Tradicional 97","Coral Tradicional 97","Tradicional",liturgica,entrada,funerario,Folhetos de Canto,true,296
+"Hino Tradicional 98","Coral Tradicional 98","Tradicional",liturgica,gloria,batizado,Folhetos de Canto,true,297
+"Hino Tradicional 99","Coral Tradicional 99","Tradicional",liturgica,salmo,comum,Folhetos de Canto,true,298
+"Hino Tradicional 100","Coral Tradicional 100","Tradicional",liturgica,ofertorio,advento,Folhetos de Canto,true,299
+"Canto Católico 1","Ensemble Vocal 1","Tradicional",louvor,entrada,advento,Portal Kairos,true,220
+"Canto Católico 2","Ensemble Vocal 2","Tradicional",coral,gloria,natal,Portal Kairos,true,221
+"Canto Católico 3","Ensemble Vocal 3","Tradicional",liturgica,salmo,quaresma,Portal Kairos,true,222
+"Canto Católico 4","Ensemble Vocal 4","Tradicional",louvor,ofertorio,pascoa,Portal Kairos,true,223
+"Canto Católico 5","Ensemble Vocal 5","Tradicional",coral,santo,pentecostes,Portal Kairos,true,224
+"Canto Católico 6","Ensemble Vocal 6","Tradicional",liturgica,comunhao,mariano,Portal Kairos,true,225
+"Canto Católico 7","Ensemble Vocal 7","Tradicional",louvor,final,funerario,Portal Kairos,true,226
+"Canto Católico 8","Ensemble Vocal 8","Tradicional",coral,ato_penitencial,batizado,Portal Kairos,true,227
+"Canto Católico 9","Ensemble Vocal 9","Tradicional",liturgica,entrada,comum,Portal Kairos,true,228
+"Canto Católico 10","Ensemble Vocal 10","Tradicional",louvor,gloria,advento,Portal Kairos,true,229
+"Canto Católico 11","Ensemble Vocal 11","Tradicional",coral,salmo,natal,Portal Kairos,true,230
+"Canto Católico 12","Ensemble Vocal 12","Tradicional",liturgica,ofertorio,quaresma,Portal Kairos,true,231
+"Canto Católico 13","Ensemble Vocal 13","Tradicional",louvor,santo,pascoa,Portal Kairos,true,232
+"Canto Católico 14","Ensemble Vocal 14","Tradicional",coral,comunhao,pentecostes,Portal Kairos,true,233
+"Canto Católico 15","Ensemble Vocal 15","Tradicional",liturgica,final,mariano,Portal Kairos,true,234
+"Canto Católico 16","Ensemble Vocal 16","Tradicional",louvor,ato_penitencial,funerario,Portal Kairos,true,235
+"Canto Católico 17","Ensemble Vocal 17","Tradicional",coral,entrada,batizado,Portal Kairos,true,236
+"Canto Católico 18","Ensemble Vocal 18","Tradicional",liturgica,gloria,comum,Portal Kairos,true,237
+"Canto Católico 19","Ensemble Vocal 19","Tradicional",louvor,salmo,advento,Portal Kairos,true,238
+"Canto Católico 20","Ensemble Vocal 20","Tradicional",coral,ofertorio,natal,Portal Kairos,true,239
+"Canto Católico 21","Ensemble Vocal 21","Tradicional",liturgica,santo,quaresma,Portal Kairos,true,240
+"Canto Católico 22","Ensemble Vocal 22","Tradicional",louvor,comunhao,pascoa,Portal Kairos,true,241
+"Canto Católico 23","Ensemble Vocal 23","Tradicional",coral,final,pentecostes,Portal Kairos,true,242
+"Canto Católico 24","Ensemble Vocal 24","Tradicional",liturgica,ato_penitencial,mariano,Portal Kairos,true,243
+"Canto Católico 25","Ensemble Vocal 25","Tradicional",louvor,entrada,funerario,Portal Kairos,true,244
+"Canto Católico 26","Ensemble Vocal 26","Tradicional",coral,gloria,batizado,Portal Kairos,true,245
+"Canto Católico 27","Ensemble Vocal 27","Tradicional",liturgica,salmo,comum,Portal Kairos,true,246
+"Canto Católico 28","Ensemble Vocal 28","Tradicional",louvor,ofertorio,advento,Portal Kairos,true,247
+"Canto Católico 29","Ensemble Vocal 29","Tradicional",coral,santo,natal,Portal Kairos,true,248
+"Canto Católico 30","Ensemble Vocal 30","Tradicional",liturgica,comunhao,quaresma,Portal Kairos,true,249
+"Canto Católico 31","Ensemble Vocal 31","Tradicional",louvor,final,pascoa,Portal Kairos,true,250
+"Canto Católico 32","Ensemble Vocal 32","Tradicional",coral,ato_penitencial,pentecostes,Portal Kairos,true,251
+"Canto Católico 33","Ensemble Vocal 33","Tradicional",liturgica,entrada,mariano,Portal Kairos,true,252
+"Canto Católico 34","Ensemble Vocal 34","Tradicional",louvor,gloria,funerario,Portal Kairos,true,253
+"Canto Católico 35","Ensemble Vocal 35","Tradicional",coral,salmo,batizado,Portal Kairos,true,254
+"Canto Católico 36","Ensemble Vocal 36","Tradicional",liturgica,ofertorio,comum,Portal Kairos,true,255
+"Canto Católico 37","Ensemble Vocal 37","Tradicional",louvor,santo,advento,Portal Kairos,true,256
+"Canto Católico 38","Ensemble Vocal 38","Tradicional",coral,comunhao,natal,Portal Kairos,true,257
+"Canto Católico 39","Ensemble Vocal 39","Tradicional",liturgica,final,quaresma,Portal Kairos,true,258
+"Canto Católico 40","Ensemble Vocal 40","Tradicional",louvor,ato_penitencial,pascoa,Portal Kairos,true,259
+"Canto Católico 41","Ensemble Vocal 41","Tradicional",coral,entrada,pentecostes,Portal Kairos,true,260
+"Canto Católico 42","Ensemble Vocal 42","Tradicional",liturgica,gloria,mariano,Portal Kairos,true,261
+"Canto Católico 43","Ensemble Vocal 43","Tradicional",louvor,salmo,funerario,Portal Kairos,true,262
+"Canto Católico 44","Ensemble Vocal 44","Tradicional",coral,ofertorio,batizado,Portal Kairos,true,263
+"Canto Católico 45","Ensemble Vocal 45","Tradicional",liturgica,santo,comum,Portal Kairos,true,264
+"Canto Católico 46","Ensemble Vocal 46","Tradicional",louvor,comunhao,advento,Portal Kairos,true,265
+"Canto Católico 47","Ensemble Vocal 47","Tradicional",coral,final,natal,Portal Kairos,true,266
+"Canto Católico 48","Ensemble Vocal 48","Tradicional",liturgica,ato_penitencial,quaresma,Portal Kairos,true,267
+"Canto Católico 49","Ensemble Vocal 49","Tradicional",louvor,entrada,pascoa,Portal Kairos,true,268
+"Canto Católico 50","Ensemble Vocal 50","Tradicional",coral,gloria,pentecostes,Portal Kairos,true,269
+"Canto Católico 51","Ensemble Vocal 51","Tradicional",liturgica,salmo,mariano,Portal Kairos,true,270
+"Canto Católico 52","Ensemble Vocal 52","Tradicional",louvor,ofertorio,funerario,Portal Kairos,true,271
+"Canto Católico 53","Ensemble Vocal 53","Tradicional",coral,santo,batizado,Portal Kairos,true,272
+"Canto Católico 54","Ensemble Vocal 54","Tradicional",liturgica,comunhao,comum,Portal Kairos,true,273
+"Canto Católico 55","Ensemble Vocal 55","Tradicional",louvor,final,advento,Portal Kairos,true,274
+"Canto Católico 56","Ensemble Vocal 56","Tradicional",coral,ato_penitencial,natal,Portal Kairos,true,275
+"Canto Católico 57","Ensemble Vocal 57","Tradicional",liturgica,entrada,quaresma,Portal Kairos,true,276
+"Canto Católico 58","Ensemble Vocal 58","Tradicional",louvor,gloria,pascoa,Portal Kairos,true,277
+"Canto Católico 59","Ensemble Vocal 59","Tradicional",coral,salmo,pentecostes,Portal Kairos,true,278
+"Canto Católico 60","Ensemble Vocal 60","Tradicional",liturgica,ofertorio,mariano,Portal Kairos,true,279
+"Canto Católico 61","Ensemble Vocal 61","Tradicional",louvor,santo,funerario,Portal Kairos,true,280
+"Canto Católico 62","Ensemble Vocal 62","Tradicional",coral,comunhao,batizado,Portal Kairos,true,281
+"Canto Católico 63","Ensemble Vocal 63","Tradicional",liturgica,final,comum,Portal Kairos,true,282
+"Canto Católico 64","Ensemble Vocal 64","Tradicional",louvor,ato_penitencial,advento,Portal Kairos,true,283
+"Canto Católico 65","Ensemble Vocal 65","Tradicional",coral,entrada,natal,Portal Kairos,true,284
+"Canto Católico 66","Ensemble Vocal 66","Tradicional",liturgica,gloria,quaresma,Portal Kairos,true,285
+"Canto Católico 67","Ensemble Vocal 67","Tradicional",louvor,salmo,pascoa,Portal Kairos,true,286
+"Canto Católico 68","Ensemble Vocal 68","Tradicional",coral,ofertorio,pentecostes,Portal Kairos,true,287
+"Canto Católico 69","Ensemble Vocal 69","Tradicional",liturgica,santo,mariano,Portal Kairos,true,288
+"Canto Católico 70","Ensemble Vocal 70","Tradicional",louvor,comunhao,funerario,Portal Kairos,true,289
+"Canto Católico 71","Ensemble Vocal 71","Tradicional",coral,final,batizado,Portal Kairos,true,290
+"Canto Católico 72","Ensemble Vocal 72","Tradicional",liturgica,ato_penitencial,comum,Portal Kairos,true,291
+"Canto Católico 73","Ensemble Vocal 73","Tradicional",louvor,entrada,advento,Portal Kairos,true,292
+"Canto Católico 74","Ensemble Vocal 74","Tradicional",coral,gloria,natal,Portal Kairos,true,293
+"Canto Católico 75","Ensemble Vocal 75","Tradicional",liturgica,salmo,quaresma,Portal Kairos,true,294
+"Canto Católico 76","Ensemble Vocal 76","Tradicional",louvor,ofertorio,pascoa,Portal Kairos,true,295
+"Canto Católico 77","Ensemble Vocal 77","Tradicional",coral,santo,pentecostes,Portal Kairos,true,296
+"Canto Católico 78","Ensemble Vocal 78","Tradicional",liturgica,comunhao,mariano,Portal Kairos,true,297
+"Canto Católico 79","Ensemble Vocal 79","Tradicional",louvor,final,funerario,Portal Kairos,true,298
+"Canto Católico 80","Ensemble Vocal 80","Tradicional",coral,ato_penitencial,batizado,Portal Kairos,true,299
+"Canto Católico 81","Ensemble Vocal 81","Tradicional",liturgica,entrada,comum,Portal Kairos,true,300
+"Canto Católico 82","Ensemble Vocal 82","Tradicional",louvor,gloria,advento,Portal Kairos,true,301
+"Canto Católico 83","Ensemble Vocal 83","Tradicional",coral,salmo,natal,Portal Kairos,true,302
+"Canto Católico 84","Ensemble Vocal 84","Tradicional",liturgica,ofertorio,quaresma,Portal Kairos,true,303
+"Canto Católico 85","Ensemble Vocal 85","Tradicional",louvor,santo,pascoa,Portal Kairos,true,304
+"Canto Católico 86","Ensemble Vocal 86","Tradicional",coral,comunhao,pentecostes,Portal Kairos,true,305
+"Canto Católico 87","Ensemble Vocal 87","Tradicional",liturgica,final,mariano,Portal Kairos,true,306
+"Canto Católico 88","Ensemble Vocal 88","Tradicional",louvor,ato_penitencial,funerario,Portal Kairos,true,307
+"Canto Católico 89","Ensemble Vocal 89","Tradicional",coral,entrada,batizado,Portal Kairos,true,308
+"Canto Católico 90","Ensemble Vocal 90","Tradicional",liturgica,gloria,comum,Portal Kairos,true,309
+"Canto Católico 91","Ensemble Vocal 91","Tradicional",louvor,salmo,advento,Portal Kairos,true,310
+"Canto Católico 92","Ensemble Vocal 92","Tradicional",coral,ofertorio,natal,Portal Kairos,true,311
+"Canto Católico 93","Ensemble Vocal 93","Tradicional",liturgica,santo,quaresma,Portal Kairos,true,312
+"Canto Católico 94","Ensemble Vocal 94","Tradicional",louvor,comunhao,pascoa,Portal Kairos,true,313
+"Canto Católico 95","Ensemble Vocal 95","Tradicional",coral,final,pentecostes,Portal Kairos,true,314
+"Canto Católico 96","Ensemble Vocal 96","Tradicional",liturgica,ato_penitencial,mariano,Portal Kairos,true,315
+"Canto Católico 97","Ensemble Vocal 97","Tradicional",louvor,entrada,funerario,Portal Kairos,true,316
+"Canto Católico 98","Ensemble Vocal 98","Tradicional",coral,gloria,batizado,Portal Kairos,true,317
+"Canto Católico 99","Ensemble Vocal 99","Tradicional",liturgica,salmo,comum,Portal Kairos,true,318
+"Canto Católico 100","Ensemble Vocal 100","Tradicional",louvor,ofertorio,advento,Portal Kairos,true,319
+"O Vem, Vem, Emanuel 1","Coral Advento 1","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,220
+"O Vem, Vem, Emanuel 2","Coral Advento 2","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,221
+"O Vem, Vem, Emanuel 3","Coral Advento 3","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,222
+"O Vem, Vem, Emanuel 4","Coral Advento 4","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,223
+"O Vem, Vem, Emanuel 5","Coral Advento 5","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,224
+"O Vem, Vem, Emanuel 6","Coral Advento 6","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,225
+"O Vem, Vem, Emanuel 7","Coral Advento 7","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,226
+"O Vem, Vem, Emanuel 8","Coral Advento 8","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,227
+"O Vem, Vem, Emanuel 9","Coral Advento 9","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,228
+"O Vem, Vem, Emanuel 10","Coral Advento 10","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,229
+"O Vem, Vem, Emanuel 11","Coral Advento 11","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,230
+"O Vem, Vem, Emanuel 12","Coral Advento 12","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,231
+"O Vem, Vem, Emanuel 13","Coral Advento 13","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,232
+"O Vem, Vem, Emanuel 14","Coral Advento 14","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,233
+"O Vem, Vem, Emanuel 15","Coral Advento 15","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,234
+"O Vem, Vem, Emanuel 16","Coral Advento 16","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,235
+"O Vem, Vem, Emanuel 17","Coral Advento 17","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,236
+"O Vem, Vem, Emanuel 18","Coral Advento 18","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,237
+"O Vem, Vem, Emanuel 19","Coral Advento 19","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,238
+"O Vem, Vem, Emanuel 20","Coral Advento 20","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,239
+"O Vem, Vem, Emanuel 21","Coral Advento 21","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,240
+"O Vem, Vem, Emanuel 22","Coral Advento 22","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,241
+"O Vem, Vem, Emanuel 23","Coral Advento 23","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,242
+"O Vem, Vem, Emanuel 24","Coral Advento 24","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,243
+"O Vem, Vem, Emanuel 25","Coral Advento 25","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,244
+"O Vem, Vem, Emanuel 26","Coral Advento 26","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,245
+"O Vem, Vem, Emanuel 27","Coral Advento 27","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,246
+"O Vem, Vem, Emanuel 28","Coral Advento 28","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,247
+"O Vem, Vem, Emanuel 29","Coral Advento 29","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,248
+"O Vem, Vem, Emanuel 30","Coral Advento 30","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,249
+"O Vem, Vem, Emanuel 31","Coral Advento 31","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,250
+"O Vem, Vem, Emanuel 32","Coral Advento 32","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,251
+"O Vem, Vem, Emanuel 33","Coral Advento 33","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,252
+"O Vem, Vem, Emanuel 34","Coral Advento 34","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,253
+"O Vem, Vem, Emanuel 35","Coral Advento 35","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,254
+"O Vem, Vem, Emanuel 36","Coral Advento 36","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,255
+"O Vem, Vem, Emanuel 37","Coral Advento 37","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,256
+"O Vem, Vem, Emanuel 38","Coral Advento 38","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,257
+"O Vem, Vem, Emanuel 39","Coral Advento 39","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,258
+"O Vem, Vem, Emanuel 40","Coral Advento 40","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,259
+"O Vem, Vem, Emanuel 41","Coral Advento 41","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,260
+"O Vem, Vem, Emanuel 42","Coral Advento 42","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,261
+"O Vem, Vem, Emanuel 43","Coral Advento 43","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,262
+"O Vem, Vem, Emanuel 44","Coral Advento 44","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,263
+"O Vem, Vem, Emanuel 45","Coral Advento 45","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,264
+"O Vem, Vem, Emanuel 46","Coral Advento 46","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,265
+"O Vem, Vem, Emanuel 47","Coral Advento 47","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,266
+"O Vem, Vem, Emanuel 48","Coral Advento 48","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,267
+"O Vem, Vem, Emanuel 49","Coral Advento 49","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,268
+"O Vem, Vem, Emanuel 50","Coral Advento 50","Tradicional",liturgica,entrada,advento,Musicanaliturgia,true,269
+"Noite Feliz 1","Coro Natalino 1","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,180
+"Noite Feliz 2","Coro Natalino 2","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,181
+"Noite Feliz 3","Coro Natalino 3","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,182
+"Noite Feliz 4","Coro Natalino 4","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,183
+"Noite Feliz 5","Coro Natalino 5","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,184
+"Noite Feliz 6","Coro Natalino 6","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,185
+"Noite Feliz 7","Coro Natalino 7","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,186
+"Noite Feliz 8","Coro Natalino 8","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,187
+"Noite Feliz 9","Coro Natalino 9","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,188
+"Noite Feliz 10","Coro Natalino 10","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,189
+"Noite Feliz 11","Coro Natalino 11","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,190
+"Noite Feliz 12","Coro Natalino 12","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,191
+"Noite Feliz 13","Coro Natalino 13","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,192
+"Noite Feliz 14","Coro Natalino 14","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,193
+"Noite Feliz 15","Coro Natalino 15","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,194
+"Noite Feliz 16","Coro Natalino 16","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,195
+"Noite Feliz 17","Coro Natalino 17","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,196
+"Noite Feliz 18","Coro Natalino 18","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,197
+"Noite Feliz 19","Coro Natalino 19","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,198
+"Noite Feliz 20","Coro Natalino 20","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,199
+"Noite Feliz 21","Coro Natalino 21","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,200
+"Noite Feliz 22","Coro Natalino 22","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,201
+"Noite Feliz 23","Coro Natalino 23","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,202
+"Noite Feliz 24","Coro Natalino 24","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,203
+"Noite Feliz 25","Coro Natalino 25","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,204
+"Noite Feliz 26","Coro Natalino 26","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,205
+"Noite Feliz 27","Coro Natalino 27","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,206
+"Noite Feliz 28","Coro Natalino 28","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,207
+"Noite Feliz 29","Coro Natalino 29","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,208
+"Noite Feliz 30","Coro Natalino 30","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,209
+"Noite Feliz 31","Coro Natalino 31","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,210
+"Noite Feliz 32","Coro Natalino 32","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,211
+"Noite Feliz 33","Coro Natalino 33","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,212
+"Noite Feliz 34","Coro Natalino 34","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,213
+"Noite Feliz 35","Coro Natalino 35","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,214
+"Noite Feliz 36","Coro Natalino 36","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,215
+"Noite Feliz 37","Coro Natalino 37","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,216
+"Noite Feliz 38","Coro Natalino 38","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,217
+"Noite Feliz 39","Coro Natalino 39","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,218
+"Noite Feliz 40","Coro Natalino 40","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,219
+"Noite Feliz 41","Coro Natalino 41","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,220
+"Noite Feliz 42","Coro Natalino 42","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,221
+"Noite Feliz 43","Coro Natalino 43","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,222
+"Noite Feliz 44","Coro Natalino 44","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,223
+"Noite Feliz 45","Coro Natalino 45","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,224
+"Noite Feliz 46","Coro Natalino 46","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,225
+"Noite Feliz 47","Coro Natalino 47","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,226
+"Noite Feliz 48","Coro Natalino 48","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,227
+"Noite Feliz 49","Coro Natalino 49","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,228
+"Noite Feliz 50","Coro Natalino 50","Tradicional",liturgica,entrada,natal,Folhetos de Canto,true,229
+"Aleluia, Aleluia 1","Coro Pascal 1","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,200
+"Aleluia, Aleluia 2","Coro Pascal 2","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,201
+"Aleluia, Aleluia 3","Coro Pascal 3","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,202
+"Aleluia, Aleluia 4","Coro Pascal 4","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,203
+"Aleluia, Aleluia 5","Coro Pascal 5","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,204
+"Aleluia, Aleluia 6","Coro Pascal 6","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,205
+"Aleluia, Aleluia 7","Coro Pascal 7","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,206
+"Aleluia, Aleluia 8","Coro Pascal 8","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,207
+"Aleluia, Aleluia 9","Coro Pascal 9","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,208
+"Aleluia, Aleluia 10","Coro Pascal 10","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,209
+"Aleluia, Aleluia 11","Coro Pascal 11","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,210
+"Aleluia, Aleluia 12","Coro Pascal 12","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,211
+"Aleluia, Aleluia 13","Coro Pascal 13","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,212
+"Aleluia, Aleluia 14","Coro Pascal 14","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,213
+"Aleluia, Aleluia 15","Coro Pascal 15","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,214
+"Aleluia, Aleluia 16","Coro Pascal 16","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,215
+"Aleluia, Aleluia 17","Coro Pascal 17","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,216
+"Aleluia, Aleluia 18","Coro Pascal 18","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,217
+"Aleluia, Aleluia 19","Coro Pascal 19","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,218
+"Aleluia, Aleluia 20","Coro Pascal 20","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,219
+"Aleluia, Aleluia 21","Coro Pascal 21","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,220
+"Aleluia, Aleluia 22","Coro Pascal 22","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,221
+"Aleluia, Aleluia 23","Coro Pascal 23","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,222
+"Aleluia, Aleluia 24","Coro Pascal 24","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,223
+"Aleluia, Aleluia 25","Coro Pascal 25","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,224
+"Aleluia, Aleluia 26","Coro Pascal 26","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,225
+"Aleluia, Aleluia 27","Coro Pascal 27","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,226
+"Aleluia, Aleluia 28","Coro Pascal 28","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,227
+"Aleluia, Aleluia 29","Coro Pascal 29","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,228
+"Aleluia, Aleluia 30","Coro Pascal 30","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,229
+"Aleluia, Aleluia 31","Coro Pascal 31","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,230
+"Aleluia, Aleluia 32","Coro Pascal 32","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,231
+"Aleluia, Aleluia 33","Coro Pascal 33","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,232
+"Aleluia, Aleluia 34","Coro Pascal 34","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,233
+"Aleluia, Aleluia 35","Coro Pascal 35","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,234
+"Aleluia, Aleluia 36","Coro Pascal 36","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,235
+"Aleluia, Aleluia 37","Coro Pascal 37","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,236
+"Aleluia, Aleluia 38","Coro Pascal 38","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,237
+"Aleluia, Aleluia 39","Coro Pascal 39","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,238
+"Aleluia, Aleluia 40","Coro Pascal 40","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,239
+"Aleluia, Aleluia 41","Coro Pascal 41","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,240
+"Aleluia, Aleluia 42","Coro Pascal 42","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,241
+"Aleluia, Aleluia 43","Coro Pascal 43","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,242
+"Aleluia, Aleluia 44","Coro Pascal 44","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,243
+"Aleluia, Aleluia 45","Coro Pascal 45","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,244
+"Aleluia, Aleluia 46","Coro Pascal 46","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,245
+"Aleluia, Aleluia 47","Coro Pascal 47","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,246
+"Aleluia, Aleluia 48","Coro Pascal 48","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,247
+"Aleluia, Aleluia 49","Coro Pascal 49","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,248
+"Aleluia, Aleluia 50","Coro Pascal 50","Tradicional",louvor,comunhao,pascoa,Palco MP3,true,249
+"Salve Rainha 1","Ensemble Mariano 1","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,240
+"Salve Rainha 2","Ensemble Mariano 2","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,241
+"Salve Rainha 3","Ensemble Mariano 3","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,242
+"Salve Rainha 4","Ensemble Mariano 4","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,243
+"Salve Rainha 5","Ensemble Mariano 5","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,244
+"Salve Rainha 6","Ensemble Mariano 6","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,245
+"Salve Rainha 7","Ensemble Mariano 7","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,246
+"Salve Rainha 8","Ensemble Mariano 8","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,247
+"Salve Rainha 9","Ensemble Mariano 9","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,248
+"Salve Rainha 10","Ensemble Mariano 10","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,249
+"Salve Rainha 11","Ensemble Mariano 11","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,250
+"Salve Rainha 12","Ensemble Mariano 12","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,251
+"Salve Rainha 13","Ensemble Mariano 13","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,252
+"Salve Rainha 14","Ensemble Mariano 14","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,253
+"Salve Rainha 15","Ensemble Mariano 15","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,254
+"Salve Rainha 16","Ensemble Mariano 16","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,255
+"Salve Rainha 17","Ensemble Mariano 17","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,256
+"Salve Rainha 18","Ensemble Mariano 18","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,257
+"Salve Rainha 19","Ensemble Mariano 19","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,258
+"Salve Rainha 20","Ensemble Mariano 20","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,259
+"Salve Rainha 21","Ensemble Mariano 21","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,260
+"Salve Rainha 22","Ensemble Mariano 22","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,261
+"Salve Rainha 23","Ensemble Mariano 23","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,262
+"Salve Rainha 24","Ensemble Mariano 24","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,263
+"Salve Rainha 25","Ensemble Mariano 25","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,264
+"Salve Rainha 26","Ensemble Mariano 26","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,265
+"Salve Rainha 27","Ensemble Mariano 27","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,266
+"Salve Rainha 28","Ensemble Mariano 28","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,267
+"Salve Rainha 29","Ensemble Mariano 29","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,268
+"Salve Rainha 30","Ensemble Mariano 30","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,269
+"Salve Rainha 31","Ensemble Mariano 31","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,270
+"Salve Rainha 32","Ensemble Mariano 32","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,271
+"Salve Rainha 33","Ensemble Mariano 33","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,272
+"Salve Rainha 34","Ensemble Mariano 34","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,273
+"Salve Rainha 35","Ensemble Mariano 35","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,274
+"Salve Rainha 36","Ensemble Mariano 36","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,275
+"Salve Rainha 37","Ensemble Mariano 37","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,276
+"Salve Rainha 38","Ensemble Mariano 38","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,277
+"Salve Rainha 39","Ensemble Mariano 39","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,278
+"Salve Rainha 40","Ensemble Mariano 40","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,279
+"Salve Rainha 41","Ensemble Mariano 41","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,280
+"Salve Rainha 42","Ensemble Mariano 42","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,281
+"Salve Rainha 43","Ensemble Mariano 43","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,282
+"Salve Rainha 44","Ensemble Mariano 44","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,283
+"Salve Rainha 45","Ensemble Mariano 45","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,284
+"Salve Rainha 46","Ensemble Mariano 46","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,285
+"Salve Rainha 47","Ensemble Mariano 47","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,286
+"Salve Rainha 48","Ensemble Mariano 48","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,287
+"Salve Rainha 49","Ensemble Mariano 49","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,288
+"Salve Rainha 50","Ensemble Mariano 50","Tradicional",liturgica,final,mariano,Musicanaliturgia,true,289
+"Requiescat in Pace 1","Coro Fúnebre 1","Tradicional",liturgica,comunhao,funerario,Portal Kairos,true,300
+"Requiescat in Pace 2","Coro Fúnebre 2","Tradicional",liturgica,comunhao,funerario,Portal Kairos,true,301
+"Requiescat in Pace 3","Coro Fúnebre 3","Tradicional",liturgica,comunhao,funerario,Portal Kairos,true,302
+"Requiescat in Pace 4","Coro Fúnebre 4","Tradicional",liturgica,comunhao,funerario,Portal Kairos,true,303
+"Requiescat in Pace 5","Coro Fúnebre 5","Tradicional",liturgica,comunhao,funerario,Portal Kairos,true,304
+"Requiescat in Pace 6","Coro Fúnebre 6","Tradicional",liturgica,comunhao,funerario,Portal Kairos,true,305
+"Requiescat in Pace 7","Coro Fúnebre 7","Tradicional",liturgica,comunhao,funerario,Portal Kairos,true,306
+"Requiescat in Pace 8","Coro Fúnebre 8","Tradicional",liturgica,comunhao,funerario,Portal Kairos,true,307
+"Requiescat in Pace 9","Coro Fúnebre 9","Tradicional",liturgica,comunhao,funerario,Portal Kairos,true,308
+"Requiescat in Pace 10","Coro Fúnebre 10","Tradicional",liturgica,comunhao,funerario,Portal Kairos,true,309
+"Requiescat in Pace 11","Coro Fúnebre 11","Tradicional",liturgica,comunhao,funerario,Portal Kairos,true,310
+"Requiescat in Pace 12","Coro Fúnebre 12","Tradicional",liturgica,comunhao,funerario,Portal Kairos,true,311
+"Requiescat in Pace 13","Coro Fúnebre 13","Tradicional",liturgica,comunhao,funerario,Portal Kairos,true,312
+"Requiescat in Pace 14","Coro Fúnebre 14","Tradicional",liturgica,comunhao,funerario,Portal Kairos,true,313
+"Requiescat in Pace 15","Coro Fúnebre 15","Tradicional",liturgica,comunhao,funerario,Portal Kairos,true,314
+"Requiescat in Pace 16","Coro Fúnebre 16","Tradicional",liturgica,comunhao,funerario,Portal Kairos,true,315
+"Requiescat in Pace 17","Coro Fúnebre 17","Tradicional",liturgica,comunhao,funerario,Portal Kairos,true,316
+"Requiescat in Pace 18","Coro Fúnebre 18","Tradicional",liturgica,comunhao,funerario,Portal Kairos,true,317
+"Requiescat in Pace 19","Coro Fúnebre 19","Tradicional",liturgica,comunhao,funerario,Portal Kairos,true,318
+"Requiescat in Pace 20","Coro Fúnebre 20","Tradicional",liturgica,comunhao,funerario,Portal Kairos,true,319
+"Requiescat in Pace 21","Coro Fúnebre 21","Tradicional",liturgica,comunhao,funerario,Portal Kairos,true,320
+"Requiescat in Pace 22","Coro Fúnebre 22","Tradicional",liturgica,comunhao,funerario,Portal Kairos,true,321
+"Requiescat in Pace 23","Coro Fúnebre 23","Tradicional",liturgica,comunhao,funerario,Portal Kairos,true,322
+"Requiescat in Pace 24","Coro Fúnebre 24","Tradicional",liturgica,comunhao,funerario,Portal Kairos,true,323
+"Requiescat in Pace 25","Coro Fúnebre 25","Tradicional",liturgica,comunhao,funerario,Portal Kairos,true,324
+"Requiescat in Pace 26","Coro Fúnebre 26","Tradicional",liturgica,comunhao,funerario,Portal Kairos,true,325
+"Requiescat in Pace 27","Coro Fúnebre 27","Tradicional",liturgica,comunhao,funerario,Portal Kairos,true,326
+"Requiescat in Pace 28","Coro Fúnebre 28","Tradicional",liturgica,comunhao,funerario,Portal Kairos,true,327
+"Requiescat in Pace 29","Coro Fúnebre 29","Tradicional",liturgica,comunhao,funerario,Portal Kairos,true,328
+"Requiescat in Pace 30","Coro Fúnebre 30","Tradicional",liturgica,comunhao,funerario,Portal Kairos,true,329
+"Bem-vindo ao Reino 1","Coro Batismal 1","Tradicional",louvor,entrada,batizado,Folhetos de Canto,true,180
+"Bem-vindo ao Reino 2","Coro Batismal 2","Tradicional",louvor,entrada,batizado,Folhetos de Canto,true,181
+"Bem-vindo ao Reino 3","Coro Batismal 3","Tradicional",louvor,entrada,batizado,Folhetos de Canto,true,182
+"Bem-vindo ao Reino 4","Coro Batismal 4","Tradicional",louvor,entrada,batizado,Folhetos de Canto,true,183
+"Bem-vindo ao Reino 5","Coro Batismal 5","Tradicional",louvor,entrada,batizado,Folhetos de Canto,true,184
+"Bem-vindo ao Reino 6","Coro Batismal 6","Tradicional",louvor,entrada,batizado,Folhetos de Canto,true,185
+"Bem-vindo ao Reino 7","Coro Batismal 7","Tradicional",louvor,entrada,batizado,Folhetos de Canto,true,186
+"Bem-vindo ao Reino 8","Coro Batismal 8","Tradicional",louvor,entrada,batizado,Folhetos de Canto,true,187
+"Bem-vindo ao Reino 9","Coro Batismal 9","Tradicional",louvor,entrada,batizado,Folhetos de Canto,true,188
+"Bem-vindo ao Reino 10","Coro Batismal 10","Tradicional",louvor,entrada,batizado,Folhetos de Canto,true,189
+"Bem-vindo ao Reino 11","Coro Batismal 11","Tradicional",louvor,entrada,batizado,Folhetos de Canto,true,190
+"Bem-vindo ao Reino 12","Coro Batismal 12","Tradicional",louvor,entrada,batizado,Folhetos de Canto,true,191
+"Bem-vindo ao Reino 13","Coro Batismal 13","Tradicional",louvor,entrada,batizado,Folhetos de Canto,true,192
+"Bem-vindo ao Reino 14","Coro Batismal 14","Tradicional",louvor,entrada,batizado,Folhetos de Canto,true,193
+"Bem-vindo ao Reino 15","Coro Batismal 15","Tradicional",louvor,entrada,batizado,Folhetos de Canto,true,194
+"Bem-vindo ao Reino 16","Coro Batismal 16","Tradicional",louvor,entrada,batizado,Folhetos de Canto,true,195
+"Bem-vindo ao Reino 17","Coro Batismal 17","Tradicional",louvor,entrada,batizado,Folhetos de Canto,true,196
+"Bem-vindo ao Reino 18","Coro Batismal 18","Tradicional",louvor,entrada,batizado,Folhetos de Canto,true,197
+"Bem-vindo ao Reino 19","Coro Batismal 19","Tradicional",louvor,entrada,batizado,Folhetos de Canto,true,198
+"Bem-vindo ao Reino 20","Coro Batismal 20","Tradicional",louvor,entrada,batizado,Folhetos de Canto,true,199
+"Bem-vindo ao Reino 21","Coro Batismal 21","Tradicional",louvor,entrada,batizado,Folhetos de Canto,true,200
+"Bem-vindo ao Reino 22","Coro Batismal 22","Tradicional",louvor,entrada,batizado,Folhetos de Canto,true,201
+"Bem-vindo ao Reino 23","Coro Batismal 23","Tradicional",louvor,entrada,batizado,Folhetos de Canto,true,202
+"Bem-vindo ao Reino 24","Coro Batismal 24","Tradicional",louvor,entrada,batizado,Folhetos de Canto,true,203
+"Bem-vindo ao Reino 25","Coro Batismal 25","Tradicional",louvor,entrada,batizado,Folhetos de Canto,true,204
+"Bem-vindo ao Reino 26","Coro Batismal 26","Tradicional",louvor,entrada,batizado,Folhetos de Canto,true,205
+"Bem-vindo ao Reino 27","Coro Batismal 27","Tradicional",louvor,entrada,batizado,Folhetos de Canto,true,206
+"Bem-vindo ao Reino 28","Coro Batismal 28","Tradicional",louvor,entrada,batizado,Folhetos de Canto,true,207
+"Bem-vindo ao Reino 29","Coro Batismal 29","Tradicional",louvor,entrada,batizado,Folhetos de Canto,true,208
+"Bem-vindo ao Reino 30","Coro Batismal 30","Tradicional",louvor,entrada,batizado,Folhetos de Canto,true,209
+"Canto Gregoriano 1","Monges Beneditinos","Tradicional Medieval",liturgica,entrada,comum,Pixabay,true,250
+"Canto Gregoriano 2","Monges Beneditinos","Tradicional Medieval",liturgica,gloria,comum,Pixabay,true,251
+"Canto Gregoriano 3","Monges Beneditinos","Tradicional Medieval",liturgica,salmo,comum,Pixabay,true,252
+"Canto Gregoriano 4","Monges Beneditinos","Tradicional Medieval",liturgica,ofertorio,comum,Pixabay,true,253
+"Canto Gregoriano 5","Monges Beneditinos","Tradicional Medieval",liturgica,santo,comum,Pixabay,true,254
+"Canto Gregoriano 6","Monges Beneditinos","Tradicional Medieval",liturgica,comunhao,comum,Pixabay,true,255
+"Canto Gregoriano 7","Monges Beneditinos","Tradicional Medieval",liturgica,final,comum,Pixabay,true,256
+"Canto Gregoriano 8","Monges Beneditinos","Tradicional Medieval",liturgica,ato_penitencial,comum,Pixabay,true,257
+"Canto Gregoriano 9","Monges Beneditinos","Tradicional Medieval",liturgica,entrada,comum,Pixabay,true,258
+"Canto Gregoriano 10","Monges Beneditinos","Tradicional Medieval",liturgica,gloria,comum,Pixabay,true,259
+"Canto Gregoriano 11","Monges Beneditinos","Tradicional Medieval",liturgica,salmo,comum,Pixabay,true,260
+"Canto Gregoriano 12","Monges Beneditinos","Tradicional Medieval",liturgica,ofertorio,comum,Pixabay,true,261
+"Canto Gregoriano 13","Monges Beneditinos","Tradicional Medieval",liturgica,santo,comum,Pixabay,true,262
+"Canto Gregoriano 14","Monges Beneditinos","Tradicional Medieval",liturgica,comunhao,comum,Pixabay,true,263
+"Canto Gregoriano 15","Monges Beneditinos","Tradicional Medieval",liturgica,final,comum,Pixabay,true,264
+"Canto Gregoriano 16","Monges Beneditinos","Tradicional Medieval",liturgica,ato_penitencial,comum,Pixabay,true,265
+"Canto Gregoriano 17","Monges Beneditinos","Tradicional Medieval",liturgica,entrada,comum,Pixabay,true,266
+"Canto Gregoriano 18","Monges Beneditinos","Tradicional Medieval",liturgica,gloria,comum,Pixabay,true,267
+"Canto Gregoriano 19","Monges Beneditinos","Tradicional Medieval",liturgica,salmo,comum,Pixabay,true,268
+"Canto Gregoriano 20","Monges Beneditinos","Tradicional Medieval",liturgica,ofertorio,comum,Pixabay,true,269
+"Canto Gregoriano 21","Monges Beneditinos","Tradicional Medieval",liturgica,santo,comum,Pixabay,true,270
+"Canto Gregoriano 22","Monges Beneditinos","Tradicional Medieval",liturgica,comunhao,comum,Pixabay,true,271
+"Canto Gregoriano 23","Monges Beneditinos","Tradicional Medieval",liturgica,final,comum,Pixabay,true,272
+"Canto Gregoriano 24","Monges Beneditinos","Tradicional Medieval",liturgica,ato_penitencial,comum,Pixabay,true,273
+"Canto Gregoriano 25","Monges Beneditinos","Tradicional Medieval",liturgica,entrada,comum,Pixabay,true,274
+"Canto Gregoriano 26","Monges Beneditinos","Tradicional Medieval",liturgica,gloria,comum,Pixabay,true,275
+"Canto Gregoriano 27","Monges Beneditinos","Tradicional Medieval",liturgica,salmo,comum,Pixabay,true,276
+"Canto Gregoriano 28","Monges Beneditinos","Tradicional Medieval",liturgica,ofertorio,comum,Pixabay,true,277
+"Canto Gregoriano 29","Monges Beneditinos","Tradicional Medieval",liturgica,santo,comum,Pixabay,true,278
+"Canto Gregoriano 30","Monges Beneditinos","Tradicional Medieval",liturgica,comunhao,comum,Pixabay,true,279
+"Canto Gregoriano 31","Monges Beneditinos","Tradicional Medieval",liturgica,final,comum,Pixabay,true,280
+"Canto Gregoriano 32","Monges Beneditinos","Tradicional Medieval",liturgica,ato_penitencial,comum,Pixabay,true,281
+"Canto Gregoriano 33","Monges Beneditinos","Tradicional Medieval",liturgica,entrada,comum,Pixabay,true,282
+"Canto Gregoriano 34","Monges Beneditinos","Tradicional Medieval",liturgica,gloria,comum,Pixabay,true,283
+"Canto Gregoriano 35","Monges Beneditinos","Tradicional Medieval",liturgica,salmo,comum,Pixabay,true,284
+"Canto Gregoriano 36","Monges Beneditinos","Tradicional Medieval",liturgica,ofertorio,comum,Pixabay,true,285
+"Canto Gregoriano 37","Monges Beneditinos","Tradicional Medieval",liturgica,santo,comum,Pixabay,true,286
+"Canto Gregoriano 38","Monges Beneditinos","Tradicional Medieval",liturgica,comunhao,comum,Pixabay,true,287
+"Canto Gregoriano 39","Monges Beneditinos","Tradicional Medieval",liturgica,final,comum,Pixabay,true,288
+"Canto Gregoriano 40","Monges Beneditinos","Tradicional Medieval",liturgica,ato_penitencial,comum,Pixabay,true,289
+"Louvor Contemporâneo 1","Banda Contemporânea 1","Moderno",louvor,entrada,comum,Palco MP3,true,240
+"Louvor Contemporâneo 2","Banda Contemporânea 2","Moderno",louvor,gloria,comum,Palco MP3,true,241
+"Louvor Contemporâneo 3","Banda Contemporânea 3","Moderno",louvor,salmo,comum,Palco MP3,true,242
+"Louvor Contemporâneo 4","Banda Contemporânea 4","Moderno",louvor,ofertorio,comum,Palco MP3,true,243
+"Louvor Contemporâneo 5","Banda Contemporânea 5","Moderno",louvor,santo,comum,Palco MP3,true,244
+"Louvor Contemporâneo 6","Banda Contemporânea 6","Moderno",louvor,comunhao,comum,Palco MP3,true,245
+"Louvor Contemporâneo 7","Banda Contemporânea 7","Moderno",louvor,final,comum,Palco MP3,true,246
+"Louvor Contemporâneo 8","Banda Contemporânea 8","Moderno",louvor,ato_penitencial,comum,Palco MP3,true,247
+"Louvor Contemporâneo 9","Banda Contemporânea 9","Moderno",louvor,entrada,comum,Palco MP3,true,248
+"Louvor Contemporâneo 10","Banda Contemporânea 10","Moderno",louvor,gloria,comum,Palco MP3,true,249
+"Louvor Contemporâneo 11","Banda Contemporânea 11","Moderno",louvor,salmo,comum,Palco MP3,true,250
+"Louvor Contemporâneo 12","Banda Contemporânea 12","Moderno",louvor,ofertorio,comum,Palco MP3,true,251
+"Louvor Contemporâneo 13","Banda Contemporânea 13","Moderno",louvor,santo,comum,Palco MP3,true,252
+"Louvor Contemporâneo 14","Banda Contemporânea 14","Moderno",louvor,comunhao,comum,Palco MP3,true,253
+"Louvor Contemporâneo 15","Banda Contemporânea 15","Moderno",louvor,final,comum,Palco MP3,true,254
+"Louvor Contemporâneo 16","Banda Contemporânea 16","Moderno",louvor,ato_penitencial,comum,Palco MP3,true,255
+"Louvor Contemporâneo 17","Banda Contemporânea 17","Moderno",louvor,entrada,comum,Palco MP3,true,256
+"Louvor Contemporâneo 18","Banda Contemporânea 18","Moderno",louvor,gloria,comum,Palco MP3,true,257
+"Louvor Contemporâneo 19","Banda Contemporânea 19","Moderno",louvor,salmo,comum,Palco MP3,true,258
+"Louvor Contemporâneo 20","Banda Contemporânea 20","Moderno",louvor,ofertorio,comum,Palco MP3,true,259
+"Louvor Contemporâneo 21","Banda Contemporânea 21","Moderno",louvor,santo,comum,Palco MP3,true,260
+"Louvor Contemporâneo 22","Banda Contemporânea 22","Moderno",louvor,comunhao,comum,Palco MP3,true,261
+"Louvor Contemporâneo 23","Banda Contemporânea 23","Moderno",louvor,final,comum,Palco MP3,true,262
+"Louvor Contemporâneo 24","Banda Contemporânea 24","Moderno",louvor,ato_penitencial,comum,Palco MP3,true,263
+"Louvor Contemporâneo 25","Banda Contemporânea 25","Moderno",louvor,entrada,comum,Palco MP3,true,264
+"Louvor Contemporâneo 26","Banda Contemporânea 26","Moderno",louvor,gloria,comum,Palco MP3,true,265
+"Louvor Contemporâneo 27","Banda Contemporânea 27","Moderno",louvor,salmo,comum,Palco MP3,true,266
+"Louvor Contemporâneo 28","Banda Contemporânea 28","Moderno",louvor,ofertorio,comum,Palco MP3,true,267
+"Louvor Contemporâneo 29","Banda Contemporânea 29","Moderno",louvor,santo,comum,Palco MP3,true,268
+"Louvor Contemporâneo 30","Banda Contemporânea 30","Moderno",louvor,comunhao,comum,Palco MP3,true,269
+"Louvor Contemporâneo 31","Banda Contemporânea 31","Moderno",louvor,final,comum,Palco MP3,true,270
+"Louvor Contemporâneo 32","Banda Contemporânea 32","Moderno",louvor,ato_penitencial,comum,Palco MP3,true,271
+"Louvor Contemporâneo 33","Banda Contemporânea 33","Moderno",louvor,entrada,comum,Palco MP3,true,272
+"Louvor Contemporâneo 34","Banda Contemporânea 34","Moderno",louvor,gloria,comum,Palco MP3,true,273
+"Louvor Contemporâneo 35","Banda Contemporânea 35","Moderno",louvor,salmo,comum,Palco MP3,true,274
+"Louvor Contemporâneo 36","Banda Contemporânea 36","Moderno",louvor,ofertorio,comum,Palco MP3,true,275
+"Louvor Contemporâneo 37","Banda Contemporânea 37","Moderno",louvor,santo,comum,Palco MP3,true,276
+"Louvor Contemporâneo 38","Banda Contemporânea 38","Moderno",louvor,comunhao,comum,Palco MP3,true,277
+"Louvor Contemporâneo 39","Banda Contemporânea 39","Moderno",louvor,final,comum,Palco MP3,true,278
+"Louvor Contemporâneo 40","Banda Contemporânea 40","Moderno",louvor,ato_penitencial,comum,Palco MP3,true,279
+"Louvor Contemporâneo 41","Banda Contemporânea 41","Moderno",louvor,entrada,comum,Palco MP3,true,280
+"Louvor Contemporâneo 42","Banda Contemporânea 42","Moderno",louvor,gloria,comum,Palco MP3,true,281
+"Louvor Contemporâneo 43","Banda Contemporânea 43","Moderno",louvor,salmo,comum,Palco MP3,true,282
+"Louvor Contemporâneo 44","Banda Contemporânea 44","Moderno",louvor,ofertorio,comum,Palco MP3,true,283
+"Louvor Contemporâneo 45","Banda Contemporânea 45","Moderno",louvor,santo,comum,Palco MP3,true,284
+"Louvor Contemporâneo 46","Banda Contemporânea 46","Moderno",louvor,comunhao,comum,Palco MP3,true,285
+"Louvor Contemporâneo 47","Banda Contemporânea 47","Moderno",louvor,final,comum,Palco MP3,true,286
+"Louvor Contemporâneo 48","Banda Contemporânea 48","Moderno",louvor,ato_penitencial,comum,Palco MP3,true,287
+"Louvor Contemporâneo 49","Banda Contemporânea 49","Moderno",louvor,entrada,comum,Palco MP3,true,288
+"Louvor Contemporâneo 50","Banda Contemporânea 50","Moderno",louvor,gloria,comum,Palco MP3,true,289
+"Louvor Contemporâneo 51","Banda Contemporânea 51","Moderno",louvor,salmo,comum,Palco MP3,true,290
+"Louvor Contemporâneo 52","Banda Contemporânea 52","Moderno",louvor,ofertorio,comum,Palco MP3,true,291
+"Louvor Contemporâneo 53","Banda Contemporânea 53","Moderno",louvor,santo,comum,Palco MP3,true,292
+"Louvor Contemporâneo 54","Banda Contemporânea 54","Moderno",louvor,comunhao,comum,Palco MP3,true,293
+"Louvor Contemporâneo 55","Banda Contemporânea 55","Moderno",louvor,final,comum,Palco MP3,true,294
+"Louvor Contemporâneo 56","Banda Contemporânea 56","Moderno",louvor,ato_penitencial,comum,Palco MP3,true,295
+"Louvor Contemporâneo 57","Banda Contemporânea 57","Moderno",louvor,entrada,comum,Palco MP3,true,296
+"Louvor Contemporâneo 58","Banda Contemporânea 58","Moderno",louvor,gloria,comum,Palco MP3,true,297
+"Louvor Contemporâneo 59","Banda Contemporânea 59","Moderno",louvor,salmo,comum,Palco MP3,true,298
+"Louvor Contemporâneo 60","Banda Contemporânea 60","Moderno",louvor,ofertorio,comum,Palco MP3,true,299

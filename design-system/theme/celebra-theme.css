@@ -1,0 +1,165 @@
+/* CELEBRA V4 - Tema Litúrgico */
+
+:root {
+  /* Cores Litúrgicas Primárias */
+  --celebra-purple: oklch(0.45 0.15 280);      /* Roxo - Penitência */
+  --celebra-gold: oklch(0.75 0.18 70);         /* Ouro - Festas */
+  --celebra-green: oklch(0.55 0.12 140);       /* Verde - Tempo Comum */
+  --celebra-red: oklch(0.55 0.18 20);          /* Vermelho - Mártires */
+  --celebra-white: oklch(0.98 0.001 0);        /* Branco - Ressurreição */
+  --celebra-blue: oklch(0.55 0.15 250);        /* Azul - Mãe de Deus */
+
+  /* Cores Secundárias */
+  --celebra-purple-light: oklch(0.65 0.10 280);
+  --celebra-gold-light: oklch(0.85 0.12 70);
+  --celebra-green-light: oklch(0.70 0.08 140);
+  --celebra-red-light: oklch(0.70 0.12 20);
+  --celebra-blue-light: oklch(0.70 0.10 250);
+
+  /* Cores Neutras */
+  --celebra-dark: oklch(0.15 0.01 280);
+  --celebra-light: oklch(0.98 0.001 0);
+  --celebra-gray: oklch(0.50 0.02 280);
+
+  /* Tipografia */
+  --font-display: "Playfair Display", serif;
+  --font-body: "Inter", sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+
+  /* Espaçamento */
+  --spacing-xs: 0.25rem;
+  --spacing-sm: 0.5rem;
+  --spacing-md: 1rem;
+  --spacing-lg: 1.5rem;
+  --spacing-xl: 2rem;
+  --spacing-2xl: 3rem;
+  --spacing-3xl: 4rem;
+
+  /* Raio de Borda */
+  --radius-sm: 0.25rem;
+  --radius-md: 0.5rem;
+  --radius-lg: 1rem;
+  --radius-xl: 1.5rem;
+  --radius-full: 9999px;
+
+  /* Sombras */
+  --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+  --shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
+
+  /* Transições */
+  --transition-fast: 150ms ease-in-out;
+  --transition-normal: 300ms ease-in-out;
+  --transition-slow: 500ms ease-in-out;
+}
+
+/* Tema Claro (Padrão) */
+:root {
+  --bg-primary: var(--celebra-white);
+  --bg-secondary: oklch(0.96 0.002 280);
+  --text-primary: var(--celebra-dark);
+  --text-secondary: oklch(0.40 0.02 280);
+  --border-color: oklch(0.90 0.003 280);
+  --accent-primary: var(--celebra-purple);
+  --accent-secondary: var(--celebra-gold);
+}
+
+/* Tema Escuro */
+.dark {
+  --bg-primary: var(--celebra-dark);
+  --bg-secondary: oklch(0.22 0.01 280);
+  --text-primary: var(--celebra-white);
+  --text-secondary: oklch(0.70 0.02 280);
+  --border-color: oklch(0.30 0.01 280);
+  --accent-primary: var(--celebra-gold);
+  --accent-secondary: var(--celebra-purple-light);
+}
+
+/* Componentes Base */
+body {
+  font-family: var(--font-body);
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  transition: background-color var(--transition-normal), color var(--transition-normal);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display);
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+code, pre {
+  font-family: var(--font-mono);
+}
+
+/* Animações */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slideInUp {
+  from {
+    transform: translateY(10px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes slideInDown {
+  from {
+    transform: translateY(-10px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}
+
+@keyframes bounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-5px);
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn var(--transition-normal);
+}
+
+.animate-slide-in-up {
+  animation: slideInUp var(--transition-normal);
+}
+
+.animate-slide-in-down {
+  animation: slideInDown var(--transition-normal);
+}
+
+.animate-pulse {
+  animation: pulse var(--transition-slow) infinite;
+}
+
+.animate-bounce {
+  animation: bounce var(--transition-normal) infinite;
+}

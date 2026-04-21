@@ -1,0 +1,267 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800&family=Inter:wght@300;400;500;600;700&family=Lora:wght@400;500;600;700&display=swap');
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+}
+
+:root {
+  /* CELEBRA Color Palette - Roxo + Ouro + Verde + Azul + Rosa */
+  --roxo-liturgico: #6B46C1;
+  --ouro-sagrado: #D4AF37;
+  --verde-esperanca: #10B981;
+  --azul-paz: #3B82F6;
+  --rosa-misericordia: #EC4899;
+  
+  /* Primary: Roxo Litúrgico */
+  --primary: #6B46C1;
+  --primary-foreground: #FFFFFF;
+  --sidebar-primary: #6B46C1;
+  --sidebar-primary-foreground: #FFFFFF;
+  
+  /* Chart colors: Paleta CELEBRA */
+  --chart-1: #6B46C1;  /* Roxo */
+  --chart-2: #D4AF37;  /* Ouro */
+  --chart-3: #10B981;  /* Verde */
+  --chart-4: #3B82F6;  /* Azul */
+  --chart-5: #EC4899;  /* Rosa */
+  
+  --radius: 0.65rem;
+  
+  /* Light theme - Branco e Cinza Claro */
+  --background: #FFFFFF;
+  --foreground: #1F2937;
+  --card: #FFFFFF;
+  --card-foreground: #1F2937;
+  --popover: #FFFFFF;
+  --popover-foreground: #1F2937;
+  
+  /* Secondary: Ouro Sagrado */
+  --secondary: #D4AF37;
+  --secondary-foreground: #1F2937;
+  
+  /* Muted: Cinza Claro */
+  --muted: #F3F4F6;
+  --muted-foreground: #6B7280;
+  
+  /* Accent: Verde Esperança */
+  --accent: #10B981;
+  --accent-foreground: #FFFFFF;
+  
+  --destructive: #EF4444;
+  --destructive-foreground: #FFFFFF;
+  --border: #E5E7EB;
+  --input: #F3F4F6;
+  --ring: #6B46C1;
+  
+  --sidebar: #FFFFFF;
+  --sidebar-foreground: #1F2937;
+  --sidebar-accent: #F3F4F6;
+  --sidebar-accent-foreground: #6B46C1;
+  --sidebar-border: #E5E7EB;
+  --sidebar-ring: #6B46C1;
+}
+
+.dark {
+  /* Dark theme - Azul Claro (Fé e Pureza) com Cores da Estola nos Detalhes */
+  --primary: #10B981;  /* Verde - Tempo Comum */
+  --primary-foreground: #FFFFFF;
+  --sidebar-primary: #3B82F6;  /* Azul - Paz */
+  --sidebar-primary-foreground: #FFFFFF;
+  
+  /* Light blue background - Fé e Pureza */
+  --background: #E0F2FE;  /* Azul muito claro */
+  --foreground: #0C4A6E;  /* Azul escuro para texto */
+  --card: #BAE6FD;  /* Azul claro para cards */
+  --card-foreground: #0C4A6E;  /* Azul escuro para texto dos cards */
+  --popover: #BAE6FD;  /* Azul claro */
+  --popover-foreground: #0C4A6E;  /* Azul escuro */
+  
+  /* Secondary: Cores da Estola nos Detalhes */
+  --secondary: #DC2626;  /* Vermelho - Pentecostes/Mártires */
+  --secondary-foreground: #FFFFFF;
+  
+  /* Muted: Cinza suave */
+  --muted: #7DD3FC;  /* Azul médio */
+  --muted-foreground: #0C4A6E;  /* Azul escuro */
+  
+  /* Accent: Roxo - Advento/Quaresma */
+  --accent: #A855F7;  /* Roxo */
+  --accent-foreground: #FFFFFF;
+  
+  --destructive: #DC2626;  /* Vermelho */
+  --destructive-foreground: #FFFFFF;
+  --border: #7DD3FC;  /* Azul médio */
+  --input: #BAE6FD;  /* Azul claro */
+  --ring: #A855F7;  /* Roxo */
+  
+  --chart-1: #10B981;  /* Verde - Tempo Comum */
+  --chart-2: #FFFFFF;  /* Branco - Natal/Páscoa */
+  --chart-3: #DC2626;  /* Vermelho - Pentecostes */
+  --chart-4: #A855F7;  /* Roxo - Advento/Quaresma */
+  --chart-5: #EC4899;  /* Rosa - Alegria */
+  
+  --sidebar: #BAE6FD;  /* Azul claro */
+  --sidebar-foreground: #0C4A6E;  /* Azul escuro */
+  --sidebar-accent: #E0F2FE;  /* Azul muito claro */
+  --sidebar-accent-foreground: #10B981;  /* Verde */
+  --sidebar-border: #7DD3FC;  /* Azul médio */
+  --sidebar-ring: #A855F7;  /* Roxo */
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+    font-family: 'Inter', sans-serif;
+  }
+  
+  /* Headlines: Playfair Display */
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+  }
+  
+  h1 {
+    @apply text-4xl md:text-5xl lg:text-6xl;
+  }
+  
+  h2 {
+    @apply text-3xl md:text-4xl lg:text-5xl;
+  }
+  
+  h3 {
+    @apply text-2xl md:text-3xl;
+  }
+  
+  h4 {
+    @apply text-xl md:text-2xl;
+  }
+  
+  /* Accents: Lora */
+  .accent-text {
+    font-family: 'Lora', serif;
+    font-weight: 600;
+  }
+  
+  /* Subtle gradient backgrounds */
+  .gradient-roxo-ouro {
+    background: linear-gradient(135deg, #6B46C1 0%, #D4AF37 100%);
+  }
+  
+  .gradient-roxo-paz {
+    background: linear-gradient(135deg, #6B46C1 0%, #3B82F6 100%);
+  }
+  
+  .gradient-verde-esperanca {
+    background: linear-gradient(135deg, #10B981 0%, #6B46C1 100%);
+  }
+  button:not(:disabled),
+  [role="button"]:not([aria-disabled="true"]),
+  [type="button"]:not(:disabled),
+  [type="submit"]:not(:disabled),
+  [type="reset"]:not(:disabled),
+  a[href],
+  select:not(:disabled),
+  input[type="checkbox"]:not(:disabled),
+  input[type="radio"]:not(:disabled) {
+    @apply cursor-pointer;
+  }
+  
+  /* CELEBRA Button Styles */
+  .btn-roxo {
+    @apply bg-[#6B46C1] text-white hover:bg-[#5a37a8] transition-colors;
+  }
+  
+  .btn-ouro {
+    @apply bg-[#D4AF37] text-[#1F2937] hover:bg-[#c49a2e] transition-colors;
+  }
+  
+  .btn-verde {
+    @apply bg-[#10B981] text-white hover:bg-[#059669] transition-colors;
+  }
+}
+
+@layer components {
+  /**
+   * Custom container utility that centers content and adds responsive padding.
+   *
+   * This overrides Tailwind's default container behavior to:
+   * - Auto-center content (mx-auto)
+   * - Add responsive horizontal padding
+   * - Set max-width for large screens
+   *
+   * Usage: <div className="container">...</div>
+   *
+   * For custom widths, use max-w-* utilities directly:
+   * <div className="max-w-6xl mx-auto px-4">...</div>
+   */
+  .container {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1rem; /* 16px - mobile padding */
+    padding-right: 1rem;
+  }
+
+  .flex {
+    min-height: 0;
+    min-width: 0;
+  }
+
+  @media (min-width: 640px) {
+    .container {
+      padding-left: 1.5rem; /* 24px - tablet padding */
+      padding-right: 1.5rem;
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .container {
+      padding-left: 2rem; /* 32px - desktop padding */
+      padding-right: 2rem;
+      max-width: 1280px; /* Standard content width */
+    }
+  }
+}

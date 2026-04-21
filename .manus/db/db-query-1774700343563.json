@@ -1,0 +1,9 @@
+{
+  "query": "ALTER TABLE songs ADD COLUMN IF NOT EXISTS lyrics LONGTEXT, ADD COLUMN IF NOT EXISTS chords LONGTEXT, ADD COLUMN IF NOT EXISTS audioUrl VARCHAR(500);",
+  "command": "mysql --batch --raw --column-names --default-character-set=utf8mb4 --host gateway02.us-east-1.prod.aws.tidbcloud.com --port 4000 --user gDaDZFVakt6NV9S.4c7ea4282de9 --database SQHJGPFJeGtHi4ZtSV5v4R --execute ALTER TABLE songs ADD COLUMN IF NOT EXISTS lyrics LONGTEXT, ADD COLUMN IF NOT EXISTS chords LONGTEXT, ADD COLUMN IF NOT EXISTS audioUrl VARCHAR(500);",
+  "rows": [],
+  "messages": [],
+  "stdout": "",
+  "stderr": "",
+  "execution_time_ms": 356
+}

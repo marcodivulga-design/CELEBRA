@@ -1,0 +1,1 @@
+ALTER TABLE `event_blocks` ADD `audioTransposeKey` varchar(10);

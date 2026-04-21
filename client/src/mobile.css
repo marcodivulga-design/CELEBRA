@@ -1,0 +1,227 @@
+/* Mobile-specific optimizations */
+
+/* Touch-friendly buttons and links */
+@media (max-width: 768px) {
+  button,
+  a,
+  [role="button"] {
+    min-height: 44px;
+    min-width: 44px;
+  }
+
+  /* Prevent zoom on input focus */
+  input,
+  textarea,
+  select {
+    font-size: 16px !important;
+  }
+
+  /* Optimize spacing for mobile */
+  .p-4 {
+    padding: 1rem;
+  }
+
+  .px-4 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .py-3 {
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+  }
+
+  /* Mobile-friendly text sizes */
+  h1 {
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+    line-height: 2rem;
+  }
+
+  h3 {
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+  }
+
+  /* Optimize grid for mobile */
+  .grid {
+    grid-template-columns: 1fr;
+  }
+
+  .md\:grid-cols-2 {
+    grid-template-columns: 1fr;
+  }
+
+  .md\:grid-cols-3 {
+    grid-template-columns: 1fr;
+  }
+
+  .md\:grid-cols-4 {
+    grid-template-columns: 1fr;
+  }
+
+  /* Optimize flex for mobile */
+  .flex-col {
+    flex-direction: column;
+  }
+
+  /* Safe area insets for notch devices */
+  .safe-area-top {
+    padding-top: max(1rem, env(safe-area-inset-top));
+  }
+
+  .safe-area-bottom {
+    padding-bottom: max(1rem, env(safe-area-inset-bottom));
+  }
+
+  .safe-area-left {
+    padding-left: max(1rem, env(safe-area-inset-left));
+  }
+
+  .safe-area-right {
+    padding-right: max(1rem, env(safe-area-inset-right));
+  }
+
+  /* Mobile-friendly modals */
+  .modal {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    max-height: 90vh;
+    border-radius: 1.5rem 1.5rem 0 0;
+  }
+
+  /* Prevent horizontal scroll */
+  body {
+    overflow-x: hidden;
+  }
+
+  /* Touch feedback */
+  button:active,
+  a:active {
+    opacity: 0.8;
+  }
+
+  /* Optimize images for mobile */
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  /* Mobile-friendly cards */
+  .card {
+    border-radius: 0.75rem;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+
+  /* Optimize forms for mobile */
+  input,
+  textarea,
+  select {
+    width: 100%;
+    padding: 0.75rem;
+    border: 1px solid #e5e7eb;
+    border-radius: 0.5rem;
+    font-size: 1rem;
+  }
+
+  /* Mobile-friendly lists */
+  ul,
+  ol {
+    padding-left: 1.5rem;
+  }
+
+  li {
+    margin-bottom: 0.5rem;
+  }
+
+  /* Optimize tables for mobile */
+  table {
+    width: 100%;
+    font-size: 0.875rem;
+  }
+
+  th,
+  td {
+    padding: 0.5rem;
+    text-align: left;
+  }
+
+  /* Mobile-friendly navigation */
+  nav {
+    position: sticky;
+    top: 0;
+    z-index: 40;
+    background-color: white;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+
+  /* Mobile-friendly footer */
+  footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: white;
+    border-top: 1px solid #e5e7eb;
+    padding: 1rem;
+    z-index: 40;
+  }
+
+  /* Add padding to body for fixed footer */
+  body {
+    padding-bottom: 5rem;
+  }
+}
+
+/* Landscape mode optimizations */
+@media (max-height: 500px) and (orientation: landscape) {
+  h1 {
+    font-size: 1.5rem;
+  }
+
+  h2 {
+    font-size: 1.25rem;
+  }
+
+  .p-4 {
+    padding: 0.5rem;
+  }
+}
+
+/* Large mobile devices (tablets) */
+@media (min-width: 768px) and (max-width: 1024px) {
+  .grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .md\:grid-cols-3 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .md\:grid-cols-4 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Print styles for mobile */
+@media print {
+  body {
+    background-color: white;
+  }
+
+  nav,
+  footer,
+  .no-print {
+    display: none;
+  }
+
+  .print\:block {
+    display: block;
+  }
+}
