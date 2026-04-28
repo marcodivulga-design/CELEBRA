@@ -1,1 +1,59 @@
-/**\n * Security Configuration\n * Implementa rate limiting, CORS, CSRF e outras proteções\n */\n\nimport rateLimit from \"express-rate-limit\";\nimport helmet from \"helmet\";\nimport cors from \"cors\";\nimport { Express } from \"express\";\n\n/**\n * Rate Limiting Configurations\n */\nexport const rateLimiters = {\n  // General API rate limiter\n  general: rateLimit({\n    windowMs: 15 * 60 * 1000, // 15 minutes\n    max: 100, // limit each IP to 100 requests per windowMs\n    message: \"Too many requests from this IP, please try again later.\",\n    standardHeaders: true, // Return rate limit info in the `RateLimit-*` headers\n    legacyHeaders: false, // Disable the `X-RateLimit-*` headers\n  }),\n\n  // Strict rate limiter for auth endpoints\n  auth: rateLimit({\n    windowMs: 15 * 60 * 1000, // 15 minutes\n    max: 5, // limit each IP to 5 requests per windowMs\n    message: \"Too many login attempts, please try again later.\",\n    skipSuccessfulRequests: true, // Don't count successful requests\n  }),\n\n  // Strict rate limiter for password reset\n  passwordReset: rateLimit({\n    windowMs: 60 * 60 * 1000, // 1 hour\n    max: 3, // limit each IP to 3 requests per hour\n    message: \"Too many password reset attempts, please try again later.\",\n  }),\n\n  // Moderate rate limiter for API endpoints\n  api: rateLimit({\n    windowMs: 1 * 60 * 1000, // 1 minute\n    max: 30, // limit each IP to 30 requests per minute\n    message: \"Too many API requests, please try again later.\",\n  }),\n\n  // Strict rate limiter for file uploads\n  upload: rateLimit({\n    windowMs: 60 * 60 * 1000, // 1 hour\n    max: 10, // limit each IP to 10 uploads per hour\n    message: \"Too many uploads, please try again later.\",\n  }),\n};\n\n/**\n * CORS Configuration\n */\nexport const corsOptions = {\n  origin: process.env.FRONTEND_URL || \"http://localhost:5173\",\n  credentials: true,\n  optionsSuccessStatus: 200,\n  methods: [\"GET\", \"POST\", \"PUT\", \"DELETE\", \"PATCH\", \"OPTIONS\"],\n  allowedHeaders: [\n    \"Content-Type\",\n    \"Authorization\",\n    \"X-Requested-With\",\n    \"Accept\",\n  ],\n};\n\n/**\n * Helmet Configuration (Security Headers)\n */\nexport const helmetConfig = {\n  contentSecurityPolicy: {\n    directives: {\n      defaultSrc: [\"'self'\"],\n      scriptSrc: [\n        \"'self'\",\n        \"'unsafe-inline'\",\n        \"https://cdn.jsdelivr.net\",\n        \"https://cdn.tailwindcss.com\",\n      ],\n      styleSrc: [\n        \"'self'\",\n        \"'unsafe-inline'\",\n        \"https://cdn.jsdelivr.net\",\n        \"https://fonts.googleapis.com\",\n      ],\n      fontSrc: [\n        \"'self'\",\n        \"https://fonts.gstatic.com\",\n        \"https://cdn.jsdelivr.net\",\n      ],\n      imgSrc: [\"'self'\", \"data:\", \"https:\"],\n      connectSrc: [\"'self'\", process.env.API_URL || \"http://localhost:3000\"],\n      frameSrc: [\"'self'\", \"https://www.youtube.com\"],\n      mediaSrc: [\"'self'\", \"https:\"],\n    },\n  },\n  crossOriginEmbedderPolicy: false,\n  crossOriginResourcePolicy: { policy: \"cross-origin\" },\n  referrerPolicy: { policy: \"strict-origin-when-cross-origin\" },\n  hsts: {\n    maxAge: 31536000, // 1 year\n    includeSubDomains: true,\n    preload: true,\n  },\n  frameguard: { action: \"deny\" },\n  noSniff: true,\n  xssFilter: true,\n};\n\n/**\n * Setup Security Middleware\n */\nexport function setupSecurityMiddleware(app: Express): void {\n  // Helmet for security headers\n  app.use(helmet(helmetConfig));\n\n  // CORS\n  app.use(cors(corsOptions));\n\n  // General rate limiting\n  app.use(\"/api/\", rateLimiters.general);\n\n  // Auth rate limiting\n  app.use(\"/api/oauth/\", rateLimiters.auth);\n  app.use(\"/api/auth/\", rateLimiters.auth);\n\n  // Password reset rate limiting\n  app.use(\"/api/password-reset/\", rateLimiters.passwordReset);\n\n  // Upload rate limiting\n  app.use(\"/api/upload/\", rateLimiters.upload);\n\n  // Security headers\n  app.use((req, res, next) => {\n    // Prevent clickjacking\n    res.setHeader(\"X-Frame-Options\", \"DENY\");\n\n    // Prevent MIME type sniffing\n    res.setHeader(\"X-Content-Type-Options\", \"nosniff\");\n\n    // Enable XSS protection\n    res.setHeader(\"X-XSS-Protection\", \"1; mode=block\");\n\n    // Referrer policy\n    res.setHeader(\"Referrer-Policy\", \"strict-origin-when-cross-origin\");\n\n    // Permissions policy\n    res.setHeader(\n      \"Permissions-Policy\",\n      \"geolocation=(), microphone=(), camera=()\"\n    );\n\n    next();\n  });\n}\n\n/**\n * Input Validation & Sanitization\n */\nexport function validateInput(input: unknown): boolean {\n  if (typeof input === \"string\") {\n    // Check for common XSS patterns\n    const xssPatterns = [\n      /<script[^>]*>.*?<\\/script>/gi,\n      /javascript:/gi,\n      /on\\w+\\s*=/gi,\n      /<iframe[^>]*>.*?<\\/iframe>/gi,\n      /<embed[^>]*>/gi,\n      /<object[^>]*>.*?<\\/object>/gi,\n    ];\n\n    for (const pattern of xssPatterns) {\n      if (pattern.test(input)) {\n        return false;\n      }\n    }\n  }\n\n  return true;\n}\n\n/**\n * CSRF Token Generation\n */\nexport function generateCSRFToken(): string {\n  const crypto = require(\"crypto\");\n  return crypto.randomBytes(32).toString(\"hex\");\n}\n\n/**\n * Verify CSRF Token\n */\nexport function verifyCSRFToken(token: string, storedToken: string): boolean {\n  return token === storedToken;\n}\n\n/**\n * Password Validation\n */\nexport function validatePassword(password: string): {\n  isValid: boolean;\n  errors: string[];\n} {\n  const errors: string[] = [];\n\n  if (password.length < 8) {\n    errors.push(\"Password must be at least 8 characters long\");\n  }\n\n  if (!/[A-Z]/.test(password)) {\n    errors.push(\"Password must contain at least one uppercase letter\");\n  }\n\n  if (!/[a-z]/.test(password)) {\n    errors.push(\"Password must contain at least one lowercase letter\");\n  }\n\n  if (!/[0-9]/.test(password)) {\n    errors.push(\"Password must contain at least one number\");\n  }\n\n  if (!/[!@#$%^&*]/.test(password)) {\n    errors.push(\"Password must contain at least one special character (!@#$%^&*)\");\n  }\n\n  return {\n    isValid: errors.length === 0,\n    errors,\n  };\n}\n\n/**\n * Email Validation\n */\nexport function validateEmail(email: string): boolean {\n  const emailRegex = /^[^\\s@]+@[^\\s@]+\\.[^\\s@]+$/;\n  return emailRegex.test(email);\n}\n\n/**\n * SQL Injection Prevention\n */\nexport function sanitizeSQLInput(input: string): string {\n  return input\n    .replace(/'/g, \"''\")\n    .replace(/\\\\/g, \"\\\\\\\\\")\n    .replace(/\"/g, '\\\\\"')\n    .replace(/\\0/g, \"\\\\0\")\n    .replace(/\\n/g, \"\\\\n\")\n    .replace(/\\r/g, \"\\\\r\")\n    .replace(/\\x1a/g, \"\\\\Z\");\n}\n"
+import { Express } from 'express';
+
+export function setupSecurityHeaders(app: Express) {
+  // Security headers
+  app.use((req, res, next) => {
+    // Prevent XSS
+    res.setHeader('X-Content-Type-Options', 'nosniff');
+    res.setHeader('X-Frame-Options', 'DENY');
+    res.setHeader('X-XSS-Protection', '1; mode=block');
+    
+    // CORS
+    res.setHeader('Access-Control-Allow-Origin', process.env.FRONTEND_URL || '*');
+    res.setHeader('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, OPTIONS');
+    res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Authorization');
+    
+    // CSP
+    res.setHeader('Content-Security-Policy', "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'");
+    
+    // HSTS
+    res.setHeader('Strict-Transport-Security', 'max-age=31536000; includeSubDomains');
+    
+    next();
+  });
+}
+
+export function setupRateLimiting(app: Express) {
+  const requestCounts = new Map<string, number[]>();
+  const WINDOW_MS = 60 * 1000; // 1 minute
+  const MAX_REQUESTS = 100;
+
+  app.use((req, res, next) => {
+    const ip = req.ip || 'unknown';
+    const now = Date.now();
+    
+    if (!requestCounts.has(ip)) {
+      requestCounts.set(ip, []);
+    }
+    
+    const timestamps = requestCounts.get(ip)!;
+    const recentRequests = timestamps.filter(t => now - t < WINDOW_MS);
+    
+    if (recentRequests.length >= MAX_REQUESTS) {
+      return res.status(429).json({ error: 'Too many requests' });
+    }
+    
+    recentRequests.push(now);
+    requestCounts.set(ip, recentRequests);
+    
+    next();
+  });
+}
+
+export function validateInput(data: any, schema: Record<string, string>): boolean {
+  for (const [key, type] of Object.entries(schema)) {
+    if (!(key in data)) return false;
+    if (typeof data[key] !== type) return false;
+  }
+  return true;
+}
