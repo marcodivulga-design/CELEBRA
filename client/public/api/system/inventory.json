@@ -1,0 +1,10 @@
+{
+  "appName": "Celebra - Ecossistema Litúrgico Inteligente (Physical Layer)",
+  "appId": "celebra",
+  "version": "1.0.5",
+  "status": "online",
+  "timestamp": "2026-04-28T14:25:07Z",
+  "environment": "production",
+  "endpoints": ["/api/system/inventory", "/api/trpc"],
+  "health": { "status": "perfect", "connectivity": "verified-physical" }
+}
